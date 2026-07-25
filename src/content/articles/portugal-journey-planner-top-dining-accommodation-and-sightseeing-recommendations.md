@@ -5,7 +5,7 @@ postSlug: "portugal-journey-planner-top-dining-accommodation-and-sightseeing-rec
 image: "/images/Best-Cities-in-Portugal-to-Get-Off-the-Beaten-Path-Global-Debauchery.jpg"
 categories: ["Destinations", "Europe"]
 categorySlugs: ["destinations", "europe"]
-excerpt: "Le Portugal captive par ses côtes à couper le souffle, sa cuisine délicieuse, ses habitants accueillants et sa riche tapisserie culturelle. Vous prévoyez un voyage dans ce pays enchanteur ou êtes simplement curieux de ses points forts ? Ce guide dévoile les meilleurs endroits du Portugal, des villes animées et des plages sereines aux sentiers de randonnée pittoresques. Que vous recherchiez des vacances tranquilles en bord de mer&#8230;"
+excerpt: "Le Portugal captive par ses côtes à couper le souffle, sa cuisine délicieuse, ses habitants accueillants et sa riche tapisserie culturelle. Vous prévoyez un voyage dans ce pays enchanteur ou êtes simplement curieux de ses points forts ? Ce guide dévoile les meilleurs endroits du Portugal, des villes animées et des plages sereines aux sentiers de randonnée pittoresques. Que vous recherchiez des vacances tranquilles en bord de mer…"
 urlPath: "/portugal-journey-planner-top-dining-accommodation-and-sightseeing-recommendations/"
 ---
 

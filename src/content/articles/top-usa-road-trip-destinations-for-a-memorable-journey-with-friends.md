@@ -5,7 +5,7 @@ postSlug: "top-usa-road-trip-destinations-for-a-memorable-journey-with-friends"
 image: "/images/10-Most-Popular-Neighbourhoods-in-New-Orleans-Where-to-Stay-in-New-Orleans-–-Go-Guides.jpg"
 categories: ["Road Trip"]
 categorySlugs: ["road-trip"]
-excerpt: "Vous vous préparez pour une aventure de road trip avec vos amis ? Bonne nouvelle, vous êtes au bon endroit pour trouver l'inspiration ! J'ai parcouru diverses sources et rassemblé les meilleurs endroits aux États-Unis à visiter absolument lors d'un road trip entre amis. Étant en dernière année d'université&#8230;"
+excerpt: "Vous vous préparez pour une aventure de road trip avec vos amis ? Bonne nouvelle, vous êtes au bon endroit pour trouver l'inspiration ! J'ai parcouru diverses sources et rassemblé les meilleurs endroits aux États-Unis à visiter absolument lors d'un road trip entre amis. Étant en dernière année d'université…"
 urlPath: "/top-usa-road-trip-destinations-for-a-memorable-journey-with-friends/"
 ---
 

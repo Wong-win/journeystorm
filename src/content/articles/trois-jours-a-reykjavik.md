@@ -5,7 +5,7 @@ postSlug: "trois-jours-a-reykjavik"
 image: "/images/caption-37-1024x683.jpg"
 categories: ["Europe"]
 categorySlugs: ["europe"]
-excerpt: "&nbsp; Introduction Il n&#8217;y a pas de durée parfaite pour visiter l&#8217;Islande, mais une escapade de trois jours à Reykjavik est idéale. Vous pourrez découvrir suffisamment la ville et ses environs pour vous donner envie de revenir. Avec le programme Stopover d&#8217;Icelandair, qui permet aux passagers transatlantiques de faire une&#8230;"
+excerpt: "  Introduction Il n’y a pas de durée parfaite pour visiter l’Islande, mais une escapade de trois jours à Reykjavik est idéale. Vous pourrez découvrir suffisamment la ville et ses environs pour vous donner envie de revenir. Avec le programme Stopover d’Icelandair, qui permet aux passagers transatlantiques de faire une…"
 urlPath: "/trois-jours-a-reykjavik/"
 ---
 

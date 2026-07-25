@@ -5,7 +5,7 @@ postSlug: "captivating-destinations-to-visit-during-a-canadian-road-adventure"
 image: "/images/Cathedral-Grove-U.S.-National-Park-Service.jpg"
 categories: ["Road Trip"]
 categorySlugs: ["road-trip"]
-excerpt: "Le Canada, le deuxième plus grand pays du monde, offre un éventail de joyaux, célèbres ou cachés, aux voyageurs qui entreprennent un périple routier canadien. L'immensité du pays garantit une multitude d'attractions, assurant une expérience enrichissante aux visiteurs. Décider où s'arrêter lors de votre long voyage routier au Canada peut être un défi&#8230;"
+excerpt: "Le Canada, le deuxième plus grand pays du monde, offre un éventail de joyaux, célèbres ou cachés, aux voyageurs qui entreprennent un périple routier canadien. L'immensité du pays garantit une multitude d'attractions, assurant une expérience enrichissante aux visiteurs. Décider où s'arrêter lors de votre long voyage routier au Canada peut être un défi…"
 urlPath: "/captivating-destinations-to-visit-during-a-canadian-road-adventure/"
 ---
 

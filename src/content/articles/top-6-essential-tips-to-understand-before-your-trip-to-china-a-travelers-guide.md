@@ -5,7 +5,7 @@ postSlug: "top-6-essential-tips-to-understand-before-your-trip-to-china-a-travel
 image: "/images/Stunning-Guilin-Legends-Of-The-Limestone-Peaks-And-Caves.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "Voyager en Chine offre une expérience riche et complexe, incroyablement gratifiante. Ronan, un visiteur fréquent, partage six conseils essentiels pour améliorer votre séjour, allant des conseils pratiques sur les cartes SIM et le change de devises à la découverte des merveilles naturelles et culturelles de la Chine. S&#8217;orienter lors de votre visite en Chine Lorsque vous visitez la Chine&#8230;"
+excerpt: "Voyager en Chine offre une expérience riche et complexe, incroyablement gratifiante. Ronan, un visiteur fréquent, partage six conseils essentiels pour améliorer votre séjour, allant des conseils pratiques sur les cartes SIM et le change de devises à la découverte des merveilles naturelles et culturelles de la Chine. S’orienter lors de votre visite en Chine Lorsque vous visitez la Chine…"
 urlPath: "/top-6-essential-tips-to-understand-before-your-trip-to-china-a-travelers-guide/"
 ---
 

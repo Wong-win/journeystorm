@@ -4,7 +4,7 @@ date: "2025-11-10"
 postSlug: "your-ultimate-guide-to-a-12-stop-pacific-coast-road-trip"
 categories: ["Road Trip"]
 categorySlugs: ["road-trip"]
-excerpt: "Un road trip sur la côte Pacifique se distingue non seulement comme l'une des plus belles expéditions routières au monde, mais occupe également une place de choix sur la liste de souhaits de la plupart des voyageurs. L'itinéraire offre un paysage diversifié, allant des plages baignées de soleil et des palmiers ondulants aux côtes brumeuses ornées de majestueux&#8230;"
+excerpt: "Un road trip sur la côte Pacifique se distingue non seulement comme l'une des plus belles expéditions routières au monde, mais occupe également une place de choix sur la liste de souhaits de la plupart des voyageurs. L'itinéraire offre un paysage diversifié, allant des plages baignées de soleil et des palmiers ondulants aux côtes brumeuses ornées de majestueux…"
 urlPath: "/your-ultimate-guide-to-a-12-stop-pacific-coast-road-trip/"
 ---
 

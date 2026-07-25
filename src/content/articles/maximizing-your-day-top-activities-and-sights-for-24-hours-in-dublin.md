@@ -5,7 +5,7 @@ postSlug: "maximizing-your-day-top-activities-and-sights-for-24-hours-in-dublin"
 image: "/images/Guided-Walking-Tour-of-Book-of-Kells-and-Trinity-College-Dublin-2023-Viator.jpg"
 categories: ["Destinations", "Europe"]
 categorySlugs: ["destinations", "europe"]
-excerpt: "Si vous n&#8217;avez qu&#8217;une journée pour découvrir le charme de Dublin, ne vous inquiétez pas. Ce guide concis est conçu pour vous aider à profiter pleinement de l&#8217;essence de la capitale irlandaise en un temps limité, en couvrant à la fois les aventures en plein air et les monuments incontournables. Optimisez votre temps à&#8230;"
+excerpt: "Si vous n’avez qu’une journée pour découvrir le charme de Dublin, ne vous inquiétez pas. Ce guide concis est conçu pour vous aider à profiter pleinement de l’essence de la capitale irlandaise en un temps limité, en couvrant à la fois les aventures en plein air et les monuments incontournables. Optimisez votre temps à…"
 urlPath: "/maximizing-your-day-top-activities-and-sights-for-24-hours-in-dublin/"
 ---
 

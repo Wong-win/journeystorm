@@ -5,7 +5,7 @@ postSlug: "exploring-chiang-mai-your-guide-to-thailands-must-see-destinations"
 image: "/images/1063-Chiang-Mai-Tuk-Tuk-Images-Stock-Photos-3D-objects-Vectors-Shutterstock.jpg"
 categories: ["Asia", "Destinations"]
 categorySlugs: ["asia", "destinations"]
-excerpt: "Bienvenue à Chiang Mai, le joyau dynamique du nord de la Thaïlande&#160;! Nichée dans la région septentrionale, cette ville enchanteresse est célèbre pour son histoire profondément enracinée et sa riche tapisserie culturelle. Chiang Mai harmonise parfaitement l&#8217;attrait de la culture thaïlandaise traditionnelle avec le confort contemporain, ce qui en fait une destination idéale pour les voyageurs. Que vous souhaitiez&#8230;"
+excerpt: "Bienvenue à Chiang Mai, le joyau dynamique du nord de la Thaïlande ! Nichée dans la région septentrionale, cette ville enchanteresse est célèbre pour son histoire profondément enracinée et sa riche tapisserie culturelle. Chiang Mai harmonise parfaitement l’attrait de la culture thaïlandaise traditionnelle avec le confort contemporain, ce qui en fait une destination idéale pour les voyageurs. Que vous souhaitiez…"
 urlPath: "/exploring-chiang-mai-your-guide-to-thailands-must-see-destinations/"
 ---
 

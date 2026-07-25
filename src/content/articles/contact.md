@@ -4,7 +4,7 @@ date: "2017-09-05"
 postSlug: "contact"
 categories: []
 categorySlugs: []
-excerpt: "We&#8217;re here to help you on your journey! If you have any questions, feedback, or just want to say hello, don&#8217;t hesitate to reach out. Our team at JourneyStorm is dedicated to providing you with the best experience and is eager to assist you. For all inquiries, please email us&#8230;"
+excerpt: "We’re here to help you on your journey! If you have any questions, feedback, or just want to say hello, don’t hesitate to reach out. Our team at JourneyStorm is dedicated to providing you with the best experience and is eager to assist you. For all inquiries, please email us…"
 urlPath: "/contact/"
 ---
 

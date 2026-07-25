@@ -5,7 +5,7 @@ postSlug: "top-cities-worldwide-for-taking-guided-walking-tours"
 image: "/images/12-Best-Things-to-Do-in-Edinburgh-What-is-Edinburgh-Most-Famous-For-–-Go-Guides.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "Se promener dans une ville est une expérience incomparable. Cela vous offre une perspective rapprochée, vous permettant de vous imprégner pleinement des éléments visuels, auditifs et olfactifs de l'environnement. Ce rythme plus lent permet de découvrir des nuances souvent négligées lorsqu'on utilise des moyens de transport plus rapides. Voici un aperçu de certaines des&#8230;"
+excerpt: "Se promener dans une ville est une expérience incomparable. Cela vous offre une perspective rapprochée, vous permettant de vous imprégner pleinement des éléments visuels, auditifs et olfactifs de l'environnement. Ce rythme plus lent permet de découvrir des nuances souvent négligées lorsqu'on utilise des moyens de transport plus rapides. Voici un aperçu de certaines des…"
 urlPath: "/top-cities-worldwide-for-taking-guided-walking-tours/"
 ---
 

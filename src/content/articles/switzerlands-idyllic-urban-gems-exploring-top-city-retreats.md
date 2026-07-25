@@ -5,7 +5,7 @@ postSlug: "switzerlands-idyllic-urban-gems-exploring-top-city-retreats"
 image: "/images/lucerne-4340260_1920-1-1024x683.jpg"
 categories: ["Destinations", "Europe"]
 categorySlugs: ["destinations", "europe"]
-excerpt: "Quand on pense à la Suisse, on imagine de hautes montagnes, des lacs sereins et des villages charmants. Mais il y a bien plus. Les villes suisses sont un mélange harmonieux de nature préservée et de vie urbaine dynamique. Ces centres de civilisation sont un véritable trésor de merveilles historiques, de richesse culturelle et de splendeurs architecturales qui captivent tous ceux qui&#8230;"
+excerpt: "Quand on pense à la Suisse, on imagine de hautes montagnes, des lacs sereins et des villages charmants. Mais il y a bien plus. Les villes suisses sont un mélange harmonieux de nature préservée et de vie urbaine dynamique. Ces centres de civilisation sont un véritable trésor de merveilles historiques, de richesse culturelle et de splendeurs architecturales qui captivent tous ceux qui…"
 urlPath: "/switzerlands-idyllic-urban-gems-exploring-top-city-retreats/"
 ---
 

@@ -5,7 +5,7 @@ postSlug: "travel-guide-to-namaqualand-south-africa-insiders-advice"
 image: "https://cdn.audleytravel.com/1050/750/79/1327350-the-flowers-in-namaqualand-south-africa.webp"
 categories: ["Africa", "Destinations", "Travel Tips"]
 categorySlugs: ["africa", "destinations", "travel-tips"]
-excerpt: "Embarquez pour un voyage exaltant au Namaqualand dans le Cap-Nord, une région enchanteresse qui ne manquera pas de captiver votre cœur et d'éveiller un profond sentiment d'émerveillement. Imaginez-vous au milieu des champs infinis de fleurs sauvages de la vallée de Biedouw, un spectacle époustouflant de teintes vives peignant le paysage, encadré par des montagnes majestueuses, de vastes côtes,&#8230;"
+excerpt: "Embarquez pour un voyage exaltant au Namaqualand dans le Cap-Nord, une région enchanteresse qui ne manquera pas de captiver votre cœur et d'éveiller un profond sentiment d'émerveillement. Imaginez-vous au milieu des champs infinis de fleurs sauvages de la vallée de Biedouw, un spectacle époustouflant de teintes vives peignant le paysage, encadré par des montagnes majestueuses, de vastes côtes,…"
 urlPath: "/travel-guide-to-namaqualand-south-africa-insiders-advice/"
 ---
 

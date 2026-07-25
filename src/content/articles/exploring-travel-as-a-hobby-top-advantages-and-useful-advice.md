@@ -5,7 +5,7 @@ postSlug: "exploring-travel-as-a-hobby-top-advantages-and-useful-advice"
 image: "/images/Is-Travelling-a-Hobby-or-Something-Different-Altogether-—-Whats-Danny-Doing.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "Aspirez-vous à quelque chose de différent de votre vie quotidienne, en quête d'aventure et de sensations fortes ? Avez-vous déjà envisagé l'idée de voyager non seulement comme une évasion occasionnelle, mais comme un passe-temps ou même une carrière ? Laissez-moi vous assurer que c'est bien plus que simplement sauter d'une destination à l'autre&#8230;"
+excerpt: "Aspirez-vous à quelque chose de différent de votre vie quotidienne, en quête d'aventure et de sensations fortes ? Avez-vous déjà envisagé l'idée de voyager non seulement comme une évasion occasionnelle, mais comme un passe-temps ou même une carrière ? Laissez-moi vous assurer que c'est bien plus que simplement sauter d'une destination à l'autre…"
 urlPath: "/exploring-travel-as-a-hobby-top-advantages-and-useful-advice/"
 ---
 

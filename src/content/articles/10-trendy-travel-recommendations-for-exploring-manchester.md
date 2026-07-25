@@ -5,7 +5,7 @@ postSlug: "10-trendy-travel-recommendations-for-exploring-manchester"
 image: "/images/10-Most-Iconic-Buildings-in-Manchester-Discover-the-Most-Famous-Landmarks-of-Manchester-–-Go-Guides.jpg"
 categories: ["Destinations", "Europe"]
 categorySlugs: ["destinations", "europe"]
-excerpt: "Pousse-toi, Londres – Manchester, avec ses bars animés, ses cafés branchés et sa scène musicale légendaire, devient rapidement la destination la plus en vogue du Royaume-Uni. Fière d&#8217;abriter l&#8217;Université de Manchester et affectueusement surnommée &#8216;La capitale du Nord&#8217;, Manchester est une ville riche en culture et&#8230;"
+excerpt: "Pousse-toi, Londres – Manchester, avec ses bars animés, ses cafés branchés et sa scène musicale légendaire, devient rapidement la destination la plus en vogue du Royaume-Uni. Fière d’abriter l’Université de Manchester et affectueusement surnommée ‘La capitale du Nord’, Manchester est une ville riche en culture et…"
 urlPath: "/10-trendy-travel-recommendations-for-exploring-manchester/"
 ---
 

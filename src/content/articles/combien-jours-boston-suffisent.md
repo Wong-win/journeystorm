@@ -4,7 +4,7 @@ date: "2026-04-26"
 postSlug: "combien-jours-boston-suffisent"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "Boston a l&#8217;histoire intégrée dans chaque bloc. Vous pouvez parcourir le Freedom Trail le matin, jeter un sachet de thé métaphorique dans le port, et avoir encore le temps de trouver le meilleur lobster roll de la ville avant la fin de l&#8217;après-midi. Mais ce n&#8217;est pas une ville figée&#8230;"
+excerpt: "Boston a l’histoire intégrée dans chaque bloc. Vous pouvez parcourir le Freedom Trail le matin, jeter un sachet de thé métaphorique dans le port, et avoir encore le temps de trouver le meilleur lobster roll de la ville avant la fin de l’après-midi. Mais ce n’est pas une ville figée…"
 urlPath: "/combien-jours-boston-suffisent/"
 ---
 

@@ -4,7 +4,7 @@ date: "2026-01-05"
 postSlug: "ou-aller-pour-votre-premier-safari-en-afrique"
 categories: ["Africa", "Destinations"]
 categorySlugs: ["africa", "destinations"]
-excerpt: "&nbsp; Vous rêvez de voir un lion dans la nature ? Génial. Maintenant, il vous faut choisir où aller pour votre premier safari. Quels pays offrent une introduction facile au continent pour les débutants et sont les meilleurs pour observer la faune ? Voici un guide pour planifier votre premier&#8230;"
+excerpt: "  Vous rêvez de voir un lion dans la nature ? Génial. Maintenant, il vous faut choisir où aller pour votre premier safari. Quels pays offrent une introduction facile au continent pour les débutants et sont les meilleurs pour observer la faune ? Voici un guide pour planifier votre premier…"
 urlPath: "/ou-aller-pour-votre-premier-safari-en-afrique/"
 ---
 

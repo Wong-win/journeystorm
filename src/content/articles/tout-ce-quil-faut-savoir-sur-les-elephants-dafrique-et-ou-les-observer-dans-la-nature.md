@@ -4,7 +4,7 @@ date: "2026-01-29"
 postSlug: "tout-ce-quil-faut-savoir-sur-les-elephants-dafrique-et-ou-les-observer-dans-la-nature"
 categories: ["Africa", "Destinations"]
 categorySlugs: ["africa", "destinations"]
-excerpt: "&nbsp; L&#8217;éléphant d&#8217;Afrique est peut-être le symbole le plus durable de la grâce et de la fragilité de la nature. Ces géants doux sont les plus grands mammifères terrestres de la planète et une vue courante pour ceux qui partent en safari en Afrique. Pourtant, ces magnifiques créatures sont confrontées&#8230;"
+excerpt: "  L’éléphant d’Afrique est peut-être le symbole le plus durable de la grâce et de la fragilité de la nature. Ces géants doux sont les plus grands mammifères terrestres de la planète et une vue courante pour ceux qui partent en safari en Afrique. Pourtant, ces magnifiques créatures sont confrontées…"
 urlPath: "/tout-ce-quil-faut-savoir-sur-les-elephants-dafrique-et-ou-les-observer-dans-la-nature/"
 ---
 

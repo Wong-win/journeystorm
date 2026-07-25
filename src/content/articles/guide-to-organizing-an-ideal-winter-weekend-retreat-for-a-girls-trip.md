@@ -4,7 +4,7 @@ date: "2025-09-15"
 postSlug: "guide-to-organizing-an-ideal-winter-weekend-retreat-for-a-girls-trip"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "Quoi de plus agréable que d'emmener vos amies les plus chères pour un week-end de détente et de plaisir ? Imaginez-vous échapper dans un cadre tranquille, que ce soit un vignoble, un havre au bord d'un lac ou un refuge douillet en forêt, où le chaos de la vie quotidienne s'estompe. Les week-ends d'hiver sont faits pour se détendre&#8230;"
+excerpt: "Quoi de plus agréable que d'emmener vos amies les plus chères pour un week-end de détente et de plaisir ? Imaginez-vous échapper dans un cadre tranquille, que ce soit un vignoble, un havre au bord d'un lac ou un refuge douillet en forêt, où le chaos de la vie quotidienne s'estompe. Les week-ends d'hiver sont faits pour se détendre…"
 urlPath: "/guide-to-organizing-an-ideal-winter-weekend-retreat-for-a-girls-trip/"
 ---
 

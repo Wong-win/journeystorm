@@ -5,7 +5,7 @@ postSlug: "your-essential-guide-to-exploring-manta-ecuador"
 image: "https://ameliaandjp.com/wp-content/uploads/2023/01/Manta-Ecuador-Cover.jpg"
 categories: ["America", "Destinations"]
 categorySlugs: ["america", "destinations"]
-excerpt: "Nichée sur la côte Pacifique de l&#8217;Équateur, Manta demeure un joyau souvent négligé, éclipsé par la renommée des Galápagos et de Quito. Pourtant, pour ceux qui s&#8217;y aventurent, Manta offre une délicieuse palette d&#8217;expériences. Des amateurs de gastronomie en quête des fruits de mer les plus frais aux aventuriers surfant sur les vagues, en passant par ceux qui s&#8217;immergent dans&#8230;"
+excerpt: "Nichée sur la côte Pacifique de l’Équateur, Manta demeure un joyau souvent négligé, éclipsé par la renommée des Galápagos et de Quito. Pourtant, pour ceux qui s’y aventurent, Manta offre une délicieuse palette d’expériences. Des amateurs de gastronomie en quête des fruits de mer les plus frais aux aventuriers surfant sur les vagues, en passant par ceux qui s’immergent dans…"
 urlPath: "/your-essential-guide-to-exploring-manta-ecuador/"
 ---
 

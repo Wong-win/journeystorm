@@ -5,7 +5,7 @@ postSlug: "exploring-the-catacombs-of-paris-a-journey-into-the-citys-macabre-his
 image: "/images/caption-2-1024x768.jpg"
 categories: ["Europe"]
 categorySlugs: ["europe"]
-excerpt: "&nbsp; Paris, célèbre pour ses monuments historiques, son art inspirant et son charme romantique, abrite un côté plus sombre sous ses rues animées : les Catacombes de Paris. Ce monde caché offre aux visiteurs une exploration unique de l&#8217;histoire enfouie de la ville, à travers des milliers d&#8217;ossements anciens. Voici&#8230;"
+excerpt: "  Paris, célèbre pour ses monuments historiques, son art inspirant et son charme romantique, abrite un côté plus sombre sous ses rues animées : les Catacombes de Paris. Ce monde caché offre aux visiteurs une exploration unique de l’histoire enfouie de la ville, à travers des milliers d’ossements anciens. Voici…"
 urlPath: "/exploring-the-catacombs-of-paris-a-journey-into-the-citys-macabre-history/"
 ---
 

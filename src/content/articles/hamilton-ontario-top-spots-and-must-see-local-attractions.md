@@ -5,7 +5,7 @@ postSlug: "hamilton-ontario-top-spots-and-must-see-local-attractions"
 image: "https://www.ontariouniversitiesinfo.ca/assets/files/images/universityEventImageNew_mcmaster_events_logo.png"
 categories: ["America", "Destinations"]
 categorySlugs: ["america", "destinations"]
-excerpt: "Bienvenue à Hamilton au Canada, une ville dynamique où l&#8217;histoire et la culture se rencontrent pour créer une expérience captivante. Célèbre pour ses quartiers éclectiques, Hamilton est un joyau de l&#8217;Ontario, offrant à la fois une beauté naturelle et une vitalité urbaine. Ses quartiers nord sont aussi charmants que son centre-ville, s&#8217;adressant aux étudiants de&#8230;"
+excerpt: "Bienvenue à Hamilton au Canada, une ville dynamique où l’histoire et la culture se rencontrent pour créer une expérience captivante. Célèbre pour ses quartiers éclectiques, Hamilton est un joyau de l’Ontario, offrant à la fois une beauté naturelle et une vitalité urbaine. Ses quartiers nord sont aussi charmants que son centre-ville, s’adressant aux étudiants de…"
 urlPath: "/hamilton-ontario-top-spots-and-must-see-local-attractions/"
 ---
 

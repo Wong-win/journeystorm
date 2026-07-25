@@ -5,7 +5,7 @@ postSlug: "decouverte-de-caroll-quand-lelegance-parisienne-rencontre-la-modernit
 image: "/images/pull-mzoan-100-cachemire-bleu-marine-femme-vue1-35967740006361047-768x1024.jpg"
 categories: ["Uncategorized"]
 categorySlugs: ["uncategorized"]
-excerpt: "&nbsp; Fondée en 1963 par Raphaël Levy et Joseph Bigio, CAROLL s&#8217;est imposée comme une institution de la mode française. Née d&#8217;une passion pour la maille et les tricots féminins, la marque a su évoluer au fil des décennies pour devenir une référence complète du prêt-à-porter féminin élégant et accessible&#8230;."
+excerpt: "  Fondée en 1963 par Raphaël Levy et Joseph Bigio, CAROLL s’est imposée comme une institution de la mode française. Née d’une passion pour la maille et les tricots féminins, la marque a su évoluer au fil des décennies pour devenir une référence complète du prêt-à-porter féminin élégant et accessible…."
 urlPath: "/decouverte-de-caroll-quand-lelegance-parisienne-rencontre-la-modernite/"
 ---
 

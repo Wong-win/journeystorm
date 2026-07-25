@@ -5,7 +5,7 @@ postSlug: "trois-jours-parfaits-a-londres"
 image: "/images/caption-19-1024x576.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "&nbsp; De ses palais royaux et monuments majestueux à ses pubs accueillants et théâtres intimes, Londres charme chaque coin de la ville, transformant même une visite rapide de trois jours en une aventure inoubliable. Pour tirer le meilleur parti d’un court séjour, il s’agit de trouver un équilibre entre les&#8230;"
+excerpt: "  De ses palais royaux et monuments majestueux à ses pubs accueillants et théâtres intimes, Londres charme chaque coin de la ville, transformant même une visite rapide de trois jours en une aventure inoubliable. Pour tirer le meilleur parti d’un court séjour, il s’agit de trouver un équilibre entre les…"
 urlPath: "/trois-jours-parfaits-a-londres/"
 ---
 

@@ -4,7 +4,7 @@ date: "2026-04-26"
 postSlug: "6-manieres-decouvrir-histoire-renaissance-florence"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "Florence est célèbre comme berceau de la Renaissance — la période entre les années 1490 et 1520 qui a apporté de nouveaux niveaux de culture et d&#8217;innovation à l&#8217;Italie et à une grande partie de l&#8217;Europe. Elle a touché à tous les domaines de la connaissance, de l&#8217;art et de&#8230;"
+excerpt: "Florence est célèbre comme berceau de la Renaissance — la période entre les années 1490 et 1520 qui a apporté de nouveaux niveaux de culture et d’innovation à l’Italie et à une grande partie de l’Europe. Elle a touché à tous les domaines de la connaissance, de l’art et de…"
 urlPath: "/6-manieres-decouvrir-histoire-renaissance-florence/"
 ---
 

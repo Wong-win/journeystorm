@@ -5,7 +5,7 @@ postSlug: "the-ultimate-backpackers-guide-to-exploring-amsterdam"
 image: "https://media.nomadicmatt.com/2021/amsterdamneighborhood1.jpg"
 categories: ["Destinations", "Europe"]
 categorySlugs: ["destinations", "europe"]
-excerpt: "Heading to Amsterdam? Excellent decision! Amsterdam is relatively more affordable compared to many other European cities, but it can still stretch your budget if you&#8217;re not careful. Don&#8217;t worry, though – we&#8217;ve got you covered with our guide to a budget-friendly trip to Amsterdam. Your wallet will surely appreciate it!&#8230;"
+excerpt: "Heading to Amsterdam? Excellent decision! Amsterdam is relatively more affordable compared to many other European cities, but it can still stretch your budget if you’re not careful. Don’t worry, though – we’ve got you covered with our guide to a budget-friendly trip to Amsterdam. Your wallet will surely appreciate it!…"
 urlPath: "/the-ultimate-backpackers-guide-to-exploring-amsterdam/"
 ---
 

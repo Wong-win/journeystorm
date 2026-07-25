@@ -5,7 +5,7 @@ postSlug: "explore-the-best-beaches-hiking-paths-and-more-in-algeria"
 image: "/images/0c6091fc-city-20461-167be288f16.jpg"
 categories: ["Africa", "Destinations"]
 categorySlugs: ["africa", "destinations"]
-excerpt: "Embarquez pour un voyage en Algérie, une terre de plages magnifiques le long de son vaste littoral méditerranéen, offrant un havre pour les passionnés de plage comme vous. Que ce soit pour des vacances en famille ou une retraite en solo, les plages d'Algérie, y compris la pittoresque plage, offrent le cadre idéal pour se détendre et se prélasser au soleil&#8230;."
+excerpt: "Embarquez pour un voyage en Algérie, une terre de plages magnifiques le long de son vaste littoral méditerranéen, offrant un havre pour les passionnés de plage comme vous. Que ce soit pour des vacances en famille ou une retraite en solo, les plages d'Algérie, y compris la pittoresque plage, offrent le cadre idéal pour se détendre et se prélasser au soleil…."
 urlPath: "/explore-the-best-beaches-hiking-paths-and-more-in-algeria/"
 ---
 

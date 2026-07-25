@@ -5,7 +5,7 @@ postSlug: "exploring-travel-and-vacation-understanding-their-distinct-features-a
 image: "https://thoughtcard.com/wp-content/uploads/2016/03/Trip-vs-Vacation.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "Dans le monde trépidant d&#8217;aujourd&#8217;hui, l&#8217;idée de s&#8217;évader de tout est plus attrayante que jamais. Mais lorsque nous envisageons de nous échapper, imaginons-nous de brèves vacances indulgentes ou une aventure de voyage prolongée et approfondie ? Les termes &#8216;voyage&#8217; et &#8216;vacances&#8217; sont souvent utilisés comme synonymes, pourtant ils représentent des expériences distinctes et&#8230;"
+excerpt: "Dans le monde trépidant d’aujourd’hui, l’idée de s’évader de tout est plus attrayante que jamais. Mais lorsque nous envisageons de nous échapper, imaginons-nous de brèves vacances indulgentes ou une aventure de voyage prolongée et approfondie ? Les termes ‘voyage’ et ‘vacances’ sont souvent utilisés comme synonymes, pourtant ils représentent des expériences distinctes et…"
 urlPath: "/exploring-travel-and-vacation-understanding-their-distinct-features-and-commonalities/"
 ---
 

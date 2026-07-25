@@ -4,7 +4,7 @@ date: "2026-01-24"
 postSlug: "comment-se-deplacer-en-sicile-trajets-en-train-pittoresques-ferries-et-routes-de-campagne"
 categories: ["Destinations", "Europe"]
 categorySlugs: ["destinations", "europe"]
-excerpt: "&nbsp; La Sicile, cette île italienne baignée par trois mers, offre des paysages époustouflants à chaque coin de rue. Qu&#8217;il s&#8217;agisse de voyages en bus, en bateau, en voiture, en train ou à deux roues, la Sicile dévoile ses côtes magnifiques, ses montagnes et ses volcans majestueux. Voici quelques conseils&#8230;"
+excerpt: "  La Sicile, cette île italienne baignée par trois mers, offre des paysages époustouflants à chaque coin de rue. Qu’il s’agisse de voyages en bus, en bateau, en voiture, en train ou à deux roues, la Sicile dévoile ses côtes magnifiques, ses montagnes et ses volcans majestueux. Voici quelques conseils…"
 urlPath: "/comment-se-deplacer-en-sicile-trajets-en-train-pittoresques-ferries-et-routes-de-campagne/"
 ---
 

@@ -5,7 +5,7 @@ postSlug: "vietnams-unmissable-attractions-breathtaking-landmarks-to-explore-now
 image: "https://hoponworld.com/wp-content/uploads/2021/07/golden-hand-bridge-danang.jpg"
 categories: ["Asia", "Destinations"]
 categorySlugs: ["asia", "destinations"]
-excerpt: "Prêt pour une aventure à travers les sites époustouflants du Vietnam ? Ce voyage vous plongera dans la riche histoire et la culture du pays, mettant en valeur l&#8217;incroyable beauté et la diversité du Vietnam. Le Vietnam regorge de trésors naturels et culturels, ce qui en fait une destination de choix en Asie du Sud-Est. De la baie d&#8217;Halong&#8230;"
+excerpt: "Prêt pour une aventure à travers les sites époustouflants du Vietnam ? Ce voyage vous plongera dans la riche histoire et la culture du pays, mettant en valeur l’incroyable beauté et la diversité du Vietnam. Le Vietnam regorge de trésors naturels et culturels, ce qui en fait une destination de choix en Asie du Sud-Est. De la baie d’Halong…"
 urlPath: "/vietnams-unmissable-attractions-breathtaking-landmarks-to-explore-now/"
 ---
 

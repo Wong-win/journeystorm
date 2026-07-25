@@ -5,7 +5,7 @@ postSlug: "yosemite-day-excursion-crafting-your-ideal-adventure"
 image: "/images/gxo34vm6abfz.jpg"
 categories: ["America", "Destinations"]
 categorySlugs: ["america", "destinations"]
-excerpt: "Bonjour, chasseur d&#8217;aventures ! Vous devez être intrigué par le charme mystérieux de Yosemite, un lieu qui murmure des histoires de merveille et de beauté. Alors, vous avez décidé de vous imprégner des splendeurs de Yosemite, même si ce n&#8217;est que pour une journée glorieuse. Bonne nouvelle : la splendeur&#8230;"
+excerpt: "Bonjour, chasseur d’aventures ! Vous devez être intrigué par le charme mystérieux de Yosemite, un lieu qui murmure des histoires de merveille et de beauté. Alors, vous avez décidé de vous imprégner des splendeurs de Yosemite, même si ce n’est que pour une journée glorieuse. Bonne nouvelle : la splendeur…"
 urlPath: "/yosemite-day-excursion-crafting-your-ideal-adventure/"
 ---
 

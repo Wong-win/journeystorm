@@ -5,7 +5,7 @@ postSlug: "getting-ready-for-a-new-york-city-trip-step-by-step-guide"
 image: "/images/New-York-City-Travel-Guide-Chill.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "Si vous vous aventurez à New York sans aucune préparation, vous pourriez rapidement vous sentir submergé par l&#8217;énergie trépidante de la Grosse Pomme. Cela pourrait vous faire manquer l&#8217;expérience complète, ce qui serait dommage, d&#8217;autant plus qu&#8217;un voyage à New York est souvent un événement unique dans une vie. Heureusement, il existe&#8230;"
+excerpt: "Si vous vous aventurez à New York sans aucune préparation, vous pourriez rapidement vous sentir submergé par l’énergie trépidante de la Grosse Pomme. Cela pourrait vous faire manquer l’expérience complète, ce qui serait dommage, d’autant plus qu’un voyage à New York est souvent un événement unique dans une vie. Heureusement, il existe…"
 urlPath: "/getting-ready-for-a-new-york-city-trip-step-by-step-guide/"
 ---
 

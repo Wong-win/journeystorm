@@ -5,7 +5,7 @@ postSlug: "six-essential-tips-for-a-memorable-florence-city-getaway-your-ultimat
 image: "/images/10-Best-Things-to-Do-in-Florence-Whats-Florence-Most-Famous-For-–-Go-Guides.jpg"
 categories: ["Destinations", "Europe", "Travel Tips"]
 categorySlugs: ["destinations", "europe", "travel-tips"]
-excerpt: "Florence, un joyau de la couronne de la Renaissance italienne, est un trésor d&#8217;histoire, d&#8217;art et d&#8217;architecture impressionnante. Vous avez choisi Florence pour votre escapade urbaine ? Excellente décision ! De plus en plus, les touristes se rendant en Italie sont captivés par le charme de la Toscane, qui offre une cuisine exceptionnelle et des vins de renommée mondiale. Planifier votre aventure à Florence peut sembler intimidant, mais ne vous inquiétez pas &#8211;&#8230;"
+excerpt: "Florence, un joyau de la couronne de la Renaissance italienne, est un trésor d’histoire, d’art et d’architecture impressionnante. Vous avez choisi Florence pour votre escapade urbaine ? Excellente décision ! De plus en plus, les touristes se rendant en Italie sont captivés par le charme de la Toscane, qui offre une cuisine exceptionnelle et des vins de renommée mondiale. Planifier votre aventure à Florence peut sembler intimidant, mais ne vous inquiétez pas –…"
 urlPath: "/six-essential-tips-for-a-memorable-florence-city-getaway-your-ultimate-guide/"
 ---
 

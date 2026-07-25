@@ -5,7 +5,7 @@ postSlug: "12-villes-musees"
 image: "/images/12-villes-musees.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "Oubliez les sites touristiques sur les cartes postales — parfois la meilleure façon de découvrir une ville, ce sont ses musées. Que vous soyez passionné d&#8217;antiquités ou d&#8217;installations contemporaines, le bon musée peut offrir une fenêtre sur l&#8217;âme d&#8217;une ville. Ci-dessous, 12 pôles culturels du monde entier et leurs musées&#8230;"
+excerpt: "Oubliez les sites touristiques sur les cartes postales — parfois la meilleure façon de découvrir une ville, ce sont ses musées. Que vous soyez passionné d’antiquités ou d’installations contemporaines, le bon musée peut offrir une fenêtre sur l’âme d’une ville. Ci-dessous, 12 pôles culturels du monde entier et leurs musées…"
 urlPath: "/12-villes-musees/"
 ---
 

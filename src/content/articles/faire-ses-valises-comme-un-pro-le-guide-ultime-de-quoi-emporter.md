@@ -4,7 +4,7 @@ date: "2026-02-12"
 postSlug: "faire-ses-valises-comme-un-pro-le-guide-ultime-de-quoi-emporter"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "&nbsp; Peu importe votre destination, vous ne voulez pas dépenser votre argent de vacances pour acheter quelque chose que vous aviez prévu de mettre dans votre valise. Voici nos conseils pour faire vos valises comme un pro, avec des liens pour des conseils spécifiques selon l&#8217;occasion : Liste de contrôle&#8230;"
+excerpt: "  Peu importe votre destination, vous ne voulez pas dépenser votre argent de vacances pour acheter quelque chose que vous aviez prévu de mettre dans votre valise. Voici nos conseils pour faire vos valises comme un pro, avec des liens pour des conseils spécifiques selon l’occasion : Liste de contrôle…"
 urlPath: "/faire-ses-valises-comme-un-pro-le-guide-ultime-de-quoi-emporter/"
 ---
 

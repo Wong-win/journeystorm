@@ -5,7 +5,7 @@ postSlug: "manger-autour-dedimbourg-le-guide-ultime-des-meilleures-bouchees-de-l
 image: "/images/caption-23-1024x576.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "&nbsp; Édimbourg continue de renforcer sa réputation de capitale culinaire, offrant bien plus que des déjeuners de pub, du haggis et des petits déjeuners écossais complets (bien que tous ces plats soient également vénérés). Alors que je retourne sans cesse à mes endroits préférés, un flot constant de nouveaux venus&#8230;"
+excerpt: "  Édimbourg continue de renforcer sa réputation de capitale culinaire, offrant bien plus que des déjeuners de pub, du haggis et des petits déjeuners écossais complets (bien que tous ces plats soient également vénérés). Alors que je retourne sans cesse à mes endroits préférés, un flot constant de nouveaux venus…"
 urlPath: "/manger-autour-dedimbourg-le-guide-ultime-des-meilleures-bouchees-de-la-ville/"
 ---
 

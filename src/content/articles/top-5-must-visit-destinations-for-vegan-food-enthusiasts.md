@@ -5,7 +5,7 @@ postSlug: "top-5-must-visit-destinations-for-vegan-food-enthusiasts"
 image: "/images/Perus-Machu-Picchu-reopens-as-protests-shift-to-capital-BBC-News.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "En tant que passionné de cuisine végane, vous connaissez probablement les meilleurs endroits locaux pour des délices à base de plantes. Mais pourquoi ne pas élargir vos horizons culinaires avec une aventure gastronomique végane mondiale ? Robbie Fowle de H&amp;T, expert en argent de voyage, recommande ces cinq principales destinations pour la liste de voyage d&#8217;un végane. La popularité du véganisme&#8230;"
+excerpt: "En tant que passionné de cuisine végane, vous connaissez probablement les meilleurs endroits locaux pour des délices à base de plantes. Mais pourquoi ne pas élargir vos horizons culinaires avec une aventure gastronomique végane mondiale ? Robbie Fowle de H&T, expert en argent de voyage, recommande ces cinq principales destinations pour la liste de voyage d’un végane. La popularité du véganisme…"
 urlPath: "/top-5-must-visit-destinations-for-vegan-food-enthusiasts/"
 ---
 

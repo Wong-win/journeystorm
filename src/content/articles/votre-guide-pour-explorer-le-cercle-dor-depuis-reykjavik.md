@@ -5,7 +5,7 @@ postSlug: "votre-guide-pour-explorer-le-cercle-dor-depuis-reykjavik"
 image: "/images/caption-30-1024x768.jpg"
 categories: ["Europe"]
 categorySlugs: ["europe"]
-excerpt: "&nbsp; L&#8217;Islande est devenue l&#8217;une des destinations les plus prisées pour ses paysages majestueux et surnaturels, facilement accessibles depuis sa capitale florissante, Reykjavik. Bien qu&#8217;il existe de nombreuses façons de découvrir l&#8217;Islande, les locaux et les voyageurs vous conseilleront tous de commencer par l&#8217;emblématique Cercle d&#8217;Or, un itinéraire de 300&#8230;"
+excerpt: "  L’Islande est devenue l’une des destinations les plus prisées pour ses paysages majestueux et surnaturels, facilement accessibles depuis sa capitale florissante, Reykjavik. Bien qu’il existe de nombreuses façons de découvrir l’Islande, les locaux et les voyageurs vous conseilleront tous de commencer par l’emblématique Cercle d’Or, un itinéraire de 300…"
 urlPath: "/votre-guide-pour-explorer-le-cercle-dor-depuis-reykjavik/"
 ---
 

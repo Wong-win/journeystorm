@@ -4,7 +4,7 @@ date: "2023-11-20"
 postSlug: "about"
 categories: []
 categorySlugs: []
-excerpt: "Welcome to JourneyStorm.com &#8211; Your Compass to Adventure! At JourneyStorm, we believe that travel is more than just visiting new places; it’s about creating unforgettable experiences, discovering new cultures, and making lifelong memories. Our mission is to inspire and empower travelers from all corners of the globe to embark on&#8230;"
+excerpt: "Welcome to JourneyStorm.com – Your Compass to Adventure! At JourneyStorm, we believe that travel is more than just visiting new places; it’s about creating unforgettable experiences, discovering new cultures, and making lifelong memories. Our mission is to inspire and empower travelers from all corners of the globe to embark on…"
 urlPath: "/about/"
 ---
 

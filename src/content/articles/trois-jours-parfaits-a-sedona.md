@@ -5,7 +5,7 @@ postSlug: "trois-jours-parfaits-a-sedona"
 image: "/images/caption-5-1024x576.jpg"
 categories: ["America"]
 categorySlugs: ["america"]
-excerpt: "&nbsp; Sedona, avec ses époustouflantes buttes de roches rouges, est un joyau du Sud-Ouest. C&#8217;est un havre pour les artistes, les amoureux de la nature et les chercheurs de bien-être. En tant que natif de Phoenix, Sedona est l&#8217;un de mes endroits préférés pour emmener des amis venant de l&#8217;extérieur&#8230;"
+excerpt: "  Sedona, avec ses époustouflantes buttes de roches rouges, est un joyau du Sud-Ouest. C’est un havre pour les artistes, les amoureux de la nature et les chercheurs de bien-être. En tant que natif de Phoenix, Sedona est l’un de mes endroits préférés pour emmener des amis venant de l’extérieur…"
 urlPath: "/trois-jours-parfaits-a-sedona/"
 ---
 

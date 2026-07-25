@@ -5,7 +5,7 @@ postSlug: "travel-guide-kyoto-kyoto-for-over-1000-years-the-capital-of-japan"
 image: "https://facts.net/wp-content/uploads/2023/07/32-facts-about-kyoto-1688365737.jpeg"
 categories: ["Asia", "Destinations"]
 categorySlugs: ["asia", "destinations"]
-excerpt: "Kyoto, l&rsquo;ancienne capitale imp&eacute;riale du Japon, a conserv&eacute; ce statut prestigieux pendant plus d&rsquo;un mill&eacute;naire, &agrave; partir de 794. Souvent appel&eacute;e la &laquo;&nbsp;Capitale de l&rsquo;Ouest&nbsp;&raquo;, elle a &eacute;t&eacute; minutieusement con&ccedil;ue en s&rsquo;inspirant des grandes villes de Chine. Remarquablement, Kyoto est rest&eacute;e indemne des ravages de la Seconde Guerre mondiale, pr&eacute;servant un&#8230;"
+excerpt: "Kyoto, l’ancienne capitale impériale du Japon, a conservé ce statut prestigieux pendant plus d’un millénaire, à partir de 794. Souvent appelée la « Capitale de l’Ouest », elle a été minutieusement conçue en s’inspirant des grandes villes de Chine. Remarquablement, Kyoto est restée indemne des ravages de la Seconde Guerre mondiale, préservant un…"
 urlPath: "/travel-guide-kyoto-kyoto-for-over-1000-years-the-capital-of-japan/"
 ---
 

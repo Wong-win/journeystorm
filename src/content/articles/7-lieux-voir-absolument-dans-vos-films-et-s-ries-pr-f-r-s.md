@@ -4,7 +4,7 @@ date: "2026-04-26"
 postSlug: "7-lieux-voir-absolument-dans-vos-films-et-s-ries-pr-f-r-s"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
-excerpt: "Rêvez de fouler les univers de vos séries et films préférés ? Que vous cherchiez à explorer des déserts lointains, à vous immerger dans des lieux de culte religieux ou à suivre les pas de shoguns célèbre, vous pouvez en réalité visiter de nombreux endroits qui ont donné vie à&#8230;"
+excerpt: "Rêvez de fouler les univers de vos séries et films préférés ? Que vous cherchiez à explorer des déserts lointains, à vous immerger dans des lieux de culte religieux ou à suivre les pas de shoguns célèbre, vous pouvez en réalité visiter de nombreux endroits qui ont donné vie à…"
 urlPath: "/7-lieux-voir-absolument-dans-vos-films-et-s-ries-pr-f-r-s/"
 ---
 

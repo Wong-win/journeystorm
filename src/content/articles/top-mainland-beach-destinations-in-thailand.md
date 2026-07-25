@@ -5,7 +5,7 @@ postSlug: "top-mainland-beach-destinations-in-thailand"
 image: "/images/How-to-Get-to-Railay-Beach-from-Ao-Nang-or-Krabi-in-2023-–-We-Seek-Travel.jpg"
 categories: ["Asia", "Destinations"]
 categorySlugs: ["asia", "destinations"]
-excerpt: "Les plages continentales de la Thaïlande, avec leurs sables blancs pittoresques, leurs eaux cristallines et leurs palmiers se balançant doucement, sont comme des scènes tout droit sorties d&#8217;une carte postale. Que vous recherchiez une retraite tropicale sereine ou une ambiance festive animée, le littoral du pays offre une multitude de superbes options balnéaires. Alors que les îles du sud&#8230;"
+excerpt: "Les plages continentales de la Thaïlande, avec leurs sables blancs pittoresques, leurs eaux cristallines et leurs palmiers se balançant doucement, sont comme des scènes tout droit sorties d’une carte postale. Que vous recherchiez une retraite tropicale sereine ou une ambiance festive animée, le littoral du pays offre une multitude de superbes options balnéaires. Alors que les îles du sud…"
 urlPath: "/top-mainland-beach-destinations-in-thailand/"
 ---
 
