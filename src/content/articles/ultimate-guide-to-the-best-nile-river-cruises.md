@@ -2,7 +2,7 @@
 title: "Guide ultime des meilleures croisières sur le Nil"
 date: "2025-08-04"
 postSlug: "ultimate-guide-to-the-best-nile-river-cruises"
-image: "https://www.ramassidetours.com/uploaded/blogs-1680111163.jpg"
+image: "/images/ultimate-guide-to-the-best-nile-river-cruises.jpg"
 categories: ["Africa", "Destinations", "Travel Tips"]
 categorySlugs: ["africa", "destinations", "travel-tips"]
 excerpt: "Avez-vous déjà imaginé embarquer pour un voyage épique mêlant parfaitement histoire, culture et paysages à couper le souffle ? Les croisières sur le Nil sont la réponse. Imaginez-vous glisser le long du Nil légendaire, plongeant au cœur de l'Égypte ancienne, tout en profitant du confort d'hébergements luxueux et d'une cuisine délicieuse…."

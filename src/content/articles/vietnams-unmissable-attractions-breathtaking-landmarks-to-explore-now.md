@@ -2,7 +2,7 @@
 title: "Attractions incontournables du Vietnam : des sites à couper le souffle à explorer dès maintenant !"
 date: "2025-11-24"
 postSlug: "vietnams-unmissable-attractions-breathtaking-landmarks-to-explore-now"
-image: "https://hoponworld.com/wp-content/uploads/2021/07/golden-hand-bridge-danang.jpg"
+image: "/images/vietnams-unmissable-attractions-breathtaking-landmarks-to-explore-now.jpg"
 categories: ["Asia", "Destinations"]
 categorySlugs: ["asia", "destinations"]
 excerpt: "Prêt pour une aventure à travers les sites époustouflants du Vietnam ? Ce voyage vous plongera dans la riche histoire et la culture du pays, mettant en valeur l’incroyable beauté et la diversité du Vietnam. Le Vietnam regorge de trésors naturels et culturels, ce qui en fait une destination de choix en Asie du Sud-Est. De la baie d’Halong…"

@@ -2,6 +2,7 @@
 title: "5 des meilleurs road trips en Autriche"
 date: "2026-04-14"
 postSlug: "5-des-meilleurs-road-trips-en-autriche"
+image: "/images/5-des-meilleurs-road-trips-en-autriche.jpg"
 categories: ["Road Trip"]
 categorySlugs: ["road-trip"]
 excerpt: "  Il n’y a rien de tel que de prendre la route en Autriche. Conduire dans ce petit pays permet de découvrir des coins reculés et des hauteurs impressionnantes, tout en offrant la liberté de s’arrêter, de randonner, de faire du vélo, de se baigner et de naviguer pour profiter…"

@@ -2,6 +2,7 @@
 title: "Le voyage ultime par la route à travers le Haut Midwest"
 date: "2025-12-04"
 postSlug: "the-ultimate-road-journey-through-the-upper-midwest"
+image: "/images/the-ultimate-road-journey-through-the-upper-midwest.jpg"
 categories: ["Road Trip"]
 categorySlugs: ["road-trip"]
 excerpt: "En naviguant sur Pinterest, j’ai remarqué une tendance prédominante en ce qui concerne les destinations de road trip aux États-Unis. La plupart semblent se concentrer sur les côtes ouest ou est. Cependant, il est grand temps de mettre en lumière un road trip dans le Haut Midwest. Pour ceux d’entre…"

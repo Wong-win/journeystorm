@@ -2,7 +2,7 @@
 title: "4 activités incontournables à Quito quand le temps est limité"
 date: "2025-05-02"
 postSlug: "4-must-do-activities-in-quito-when-time-is-limited"
-image: "https://img.atlasobscura.com/mouYFDVyFXGvexhTsjsun_smvFVs2_hVioyMOQPjB_Q/rt:fit/h:390/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82Yzhi/NmNiNC01ZGY3LTQ2/ODMtYmNkZS01ZDQ5/OWZlMGRjOTNjZTlj/NWMzMGE5MmQ5YzU1/ZGJfSWdsZXNpYV9k/ZV9MYV9Db21wYcOx/w61hLF9RdWl0b18x/LkpQRw.jpg"
+image: "/images/4-must-do-activities-in-quito-when-time-is-limited.jpg"
 categories: ["America", "Destinations"]
 categorySlugs: ["america", "destinations"]
 excerpt: "Quito, regorgeant de sites captivants, est un défi à explorer pleinement en une seule journée. Cependant, si c’est tout le temps dont vous disposez dans la capitale équatorienne de haute altitude, se concentrer sur ses attractions les plus emblématiques est essentiel. Le centre historique classé à l’UNESCO est une visite incontournable. Voici quatre expériences essentielles à Quito quand…"

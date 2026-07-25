@@ -2,7 +2,10 @@
 import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 
+const pageSlugs = ["about", "contact", "privacy-policy", "home"];
+
 const allArticles = (await getCollection("articles"))
+  .filter((a) => !pageSlugs.includes(a.data.postSlug))
   .sort((a, b) => b.data.date.localeCompare(a.data.date));
 
 const hero = allArticles[0];

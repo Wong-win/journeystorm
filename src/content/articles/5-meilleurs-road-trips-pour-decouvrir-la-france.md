@@ -2,6 +2,7 @@
 title: "5 meilleurs road trips pour découvrir la France"
 date: "2026-02-07"
 postSlug: "5-meilleurs-road-trips-pour-decouvrir-la-france"
+image: "/images/5-meilleurs-road-trips-pour-decouvrir-la-france.jpg"
 categories: ["Road Trip"]
 categorySlugs: ["road-trip"]
 excerpt: "  1. De Mont-Saint-Michel à Étretat Meilleur road trip pour découvrir la côte Mont-Saint-Michel à Étretat : 286 km, prévoir trois jours. Commencez votre voyage à l’abbaye millénaire du Mont-Saint-Michel, une merveille architecturale située sur un îlot rocheux. Poursuivez votre route vers Avranches pour une vue panoramique, puis rejoignez Bayeux…"
