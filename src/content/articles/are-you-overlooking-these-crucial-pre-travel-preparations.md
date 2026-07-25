@@ -2,7 +2,6 @@
 title: "Négligez-vous ces préparatifs de voyage essentiels ?"
 date: "2025-06-13"
 postSlug: "are-you-overlooking-these-crucial-pre-travel-preparations"
-image: "/images/are-you-overlooking-these-crucial-pre-travel-preparations.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
 excerpt: "Vous préparez-vous pour un voyage international vers une destination palpitante ? Peut-être que votre itinéraire comprend un voyage en Afrique du Sud, une excursion pour admirer les aurores boréales, une visite d&#039;un spectacle à Broadway ou l&#039;occasion d&#039;admirer l&#039;Opéra de Sydney. Quelle que soit votre destination, il est essentiel de bien préparer&#8230;"

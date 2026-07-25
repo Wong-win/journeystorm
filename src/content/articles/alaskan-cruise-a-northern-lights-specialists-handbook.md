@@ -2,7 +2,7 @@
 title: "Croisière en Alaska : Guide du Spécialiste des Aurores Boréales"
 date: "2025-07-12"
 postSlug: "alaskan-cruise-a-northern-lights-specialists-handbook"
-image: "/images/alaskan-cruise-a-northern-lights-specialists-handbook.jpg"
+image: "https://www.cruise.co.uk/bulletin/files/3/2014/09/iStock_000004066489_Large.jpg"
 categories: ["America", "Destinations"]
 categorySlugs: ["america", "destinations"]
 excerpt: "L&#8217;aurore boréale, un spectacle ancien et fascinant, a fasciné les humains pendant des siècles avec son spectacle étonnant dans le ciel nocturne. C&#8217;est un mélange de science, de légende et de beauté pure de la nature. L&#8217;Alaska, une terre de nature sauvage immaculée et de ciels clairs, se classe parmi&#8230;"

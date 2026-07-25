@@ -2,7 +2,6 @@
 title: "5 jours parfaits à Dubaï"
 date: "2026-04-26"
 postSlug: "5-jours-parfaits-dubai"
-image: "/images/5-jours-parfaits-dubai.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
 excerpt: "Vous avez trouvé le bon équilibre si vous pouvez gérer cinq jours à Dubaï. C&#8217;est juste assez de temps pour découvrir tout ce que la ville a à offrir — pensez à des restaurants élégants, une vie nocturne non-stop et des plages baignées de soleil — sans se presser. Cet&#8230;"

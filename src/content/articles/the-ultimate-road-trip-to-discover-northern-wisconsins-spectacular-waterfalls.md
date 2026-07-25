@@ -2,7 +2,6 @@
 title: "Le Road Trip Ultime pour Découvrir les Spectaculaires Cascades du Nord du Wisconsin"
 date: "2025-10-23"
 postSlug: "the-ultimate-road-trip-to-discover-northern-wisconsins-spectacular-waterfalls"
-image: "/images/the-ultimate-road-trip-to-discover-northern-wisconsins-spectacular-waterfalls.jpg"
 categories: ["Road Trip"]
 categorySlugs: ["road-trip"]
 excerpt: "Si vous avez déjà mis les pieds dans le Wisconsin, vous avez probablement entendu parler ou aperçu ses innombrables cascades enchanteresses. Souvent trésors cachés chéris par les habitants, les cascades du Wisconsin ont le pouvoir de vous laisser bouche bée. Après votre visite, pensez à créer un livre photo personnalisé pour immortaliser ces souvenirs précieux. Ce road trip dans le nord&#8230;"
