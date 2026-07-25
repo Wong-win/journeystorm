@@ -2,6 +2,7 @@
 title: "Maximizing Your Day: Top Activities and Sights for 24 Hours in Dublin"
 date: "2025-06-09"
 postSlug: "maximizing-your-day-top-activities-and-sights-for-24-hours-in-dublin"
+image: "/images/Guided-Walking-Tour-of-Book-of-Kells-and-Trinity-College-Dublin-2023-Viator.jpg"
 categories: ["Destinations", "Europe"]
 categorySlugs: ["destinations", "europe"]
 excerpt: "If you find yourself with just a day to discover Dublin&#8217;s charm, don&#8217;t fret. This concise guide is designed to help you fully embrace the essence of Ireland’s capital in a limited timeframe, covering both outdoor adventures and significant landmarks. Maximize Your Time in Dublin With only 24 hours at&#8230;"

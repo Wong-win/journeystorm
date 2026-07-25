@@ -2,6 +2,7 @@
 title: "4 Must-Do Activities in Quito When Time is Limited"
 date: "2025-05-02"
 postSlug: "4-must-do-activities-in-quito-when-time-is-limited"
+image: "/images/4-must-do-activities-in-quito-when-time-is-limited.jpg"
 categories: ["America", "Destinations"]
 categorySlugs: ["america", "destinations"]
 excerpt: "Quito, brimming with captivating sites, is a challenge to fully explore in just one day. However, if that&#8217;s all the time you have in Ecuador&#8217;s high-altitude capital, focusing on its most iconic attractions is key. The UNESCO-designated historical center is a must-visit. Here are four essential experiences in Quito when&#8230;"

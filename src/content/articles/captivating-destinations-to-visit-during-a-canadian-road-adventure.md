@@ -2,6 +2,7 @@
 title: "Captivating Destinations to Visit During a Canadian Road Adventure"
 date: "2025-09-01"
 postSlug: "captivating-destinations-to-visit-during-a-canadian-road-adventure"
+image: "/images/Cathedral-Grove-U.S.-National-Park-Service.jpg"
 categories: ["Road Trip"]
 categorySlugs: ["road-trip"]
 excerpt: "Canada, the world&#8217;s second largest country, offers an array of both famous and hidden gems for travelers on a Canadian road journey. The country&#8217;s vastness ensures a plethora of attractions, ensuring an enriching experience for visitors. Deciding where to pause during your extensive Canadian road trip can be a challenge&#8230;"

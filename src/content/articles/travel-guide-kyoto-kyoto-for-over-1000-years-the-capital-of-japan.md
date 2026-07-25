@@ -2,6 +2,7 @@
 title: "Travel Guide Kyoto- Kyoto For over 1000 years the capital of Japan"
 date: "2025-07-30"
 postSlug: "travel-guide-kyoto-kyoto-for-over-1000-years-the-capital-of-japan"
+image: "/images/travel-guide-kyoto-kyoto-for-over-1000-years-the-capital-of-japan.jpg"
 categories: ["Asia", "Destinations"]
 categorySlugs: ["asia", "destinations"]
 excerpt: "Kyoto, the former imperial capital of Japan, held this prestigious status for over a millennium, beginning in 794. Often referred to as the &#8220;Western Capital,&#8221; it was intricately designed, drawing inspiration from the grand cities of China. Remarkably, Kyoto remained unscathed by the devastation of World War II, preserving a&#8230;"

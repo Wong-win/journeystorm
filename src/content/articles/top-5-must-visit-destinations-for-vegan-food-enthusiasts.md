@@ -2,6 +2,7 @@
 title: "Top 5 Must-Visit Destinations for Vegan Food Enthusiasts"
 date: "2025-08-09"
 postSlug: "top-5-must-visit-destinations-for-vegan-food-enthusiasts"
+image: "/images/Perus-Machu-Picchu-reopens-as-protests-shift-to-capital-BBC-News.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
 excerpt: "As a vegan food enthusiast, you&#8217;re likely familiar with the best local spots for plant-based delights. But why not broaden your culinary horizons with a global vegan food adventure? Robbie Fowle from H&amp;T, a travel money expert, recommends these top five destinations for a vegan&#8217;s travel bucket list. Veganism&#8217;s popularity&#8230;"

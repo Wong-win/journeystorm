@@ -2,6 +2,7 @@
 title: "Guide to Securing Optimal Travel Insurance"
 date: "2025-05-21"
 postSlug: "guide-to-securing-optimal-travel-insurance"
+image: "/images/guide-to-securing-optimal-travel-insurance.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
 excerpt: "Whether you&#8217;re jetting off for business or leisure, don&#8217;t overlook the importance of travel insurance. It&#8217;s vital to have medical coverage wherever you travel. While no one likes to ponder the possibility of illness or injury, being ready for any scenario offers invaluable peace of mind. Note that if you&#8230;"

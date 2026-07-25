@@ -2,6 +2,7 @@
 title: "Your Essential Guide to Exploring Manta, Ecuador"
 date: "2025-08-27"
 postSlug: "your-essential-guide-to-exploring-manta-ecuador"
+image: "/images/your-essential-guide-to-exploring-manta-ecuador.jpg"
 categories: ["America", "Destinations"]
 categorySlugs: ["america", "destinations"]
 excerpt: "Tucked away on Ecuador&#8217;s Pacific coastline, Manta stands as an often-overlooked gem, eclipsed by the fame of the Galápagos and Quito. Yet, for those who venture here, Manta offers a delightful array of experiences. From culinary enthusiasts seeking the freshest seafood to adventurers surfing the waves, or those immersed in&#8230;"

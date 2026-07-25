@@ -2,6 +2,7 @@
 title: "Top Mainland Beach Destinations in Thailand"
 date: "2025-05-30"
 postSlug: "top-mainland-beach-destinations-in-thailand"
+image: "/images/How-to-Get-to-Railay-Beach-from-Ao-Nang-or-Krabi-in-2023-–-We-Seek-Travel.jpg"
 categories: ["Asia", "Destinations"]
 categorySlugs: ["asia", "destinations"]
 excerpt: "Thailand&#8217;s mainland beaches, with their picturesque white sands, crystal-clear waters, and gently swaying palm trees, are like scenes lifted from a postcard. Whether you&#8217;re seeking a serene tropical retreat or a vibrant party atmosphere, the country&#8217;s coastline offers a plethora of stunning beach options. While the islands in the south&#8230;"

@@ -2,6 +2,7 @@
 title: "10 destinations de voyage en solo à visiter maintenant"
 date: "2026-04-26"
 postSlug: "10-destinations-voyage-solo"
+image: "/images/10-destinations-voyage-solo.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
 excerpt: "La vraie joie du voyage en solo est que vous pouvez faire exactement ce que vous voulez. Que vous cherchiez à passer des heures dans les galeries de museums, à avoir sept repas absolument incroyables en une journée, ou à vous asseoir sur la plage avec un bon livre et&#8230;"

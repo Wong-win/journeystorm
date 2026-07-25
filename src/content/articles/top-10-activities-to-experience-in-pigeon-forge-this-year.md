@@ -2,6 +2,7 @@
 title: "Top 10 Activities to Experience in Pigeon Forge This Year"
 date: "2025-09-20"
 postSlug: "top-10-activities-to-experience-in-pigeon-forge-this-year"
+image: "/images/Wildwood-Grove-Dollywood-Theme-Parks-37-Million-Expansion-Is-Finally-Here.jpg"
 categories: ["America", "Destinations"]
 categorySlugs: ["america", "destinations"]
 excerpt: "Thinking of a family vacation this year? You&#8217;re in good company, as nearly half of Americans are eyeing a getaway in 2023, with many looking for domestic destinations to enjoy with their loved ones. There&#8217;s no need to cross borders for a fantastic holiday experience. This December, why not explore&#8230;"

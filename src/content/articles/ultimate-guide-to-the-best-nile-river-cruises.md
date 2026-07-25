@@ -2,6 +2,7 @@
 title: "Ultimate Guide to the Best Nile River Cruises"
 date: "2025-08-04"
 postSlug: "ultimate-guide-to-the-best-nile-river-cruises"
+image: "/images/ultimate-guide-to-the-best-nile-river-cruises.jpg"
 categories: ["Africa", "Destinations", "Travel Tips"]
 categorySlugs: ["africa", "destinations", "travel-tips"]
 excerpt: "Have you ever imagined setting sail on an epic journey that perfectly blends history, culture, and awe-inspiring landscapes? The Nile River cruises are your answer. Envision gliding along the fabled Nile, delving into the heart of ancient Egypt, all while indulging in the comfort of luxurious accommodations and delectable cuisine&#8230;."

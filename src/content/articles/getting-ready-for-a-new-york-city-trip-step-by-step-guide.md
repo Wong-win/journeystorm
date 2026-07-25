@@ -2,6 +2,7 @@
 title: "Getting Ready for a New York City Trip: Step-by-Step Guide"
 date: "2025-11-15"
 postSlug: "getting-ready-for-a-new-york-city-trip-step-by-step-guide"
+image: "/images/New-York-City-Travel-Guide-Chill.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
 excerpt: "If you&#8217;re venturing to New York City without any prep, you might quickly feel swamped by the bustling energy of the Big Apple. This could mean missing out on the full experience, which is a shame, especially since a trip to New York is often a once-in-a-lifetime event. Fortunately, there&#8230;"

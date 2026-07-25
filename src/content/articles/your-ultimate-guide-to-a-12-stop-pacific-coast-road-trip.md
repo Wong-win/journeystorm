@@ -2,6 +2,7 @@
 title: "Pacific Coast Highway Adventure: 12 Essential Stops for the Ultimate Road Trip!"
 date: "2025-11-10"
 postSlug: "your-ultimate-guide-to-a-12-stop-pacific-coast-road-trip"
+image: "/images/your-ultimate-guide-to-a-12-stop-pacific-coast-road-trip.jpg"
 categories: ["Road Trip"]
 categorySlugs: ["road-trip"]
 excerpt: "A Pacific Coast road trip stands out not only as one of the finest road expeditions worldwide but also secures a coveted spot on the wish list of most road-trippers. The route boasts a diverse landscape, ranging from sun-kissed beaches and swaying palm trees to misty coastlines adorned with majestic&#8230;"

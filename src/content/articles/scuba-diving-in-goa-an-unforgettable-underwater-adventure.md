@@ -2,6 +2,7 @@
 title: "Scuba Diving in Goa: An Unforgettable Underwater Adventure"
 date: "2025-09-24"
 postSlug: "scuba-diving-in-goa-an-unforgettable-underwater-adventure"
+image: "/images/scuba-diving-in-goa-an-unforgettable-underwater-adventure.jpg"
 categories: ["Asia", "Destinations"]
 categorySlugs: ["asia", "destinations"]
 excerpt: "Goa, with its stunning coastline and rich marine life, offers a scuba diving experience that&#8217;s both exhilarating and serene. The clear, warm waters of the Arabian Sea create an ideal environment for both beginners and experienced divers. 1. Top Scuba Diving Sites in Goa Grande Island: Known for its clear&#8230;"

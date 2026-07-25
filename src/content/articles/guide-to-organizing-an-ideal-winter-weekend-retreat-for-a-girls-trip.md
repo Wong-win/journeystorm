@@ -2,6 +2,7 @@
 title: "Guide to Organizing an Ideal Winter Weekend Retreat for a Girls' Trip"
 date: "2025-09-15"
 postSlug: "guide-to-organizing-an-ideal-winter-weekend-retreat-for-a-girls-trip"
+image: "/images/guide-to-organizing-an-ideal-winter-weekend-retreat-for-a-girls-trip.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
 excerpt: "What could be more delightful than whisking away your dearest friends for a weekend of relaxation and fun? Imagine escaping to a tranquil setting, be it a vineyard, lakeside haven, or a cozy forest retreat, where the chaos of everyday life fades into the background. Winter weekends are about unwinding&#8230;"

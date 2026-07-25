@@ -2,6 +2,7 @@
 title: "20 Aventures Mémorables en Afrique"
 date: "2025-12-22"
 postSlug: "20-memorable-adventures-in-africa"
+image: "/images/The-Souks-of-Marrakech-Insight-Guides.jpg"
 categories: ["Africa", "Destinations"]
 categorySlugs: ["africa", "destinations"]
 excerpt: "L&#8217;Afrique, un continent de immense beauté et diversité, possède des paysages allant des vastes savanes aux dunes de sable imposantes. Connue comme le berceau de l&#8217;humanité, elle offre des rencontres uniques avec des cultures anciennes et une faune diverse. Choisir où visiter en Afrique peut être décourageant, alors voici un&#8230;"

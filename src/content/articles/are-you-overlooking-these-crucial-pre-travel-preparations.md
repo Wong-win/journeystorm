@@ -2,6 +2,7 @@
 title: "Are You Overlooking These Crucial Pre-Travel Preparations?"
 date: "2025-06-13"
 postSlug: "are-you-overlooking-these-crucial-pre-travel-preparations"
+image: "/images/are-you-overlooking-these-crucial-pre-travel-preparations.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
 excerpt: "Are you gearing up for an international trip to a thrilling locale? Maybe your itinerary includes a journey to South Africa, a trip to witness the Northern Lights, a Broadway show visit, or a chance to admire the Sydney Opera House. No matter your destination, it&#8217;s crucial to nail down&#8230;"

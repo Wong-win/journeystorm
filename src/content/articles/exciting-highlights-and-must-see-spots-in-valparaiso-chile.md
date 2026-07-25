@@ -2,6 +2,7 @@
 title: "Points Forts Passionnants et Endroits Incontournables à Valparaíso, au Chili"
 date: "2025-06-04"
 postSlug: "exciting-highlights-and-must-see-spots-in-valparaiso-chile"
+image: "/images/exciting-highlights-and-must-see-spots-in-valparaiso-chile.jpg"
 categories: ["America", "Destinations"]
 categorySlugs: ["america", "destinations"]
 excerpt: "Valparaíso, autrefois surnommée « Le Joyau de l&#8217;Amérique du Sud », est une ville débordante d&#8217;histoire et d&#8217;architecture étonnante, en faisant une destination incontournable pour les voyageurs au Chili. La ville a connu un regain de jeunesse au cours des deux dernières décennies, apportant une énergie vibrante à ses attractions&#8230;."

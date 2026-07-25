@@ -2,6 +2,7 @@
 title: "The Ultimate Road Trip to Discover Northern Wisconsin's Spectacular Waterfalls"
 date: "2025-10-23"
 postSlug: "the-ultimate-road-trip-to-discover-northern-wisconsins-spectacular-waterfalls"
+image: "/images/the-ultimate-road-trip-to-discover-northern-wisconsins-spectacular-waterfalls.jpg"
 categories: ["Road Trip"]
 categorySlugs: ["road-trip"]
 excerpt: "If you&#8217;ve ever set foot in Wisconsin, chances are you&#8217;ve heard whispers or caught glimpses of its myriad enchanting waterfalls. Often hidden treasures cherished by locals, Wisconsin&#8217;s waterfalls possess the power to leave you awestruck. After your visit, consider creating a personalized photobook to immortalize those cherished memories. This northern&#8230;"

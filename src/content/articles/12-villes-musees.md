@@ -2,6 +2,7 @@
 title: "12 villes que nous visiterions juste pour les musées"
 date: "2026-04-26"
 postSlug: "12-villes-musees"
+image: "/images/12-villes-musees.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
 excerpt: "Oubliez les sites touristiques sur les cartes postales — parfois la meilleure façon de découvrir une ville, ce sont ses musées. Que vous soyez passionné d&#8217;antiquités ou d&#8217;installations contemporaines, le bon musée peut offrir une fenêtre sur l&#8217;âme d&#8217;une ville. Ci-dessous, 12 pôles culturels du monde entier et leurs musées&#8230;"

@@ -2,6 +2,7 @@
 title: "Preparing for Potential Flight Delays and Cancellations"
 date: "2025-06-28"
 postSlug: "preparing-for-potential-flight-delays-and-cancellations"
+image: "/images/Know-your-rights-when-your-flight-is-delayed-or-cancelled.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
 excerpt: "Traveling abroad is a fantastic aspect of modern life, with air travel making it easier to explore the world. However, for those new to flying, flying solo, dealing with cancellations, or just finding their way around, here are tips to help you navigate air travel like an expert. Handling Flight&#8230;"

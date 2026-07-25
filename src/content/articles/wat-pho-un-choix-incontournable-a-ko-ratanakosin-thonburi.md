@@ -2,6 +2,7 @@
 title: "Wat Pho Un choix incontournable à Ko Ratanakosin & Thonburi"
 date: "2025-12-27"
 postSlug: "wat-pho-un-choix-incontournable-a-ko-ratanakosin-thonburi"
+image: "/images/LPI-12995-29-1024x678.jpg"
 categories: ["Asia", "Destinations"]
 categorySlugs: ["asia", "destinations"]
 excerpt: "&nbsp; Wat Pho est notre site préféré parmi les plus grands sites de Bangkok. En fait, le complexe incorpore plusieurs superlatifs : le plus grand Bouddha couché de la ville, la plus grande collection d&#8217;images de Bouddha en Thaïlande et le premier centre d&#8217;éducation publique du pays. Points forts Bouddha&#8230;"

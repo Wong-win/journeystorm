@@ -2,6 +2,7 @@
 title: "10 Trendy Travel Recommendations for Exploring Manchester"
 date: "2025-08-13"
 postSlug: "10-trendy-travel-recommendations-for-exploring-manchester"
+image: "/images/10-Most-Iconic-Buildings-in-Manchester-Discover-the-Most-Famous-Landmarks-of-Manchester-–-Go-Guides.jpg"
 categories: ["Destinations", "Europe"]
 categorySlugs: ["destinations", "europe"]
 excerpt: "Move over, London – Manchester, with its vibrant bars, stylish cafes, and legendary music scene, is quickly becoming the UK&#8217;s most fashionable destination. As the proud home of The University of Manchester and affectionately known as &#8216;The Capital of the North&#8217;, Manchester is a city that&#8217;s rich in culture and&#8230;"

@@ -2,6 +2,7 @@
 title: "Top USA Road Trip Destinations for a Memorable Journey with Friends"
 date: "2025-06-23"
 postSlug: "top-usa-road-trip-destinations-for-a-memorable-journey-with-friends"
+image: "/images/10-Most-Popular-Neighbourhoods-in-New-Orleans-Where-to-Stay-in-New-Orleans-–-Go-Guides.jpg"
 categories: ["Road Trip"]
 categorySlugs: ["road-trip"]
 excerpt: "Are you gearing up for a road trip adventure with your buddies? Great news, you&#8217;ve landed at the perfect spot for some inspiration! I&#8217;ve scoured various sources and rounded up the best places in the United States that are must-visits on a road trip with friends. Being a college senior&#8230;"
