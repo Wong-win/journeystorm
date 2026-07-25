@@ -1,0 +1,50 @@
+[
+  {
+    "id": 30,
+    "count": 9,
+    "name": "Africa",
+    "slug": "africa"
+  },
+  {
+    "id": 6,
+    "count": 11,
+    "name": "America",
+    "slug": "america"
+  },
+  {
+    "id": 7,
+    "count": 9,
+    "name": "Asia",
+    "slug": "asia"
+  },
+  {
+    "id": 2,
+    "count": 36,
+    "name": "Destinations",
+    "slug": "destinations"
+  },
+  {
+    "id": 4,
+    "count": 13,
+    "name": "Europe",
+    "slug": "europe"
+  },
+  {
+    "id": 31,
+    "count": 9,
+    "name": "Road Trip",
+    "slug": "road-trip"
+  },
+  {
+    "id": 5,
+    "count": 26,
+    "name": "Travel Tips",
+    "slug": "travel-tips"
+  },
+  {
+    "id": 1,
+    "count": 1,
+    "name": "Uncategorized",
+    "slug": "uncategorized"
+  }
+]

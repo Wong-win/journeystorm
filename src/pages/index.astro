@@ -1,0 +1,94 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+
+const articles = (await getCollection("articles"))
+  .sort((a, b) => b.data.date.localeCompare(a.data.date));
+
+const hero = articles[0];
+const featured = articles.slice(1, 4);
+const catSlugs = ["destinations", "europe", "america", "asia", "africa", "travel-tips"];
+const catNames = ["Destinations", "Europe", "America", "Asia", "Africa", "Travel Tips"];
+const shown = new Set<string>();
+if (hero) shown.add(hero.data.postSlug);
+
+const catSections = [];
+for (let i = 0; i < catSlugs.length; i++) {
+  const picked = articles.filter((a) => a.data.categorySlugs.includes(catSlugs[i]) && !shown.has(a.data.postSlug)).slice(0, 4);
+  picked.forEach((a) => shown.add(a.data.postSlug));
+  catSections.push({ name: catNames[i], slug: catSlugs[i], articles: picked });
+}
+
+const latest = articles.filter((a) => !shown.has(a.data.postSlug)).slice(0, 8);
+---
+
+<Layout>
+  {hero && (
+    <section class="home-section">
+      <div class="hero-card">
+        {hero.data.image && <img src={hero.data.image} alt={hero.data.title} />}
+        <div class="hero-overlay">
+          <a href={`/${hero.data.postSlug}/`} class="card-title" style="font-size:1.8rem;color:#fff">{hero.data.title}</a>
+          <div class="card-meta">{new Date(hero.data.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</div>
+        </div>
+      </div>
+    </section>
+  )}
+
+  {featured.length > 0 && (
+    <section class="home-section featured-3col">
+      {featured.map((a) => (
+        <div class="card">
+          {a.data.image && <a href={`/${a.data.postSlug}/`}><img src={a.data.image} alt={a.data.title} class="card-image" loading="lazy" style="height:250px" /></a>}
+          <div class="card-body">
+            <a href={`/category/${a.data.categorySlugs[0] || 'uncategorized'}/`} class="card-category">{a.data.categories[0]}</a>
+            <h3 class="card-title"><a href={`/${a.data.postSlug}/`}>{a.data.title}</a></h3>
+            <div class="card-meta">{new Date(a.data.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</div>
+          </div>
+        </div>
+      ))}
+    </section>
+  )}
+
+  {catSections.map((cat) => cat.articles.length > 0 && (
+    <section class="home-section">
+      <h2 class="section-title">{cat.name} <a href={`/category/${cat.slug}/`}>View All</a></h2>
+      <div class="mixed-block">
+        <div class="main-card card">
+          {cat.articles[0].data.image && <a href={`/${cat.articles[0].data.postSlug}/`}><img src={cat.articles[0].data.image} alt={cat.articles[0].data.title} class="card-image" loading="lazy" /></a>}
+          <div class="card-body">
+            <a href={`/category/${cat.slug}/`} class="card-category">{cat.name}</a>
+            <h3 class="card-title"><a href={`/${cat.articles[0].data.postSlug}/`}>{cat.articles[0].data.title}</a></h3>
+            <div class="card-meta">{new Date(cat.articles[0].data.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</div>
+          </div>
+        </div>
+        <div class="list-card">
+          {cat.articles.slice(1).map((a) => (
+            <div class="list-item">
+              <a href={`/${a.data.postSlug}/`}>{a.data.title}</a>
+              <div class="card-meta" style="margin-top:4px">{new Date(a.data.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  ))}
+
+  {latest.length > 0 && (
+    <section class="home-section">
+      <h2 class="section-title">Latest Articles</h2>
+      <div class="latest-grid">
+        {latest.map((a) => (
+          <div class="card">
+            {a.data.image && <a href={`/${a.data.postSlug}/`}><img src={a.data.image} alt={a.data.title} class="card-image" loading="lazy" /></a>}
+            <div class="card-body">
+              <h3 class="card-title"><a href={`/${a.data.postSlug}/`}>{a.data.title}</a></h3>
+              {a.data.excerpt && <p class="card-excerpt">{a.data.excerpt.slice(0, 80)}...</p>}
+              <a href={`/${a.data.postSlug}/`} class="btn-more">READ MORE</a>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+  )}
+</Layout>

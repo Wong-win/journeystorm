@@ -1,0 +1,46 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+  const articles = await getCollection("articles");
+  const catMap = new Map<string, string>();
+  const catCount = new Map<string, number>();
+  for (const a of articles) {
+    for (let i = 0; i < a.data.categories.length; i++) {
+      const cn = a.data.categories[i];
+      const cs = a.data.categorySlugs[i] || cn;
+      if (!catMap.has(cs)) catMap.set(cs, cn);
+      catCount.set(cs, (catCount.get(cs) || 0) + 1);
+    }
+  }
+  return Array.from(catMap.keys()).map((slug) => ({
+    params: { slug },
+    props: { categoryName: catMap.get(slug)!, count: catCount.get(slug) || 0 },
+  }));
+}
+
+const { categoryName, count } = Astro.props;
+const articles = (await getCollection("articles"))
+  .filter((a) => a.data.categorySlugs.includes(Astro.params.slug!))
+  .sort((a, b) => b.data.date.localeCompare(a.data.date));
+---
+
+<Layout title={categoryName}>
+  <div class="cat-header">
+    <h1>{categoryName}</h1>
+    <p>{count} articles</p>
+  </div>
+  <div class="post-grid">
+    {articles.map((a) => (
+      <div class="card">
+        {a.data.image && <a href={`/${a.data.postSlug}/`}><img src={a.data.image} alt={a.data.title} class="card-image" loading="lazy" style="height:200px" /></a>}
+        <div class="card-body">
+          <h3 class="card-title"><a href={`/${a.data.postSlug}/`}>{a.data.title}</a></h3>
+          <div class="card-meta">{new Date(a.data.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</div>
+          {a.data.excerpt && <p class="card-excerpt">{a.data.excerpt.slice(0, 120)}...</p>}
+        </div>
+      </div>
+    ))}
+  </div>
+</Layout>

@@ -1,0 +1,58 @@
+---
+import "../styles/global.css";
+
+export interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+}
+
+const { title, description, image } = Astro.props;
+const siteTitle = title ? `${title} — JourneyStorm` : "JourneyStorm — Travel Guides & Inspiration";
+const desc = description || "Discover the world with JourneyStorm. Travel guides, tips, and inspiration for your next adventure across Africa, America, Asia, and Europe.";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{siteTitle}</title>
+    <meta name="description" content={desc} />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
+    <meta property="og:title" content={siteTitle} />
+    <meta property="og:description" content={desc} />
+    <meta property="og:type" content="website" />
+    {image && <meta property="og:image" content={image} />}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <a href="/" class="logo-link"><span class="logo-text">Journey<span class="logo-accent">Storm</span></span></a>
+        <nav class="main-nav">
+          <a href="/" class="nav-link">Home</a>
+          <a href="/category/destinations/" class="nav-link">Destinations</a>
+          <a href="/category/europe/" class="nav-link">Europe</a>
+          <a href="/category/america/" class="nav-link">America</a>
+          <a href="/category/asia/" class="nav-link">Asia</a>
+          <a href="/category/africa/" class="nav-link">Africa</a>
+          <a href="/category/travel-tips/" class="nav-link">Travel Tips</a>
+        </nav>
+      </div>
+    </header>
+    <main><slot /></main>
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div class="footer-links">
+          <a href="/about/">About</a>
+          <a href="/contact/">Contact</a>
+          <a href="/privacy-policy/">Privacy Policy</a>
+        </div>
+        <p class="footer-copy">&copy; 2026 JourneyStorm. All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>
