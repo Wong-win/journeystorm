@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Accueil"
 date: "2017-08-31"
 postSlug: "home"
 image: "/images/home.jpg"

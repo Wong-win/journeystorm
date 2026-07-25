@@ -8,12 +8,12 @@ export interface Props {
 }
 
 const { title, description, image } = Astro.props;
-const siteTitle = title ? `${title} — JourneyStorm` : "JourneyStorm — Travel Guides & Inspiration";
-const desc = description || "Discover the world with JourneyStorm. Travel guides, tips, and inspiration for your next adventure across Africa, America, Asia, and Europe.";
+const siteTitle = title ? `${title} — JourneyStorm` : "JourneyStorm — Guides de Voyage & Inspiration";
+const desc = description || "Découvrez le monde avec JourneyStorm. Guides de voyage, conseils et inspiration pour votre prochaine aventure à travers l'Afrique, l'Amérique, l'Asie et l'Europe.";
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -33,13 +33,13 @@ const desc = description || "Discover the world with JourneyStorm. Travel guides
       <div class="header-inner">
         <a href="/" class="logo-link"><span class="logo-text">Journey<span class="logo-accent">Storm</span></span></a>
         <nav class="main-nav">
-          <a href="/" class="nav-link">Home</a>
+          <a href="/" class="nav-link">Accueil</a>
           <a href="/category/destinations/" class="nav-link">Destinations</a>
           <a href="/category/europe/" class="nav-link">Europe</a>
-          <a href="/category/america/" class="nav-link">America</a>
-          <a href="/category/asia/" class="nav-link">Asia</a>
-          <a href="/category/africa/" class="nav-link">Africa</a>
-          <a href="/category/travel-tips/" class="nav-link">Travel Tips</a>
+          <a href="/category/america/" class="nav-link">Amérique</a>
+          <a href="/category/asia/" class="nav-link">Asie</a>
+          <a href="/category/africa/" class="nav-link">Afrique</a>
+          <a href="/category/travel-tips/" class="nav-link">Conseils</a>
         </nav>
       </div>
     </header>
@@ -47,11 +47,11 @@ const desc = description || "Discover the world with JourneyStorm. Travel guides
     <footer class="site-footer">
       <div class="footer-inner">
         <div class="footer-links">
-          <a href="/about/">About</a>
+          <a href="/about/">À propos</a>
           <a href="/contact/">Contact</a>
-          <a href="/privacy-policy/">Privacy Policy</a>
+          <a href="/privacy-policy/">Politique de confidentialité</a>
         </div>
-        <p class="footer-copy">&copy; 2026 JourneyStorm. All rights reserved.</p>
+        <p class="footer-copy">&copy; 2026 JourneyStorm. Tous droits réservés.</p>
       </div>
     </footer>
   </body>

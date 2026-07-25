@@ -23,7 +23,7 @@ const { body } = article;
     <h1>{title}</h1>
     <div class="article-meta">
       <time datetime={date}>
-        {new Date(date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
+        {new Date(date).toLocaleDateString("fr-FR", { year: "numeric", month: "long", day: "numeric" })}
       </time>
       {categories.length > 0 && <span> &middot; </span>}
       {categories.map((cat: string, i: number) => (

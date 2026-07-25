@@ -2,93 +2,82 @@
 import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 
-const articles = (await getCollection("articles"))
+const allArticles = (await getCollection("articles"))
   .sort((a, b) => b.data.date.localeCompare(a.data.date));
 
-const hero = articles[0];
-const featured = articles.slice(1, 4);
-const catSlugs = ["destinations", "europe", "america", "asia", "africa", "travel-tips"];
-const catNames = ["Destinations", "Europe", "America", "Asia", "Africa", "Travel Tips"];
-const shown = new Set<string>();
-if (hero) shown.add(hero.data.postSlug);
-
-const catSections = [];
-for (let i = 0; i < catSlugs.length; i++) {
-  const picked = articles.filter((a) => a.data.categorySlugs.includes(catSlugs[i]) && !shown.has(a.data.postSlug)).slice(0, 4);
-  picked.forEach((a) => shown.add(a.data.postSlug));
-  catSections.push({ name: catNames[i], slug: catSlugs[i], articles: picked });
-}
-
-const latest = articles.filter((a) => !shown.has(a.data.postSlug)).slice(0, 8);
+const hero = allArticles[0];
+const grid = allArticles.slice(1);
 ---
 
 <Layout>
+  <!-- HERO -->
   {hero && (
     <section class="home-section">
       <div class="hero-card">
         {hero.data.image && <img src={hero.data.image} alt={hero.data.title} />}
         <div class="hero-overlay">
-          <a href={`/${hero.data.postSlug}/`} class="card-title" style="font-size:1.8rem;color:#fff">{hero.data.title}</a>
-          <div class="card-meta">{new Date(hero.data.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</div>
+          <div class="card-category">
+            {hero.data.categories.map((cat: string, i: number) => (
+              <a href={`/category/${hero.data.categorySlugs[i] || cat}/`} style="color:#fff;text-decoration:none;">{cat}{i < hero.data.categories.length - 1 && " · "}</a>
+            ))}
+          </div>
+          <h2 style="margin:8px 0;font-size:1.8rem">
+            <a href={`/${hero.data.postSlug}/`} style="color:#fff;text-decoration:none;">{hero.data.title}</a>
+          </h2>
+          <div class="card-meta" style="color:rgba(255,255,255,0.8)">
+            {new Date(hero.data.date).toLocaleDateString("fr-FR", { year: "numeric", month: "long", day: "numeric" })}
+          </div>
         </div>
       </div>
     </section>
   )}
 
-  {featured.length > 0 && (
-    <section class="home-section featured-3col">
-      {featured.map((a) => (
-        <div class="card">
-          {a.data.image && <a href={`/${a.data.postSlug}/`}><img src={a.data.image} alt={a.data.title} class="card-image" loading="lazy" style="height:250px" /></a>}
+  <!-- 3-COLUMN GRID -->
+  <section class="home-section">
+    <div class="three-col-grid">
+      {grid.map((a) => (
+        <article class="card">
+          {a.data.image && (
+            <a href={`/${a.data.postSlug}/`} class="card-img-link">
+              <img src={a.data.image} alt={a.data.title} class="card-image" loading="lazy" />
+            </a>
+          )}
           <div class="card-body">
-            <a href={`/category/${a.data.categorySlugs[0] || 'uncategorized'}/`} class="card-category">{a.data.categories[0]}</a>
-            <h3 class="card-title"><a href={`/${a.data.postSlug}/`}>{a.data.title}</a></h3>
-            <div class="card-meta">{new Date(a.data.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</div>
-          </div>
-        </div>
-      ))}
-    </section>
-  )}
-
-  {catSections.map((cat) => cat.articles.length > 0 && (
-    <section class="home-section">
-      <h2 class="section-title">{cat.name} <a href={`/category/${cat.slug}/`}>View All</a></h2>
-      <div class="mixed-block">
-        <div class="main-card card">
-          {cat.articles[0].data.image && <a href={`/${cat.articles[0].data.postSlug}/`}><img src={cat.articles[0].data.image} alt={cat.articles[0].data.title} class="card-image" loading="lazy" /></a>}
-          <div class="card-body">
-            <a href={`/category/${cat.slug}/`} class="card-category">{cat.name}</a>
-            <h3 class="card-title"><a href={`/${cat.articles[0].data.postSlug}/`}>{cat.articles[0].data.title}</a></h3>
-            <div class="card-meta">{new Date(cat.articles[0].data.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</div>
-          </div>
-        </div>
-        <div class="list-card">
-          {cat.articles.slice(1).map((a) => (
-            <div class="list-item">
+            <div class="card-category">
+              {a.data.categories.slice(0, 2).map((cat: string, i: number) => (
+                <a href={`/category/${a.data.categorySlugs[i] || cat}/`}>{cat}{i < Math.min(a.data.categories.length, 2) - 1 && " · "}</a>
+              ))}
+            </div>
+            <h3 class="card-title">
               <a href={`/${a.data.postSlug}/`}>{a.data.title}</a>
-              <div class="card-meta" style="margin-top:4px">{new Date(a.data.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</div>
+            </h3>
+            <div class="card-meta">
+              {new Date(a.data.date).toLocaleDateString("fr-FR", { year: "numeric", month: "long", day: "numeric" })}
             </div>
-          ))}
-        </div>
-      </div>
-    </section>
-  ))}
-
-  {latest.length > 0 && (
-    <section class="home-section">
-      <h2 class="section-title">Latest Articles</h2>
-      <div class="latest-grid">
-        {latest.map((a) => (
-          <div class="card">
-            {a.data.image && <a href={`/${a.data.postSlug}/`}><img src={a.data.image} alt={a.data.title} class="card-image" loading="lazy" /></a>}
-            <div class="card-body">
-              <h3 class="card-title"><a href={`/${a.data.postSlug}/`}>{a.data.title}</a></h3>
-              {a.data.excerpt && <p class="card-excerpt">{a.data.excerpt.slice(0, 80)}...</p>}
-              <a href={`/${a.data.postSlug}/`} class="btn-more">READ MORE</a>
-            </div>
+            {a.data.excerpt && <p class="card-excerpt">{a.data.excerpt.slice(0, 100)}</p>}
           </div>
-        ))}
-      </div>
-    </section>
-  )}
+        </article>
+      ))}
+    </div>
+  </section>
 </Layout>
+
+<style>
+  .three-col-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px;
+  }
+  .card-img-link { display: block; overflow: hidden; }
+  .card-image { height: 220px; width: 100%; object-fit: cover; transition: transform 0.3s; }
+  .card:hover .card-image { transform: scale(1.03); }
+
+  @media (max-width: 900px) {
+    .three-col-grid { grid-template-columns: repeat(2, 1fr); }
+    .card-image { height: 200px; }
+  }
+  @media (max-width: 600px) {
+    .three-col-grid { grid-template-columns: 1fr; }
+    .hero-card img { height: 280px; }
+  }
+</style>
