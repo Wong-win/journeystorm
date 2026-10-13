@@ -1,6 +1,6 @@
 ---
 title: "Se Préparer pour un Voyage à New York : Guide Étape par Étape"
-date: "2025-11-15"
+date: "2026-02-25"
 postSlug: "getting-ready-for-a-new-york-city-trip-step-by-step-guide"
 image: "/images/New-York-City-Travel-Guide-Chill.jpg"
 categories: ["Travel Tips"]

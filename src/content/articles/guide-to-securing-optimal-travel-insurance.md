@@ -1,6 +1,6 @@
 ---
 title: "Guide pour Obtenir une Assurance Voyage Optimale"
-date: "2025-05-21"
+date: "2025-08-20"
 postSlug: "guide-to-securing-optimal-travel-insurance"
 image: "/images/guide-to-securing-optimal-travel-insurance.jpg"
 categories: ["Travel Tips"]

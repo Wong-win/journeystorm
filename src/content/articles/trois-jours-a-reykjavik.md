@@ -1,6 +1,6 @@
 ---
 title: "Trois jours à Reykjavik"
-date: "2026-03-17"
+date: "2026-05-16"
 postSlug: "trois-jours-a-reykjavik"
 image: "/images/caption-37-1024x683.jpg"
 categories: ["Europe"]

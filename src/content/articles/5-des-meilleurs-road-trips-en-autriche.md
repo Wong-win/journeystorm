@@ -1,6 +1,6 @@
 ---
 title: "5 des meilleurs road trips en Autriche"
-date: "2026-04-14"
+date: "2026-06-15"
 postSlug: "5-des-meilleurs-road-trips-en-autriche"
 image: "/images/5-des-meilleurs-road-trips-en-autriche.jpg"
 categories: ["Road Trip"]

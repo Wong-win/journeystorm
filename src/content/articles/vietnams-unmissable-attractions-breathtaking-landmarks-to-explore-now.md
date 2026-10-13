@@ -1,6 +1,6 @@
 ---
 title: "Attractions incontournables du Vietnam : des sites à couper le souffle à explorer dès maintenant !"
-date: "2025-11-24"
+date: "2026-03-07"
 postSlug: "vietnams-unmissable-attractions-breathtaking-landmarks-to-explore-now"
 image: "/images/vietnams-unmissable-attractions-breathtaking-landmarks-to-explore-now.jpg"
 categories: ["Asia", "Destinations"]

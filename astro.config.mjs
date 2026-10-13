@@ -1,5 +1,2 @@
-import { defineConfig } from "astro/config";
-
-export default defineConfig({
-  site: "https://journeystorm.com",
-});
+import { defineConfig } from "astro/config"; import sitemap from "@astrojs/sitemap";
+export default defineConfig({ site: "https://www.journeystorm.com", integrations: [sitemap()], trailingSlash: "always" });

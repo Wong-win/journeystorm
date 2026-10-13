@@ -1,6 +1,6 @@
 ---
 title: "Points Forts Passionnants et Endroits Incontournables à Valparaíso, au Chili"
-date: "2025-06-04"
+date: "2025-09-04"
 postSlug: "exciting-highlights-and-must-see-spots-in-valparaiso-chile"
 image: "/images/exciting-highlights-and-must-see-spots-in-valparaiso-chile.jpg"
 categories: ["America", "Destinations"]

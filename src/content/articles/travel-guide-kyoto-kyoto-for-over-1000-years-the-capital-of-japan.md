@@ -1,6 +1,6 @@
 ---
 title: "Guide de voyage Kyoto - Kyoto, pendant plus de 1000 ans la capitale du Japon"
-date: "2025-07-30"
+date: "2025-11-03"
 postSlug: "travel-guide-kyoto-kyoto-for-over-1000-years-the-capital-of-japan"
 image: "/images/travel-guide-kyoto-kyoto-for-over-1000-years-the-capital-of-japan.jpg"
 categories: ["Asia", "Destinations"]

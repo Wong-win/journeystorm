@@ -1,6 +1,6 @@
 ---
 title: "Le Road Trip Ultime pour Découvrir les Spectaculaires Cascades du Nord du Wisconsin"
-date: "2025-10-23"
+date: "2026-01-31"
 postSlug: "the-ultimate-road-trip-to-discover-northern-wisconsins-spectacular-waterfalls"
 image: "/images/the-ultimate-road-trip-to-discover-northern-wisconsins-spectacular-waterfalls.jpg"
 categories: ["Road Trip"]

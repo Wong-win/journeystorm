@@ -1,6 +1,6 @@
 ---
 title: "Votre Guide Essentiel pour Explorer Manta, Équateur"
-date: "2025-08-27"
+date: "2025-12-03"
 postSlug: "your-essential-guide-to-exploring-manta-ecuador"
 image: "/images/your-essential-guide-to-exploring-manta-ecuador.jpg"
 categories: ["America", "Destinations"]

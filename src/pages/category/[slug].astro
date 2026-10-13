@@ -27,7 +27,7 @@ const articles = (await getCollection("articles"))
   .sort((a, b) => b.data.date.localeCompare(a.data.date));
 ---
 
-<Layout title={categoryName}>
+<Layout title={categoryName} description={`Articles de voyage ${categoryName} — guides, destinations, conseils et inspiration pour explorer le monde.`}>
   <div class="cat-header">
     <h1>{categoryName}</h1>
     <p>{count} articles</p>

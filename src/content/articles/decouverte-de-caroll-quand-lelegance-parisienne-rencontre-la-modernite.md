@@ -1,6 +1,6 @@
 ---
 title: "Découverte de CAROLL : Quand l'Élégance Parisienne Rencontre la Modernité"
-date: "2026-03-31"
+date: "2026-05-31"
 postSlug: "decouverte-de-caroll-quand-lelegance-parisienne-rencontre-la-modernite"
 image: "/images/pull-mzoan-100-cachemire-bleu-marine-femme-vue1-35967740006361047-768x1024.jpg"
 categories: ["Uncategorized"]

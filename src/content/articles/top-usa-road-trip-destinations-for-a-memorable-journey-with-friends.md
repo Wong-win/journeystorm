@@ -1,6 +1,6 @@
 ---
 title: "Les meilleures destinations de road trip aux États-Unis pour un voyage mémorable entre amis"
-date: "2025-06-23"
+date: "2025-09-24"
 postSlug: "top-usa-road-trip-destinations-for-a-memorable-journey-with-friends"
 image: "/images/10-Most-Popular-Neighbourhoods-in-New-Orleans-Where-to-Stay-in-New-Orleans-–-Go-Guides.jpg"
 categories: ["Road Trip"]

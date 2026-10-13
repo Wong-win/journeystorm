@@ -1,6 +1,6 @@
 ---
 title: "Explorer les Catacombes de Paris : Un Voyage dans l'Histoire Macabre de la Ville"
-date: "2026-01-19"
+date: "2026-04-21"
 postSlug: "exploring-the-catacombs-of-paris-a-journey-into-the-citys-macabre-history"
 image: "/images/caption-2-1024x768.jpg"
 categories: ["Europe"]

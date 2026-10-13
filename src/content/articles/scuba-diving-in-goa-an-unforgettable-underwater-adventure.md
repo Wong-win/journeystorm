@@ -1,6 +1,6 @@
 ---
 title: "Plongée sous-marine à Goa : une aventure sous-marine inoubliable"
-date: "2025-09-24"
+date: "2026-01-02"
 postSlug: "scuba-diving-in-goa-an-unforgettable-underwater-adventure"
 image: "/images/scuba-diving-in-goa-an-unforgettable-underwater-adventure.jpg"
 categories: ["Asia", "Destinations"]

@@ -1,6 +1,6 @@
 ---
 title: "Planificateur de Voyage au Portugal : Meilleures Recommandations de Restauration, d'Hébergement et de Visites"
-date: "2025-07-16"
+date: "2025-10-19"
 postSlug: "portugal-journey-planner-top-dining-accommodation-and-sightseeing-recommendations"
 image: "/images/Best-Cities-in-Portugal-to-Get-Off-the-Beaten-Path-Global-Debauchery.jpg"
 categories: ["Destinations", "Europe"]

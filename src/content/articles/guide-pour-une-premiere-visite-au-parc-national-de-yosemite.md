@@ -1,6 +1,6 @@
 ---
 title: "Guide pour une première visite au parc national de Yosemite"
-date: "2026-04-09"
+date: "2026-06-10"
 postSlug: "guide-pour-une-premiere-visite-au-parc-national-de-yosemite"
 image: "/images/caption-14-1024x576.jpg"
 categories: ["America"]

@@ -1,6 +1,6 @@
 ---
 title: "Expérience de Glamping Exceptionnelle : Les Avantages de Réserver un Pod Économique"
-date: "2025-09-29"
+date: "2026-01-07"
 postSlug: "exceptional-glamping-experience-the-benefits-of-booking-an-economical-pod"
 image: "/images/exceptional-glamping-experience-the-benefits-of-booking-an-economical-pod.jpg"
 categories: ["Road Trip"]

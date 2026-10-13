@@ -1,6 +1,6 @@
 ---
 title: "Top 10 des activités incontournables à Colombo, au Sri Lanka"
-date: "2025-12-08"
+date: "2026-03-22"
 postSlug: "top-10-must-do-activities-in-colombo-sri-lanka"
 image: "/images/Book-Sri-Lanka-Anuradhapura-Polonnaruwa-Sigiriya-Minneriya-Dambulla-Kandy-Nuwara-Eliya-Ella-Diyaluma-Waterfall-Yala-National-Park-Mirissa-Galle-Bentota-Colombo-tour-packages-Tripoto.webp"
 categories: ["Asia", "Destinations"]

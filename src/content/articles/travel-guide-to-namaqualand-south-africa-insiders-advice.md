@@ -1,6 +1,6 @@
 ---
 title: "Guide de voyage au Namaqualand, Afrique du Sud : Conseils d'initiés !"
-date: "2025-09-06"
+date: "2025-12-13"
 postSlug: "travel-guide-to-namaqualand-south-africa-insiders-advice"
 image: "/images/travel-guide-to-namaqualand-south-africa-insiders-advice.jpg"
 categories: ["Africa", "Destinations", "Travel Tips"]

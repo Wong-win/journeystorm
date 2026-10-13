@@ -1,6 +1,6 @@
 ---
 title: "Explorer le voyage comme passe-temps : principaux avantages et conseils utiles"
-date: "2025-09-10"
+date: "2025-12-18"
 postSlug: "exploring-travel-as-a-hobby-top-advantages-and-useful-advice"
 image: "/images/Is-Travelling-a-Hobby-or-Something-Different-Altogether-—-Whats-Danny-Doing.jpg"
 categories: ["Travel Tips"]

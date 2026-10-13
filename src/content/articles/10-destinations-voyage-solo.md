@@ -1,6 +1,6 @@
 ---
 title: "10 destinations de voyage en solo à visiter maintenant"
-date: "2026-04-26"
+date: "2026-07-26"
 postSlug: "10-destinations-voyage-solo"
 image: "/images/10-destinations-voyage-solo.jpg"
 categories: ["Travel Tips"]

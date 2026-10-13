@@ -1,6 +1,6 @@
 ---
 title: "Les joyaux urbains idylliques de la Suisse : à la découverte des meilleures escapades citadines"
-date: "2025-11-20"
+date: "2026-03-02"
 postSlug: "switzerlands-idyllic-urban-gems-exploring-top-city-retreats"
 image: "/images/lucerne-4340260_1920-1-1024x683.jpg"
 categories: ["Destinations", "Europe"]

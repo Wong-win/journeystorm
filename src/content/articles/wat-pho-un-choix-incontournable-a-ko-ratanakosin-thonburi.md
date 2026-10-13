@@ -1,6 +1,6 @@
 ---
 title: "Wat Pho Un choix incontournable à Ko Ratanakosin & Thonburi"
-date: "2025-12-27"
+date: "2026-04-11"
 postSlug: "wat-pho-un-choix-incontournable-a-ko-ratanakosin-thonburi"
 image: "/images/LPI-12995-29-1024x678.jpg"
 categories: ["Asia", "Destinations"]

@@ -1,6 +1,6 @@
 ---
 title: "Top 6 des conseils essentiels à connaître avant votre voyage en Chine : guide du voyageur"
-date: "2025-05-16"
+date: "2025-08-15"
 postSlug: "top-6-essential-tips-to-understand-before-your-trip-to-china-a-travelers-guide"
 image: "/images/Stunning-Guilin-Legends-Of-The-Limestone-Peaks-And-Caves.jpg"
 categories: ["Travel Tips"]

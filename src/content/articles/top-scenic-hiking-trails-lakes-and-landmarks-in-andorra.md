@@ -1,6 +1,6 @@
 ---
 title: "Les Meilleurs Sentiers de Randonnée Pittoresques, Lacs et Points de Repère en Andorre"
-date: "2025-12-13"
+date: "2026-03-27"
 postSlug: "top-scenic-hiking-trails-lakes-and-landmarks-in-andorra"
 image: "/images/Andorra-Tourism-Travel-Experiences-WhereNext.jpg"
 categories: ["Destinations", "Europe"]

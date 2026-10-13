@@ -1,6 +1,6 @@
 ---
 title: "Votre guide pour explorer le Cercle d'Or depuis Reykjavik"
-date: "2026-03-21"
+date: "2026-05-21"
 postSlug: "votre-guide-pour-explorer-le-cercle-dor-depuis-reykjavik"
 image: "/images/caption-30-1024x768.jpg"
 categories: ["Europe"]

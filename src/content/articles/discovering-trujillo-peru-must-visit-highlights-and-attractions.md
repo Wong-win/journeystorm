@@ -1,6 +1,6 @@
 ---
 title: "Découvrir Trujillo, Pérou : Incontournables et Attractions à Visiter"
-date: "2025-11-29"
+date: "2026-03-12"
 postSlug: "discovering-trujillo-peru-must-visit-highlights-and-attractions"
 image: "/images/Temple-of-the-Moon-the-religious-epicenter-of-the-Moche-culture.jpg"
 categories: ["America", "Destinations"]

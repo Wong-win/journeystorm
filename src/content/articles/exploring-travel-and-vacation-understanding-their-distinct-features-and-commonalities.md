@@ -1,6 +1,6 @@
 ---
 title: "Explorer le voyage et les vacances : Comprendre leurs caractéristiques distinctes et leurs points communs"
-date: "2025-07-02"
+date: "2025-10-04"
 postSlug: "exploring-travel-and-vacation-understanding-their-distinct-features-and-commonalities"
 image: "/images/exploring-travel-and-vacation-understanding-their-distinct-features-and-commonalities.jpg"
 categories: ["Travel Tips"]

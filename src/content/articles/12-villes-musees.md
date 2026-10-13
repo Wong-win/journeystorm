@@ -1,6 +1,6 @@
 ---
 title: "12 villes que nous visiterions juste pour les musées"
-date: "2026-04-26"
+date: "2026-07-05"
 postSlug: "12-villes-musees"
 image: "/images/12-villes-musees.jpg"
 categories: ["Travel Tips"]

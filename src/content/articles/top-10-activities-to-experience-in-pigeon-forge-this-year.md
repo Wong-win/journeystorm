@@ -1,6 +1,6 @@
 ---
 title: "Top 10 des activités à vivre à Pigeon Forge cette année"
-date: "2025-09-20"
+date: "2025-12-28"
 postSlug: "top-10-activities-to-experience-in-pigeon-forge-this-year"
 image: "/images/Wildwood-Grove-Dollywood-Theme-Parks-37-Million-Expansion-Is-Finally-Here.jpg"
 categories: ["America", "Destinations"]

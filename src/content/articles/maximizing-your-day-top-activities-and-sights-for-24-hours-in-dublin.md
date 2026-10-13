@@ -1,6 +1,6 @@
 ---
 title: "Optimiser votre journée : Les meilleures activités et sites à voir en 24 heures à Dublin"
-date: "2025-06-09"
+date: "2025-09-09"
 postSlug: "maximizing-your-day-top-activities-and-sights-for-24-hours-in-dublin"
 image: "/images/Guided-Walking-Tour-of-Book-of-Kells-and-Trinity-College-Dublin-2023-Viator.jpg"
 categories: ["Destinations", "Europe"]

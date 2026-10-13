@@ -1,6 +1,6 @@
 ---
 title: "7 lieux à voir absolument dans vos films et séries préférés"
-date: "2026-04-26"
+date: "2026-07-25"
 postSlug: "7-lieux-voir-absolument-dans-vos-films-et-s-ries-pr-f-r-s"
 image: "/images/7-lieux-voir-absolument-dans-vos-films-et-s-ries-pr-f-r-s.jpg"
 categories: ["Travel Tips"]

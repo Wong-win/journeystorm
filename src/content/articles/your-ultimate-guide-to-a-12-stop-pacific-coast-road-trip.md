@@ -1,6 +1,6 @@
 ---
 title: "Aventure sur la Pacific Coast Highway : 12 Arrêts Incontournables pour le Road Trip Ultime !"
-date: "2025-11-10"
+date: "2026-02-20"
 postSlug: "your-ultimate-guide-to-a-12-stop-pacific-coast-road-trip"
 image: "/images/your-ultimate-guide-to-a-12-stop-pacific-coast-road-trip.jpg"
 categories: ["Road Trip"]

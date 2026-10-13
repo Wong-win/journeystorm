@@ -1,6 +1,6 @@
 ---
 title: "Comment se déplacer en Sicile : trajets en train pittoresques, ferries et routes de campagne"
-date: "2026-01-24"
+date: "2026-04-26"
 postSlug: "comment-se-deplacer-en-sicile-trajets-en-train-pittoresques-ferries-et-routes-de-campagne"
 image: "/images/comment-se-deplacer-en-sicile-trajets-en-train-pittoresques-ferries-et-routes-de-campagne.jpg"
 categories: ["Destinations", "Europe"]

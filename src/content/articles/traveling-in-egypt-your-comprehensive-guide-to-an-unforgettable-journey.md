@@ -1,6 +1,6 @@
 ---
 title: "Voyager en Égypte : Votre guide complet pour un voyage inoubliable"
-date: "2025-08-23"
+date: "2025-11-28"
 postSlug: "traveling-in-egypt-your-comprehensive-guide-to-an-unforgettable-journey"
 image: "/images/Guide-to-Egyptian-Culture-and-Customs-Tourist-Egypt.jpg"
 categories: ["Africa", "Destinations"]

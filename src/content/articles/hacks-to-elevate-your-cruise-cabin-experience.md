@@ -1,6 +1,6 @@
 ---
 title: "Astuces pour Optimiser Votre Expérience de Cabine de Croisière"
-date: "2025-12-18"
+date: "2026-04-01"
 postSlug: "hacks-to-elevate-your-cruise-cabin-experience"
 image: "/images/5-Space-Saving-Organizing-Hacks-to-Steal-from-Cruise-Ships-Apartment-Therapy.jpg"
 categories: ["Travel Tips"]

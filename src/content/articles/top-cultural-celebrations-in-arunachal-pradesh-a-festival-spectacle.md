@@ -1,6 +1,6 @@
 ---
 title: "Les Meilleures Célébrations Culturelles de l'Arunachal Pradesh : Un Spectacle de Festivals"
-date: "2025-10-18"
+date: "2026-01-26"
 postSlug: "top-cultural-celebrations-in-arunachal-pradesh-a-festival-spectacle"
 image: "/images/224945293.jpg"
 categories: ["Asia", "Destinations"]

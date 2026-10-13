@@ -1,6 +1,6 @@
 ---
 title: "Les meilleures destinations balnéaires continentales en Thaïlande"
-date: "2025-05-30"
+date: "2025-08-30"
 postSlug: "top-mainland-beach-destinations-in-thailand"
 image: "/images/How-to-Get-to-Railay-Beach-from-Ao-Nang-or-Krabi-in-2023-–-We-Seek-Travel.jpg"
 categories: ["Asia", "Destinations"]

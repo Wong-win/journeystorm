@@ -1,6 +1,6 @@
 ---
 title: "Croisière en Alaska : Guide du Spécialiste des Aurores Boréales"
-date: "2025-07-12"
+date: "2025-10-14"
 postSlug: "alaskan-cruise-a-northern-lights-specialists-handbook"
 image: "/images/alaskan-cruise-a-northern-lights-specialists-handbook.jpg"
 categories: ["America", "Destinations"]

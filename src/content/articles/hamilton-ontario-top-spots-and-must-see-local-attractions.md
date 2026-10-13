@@ -1,6 +1,6 @@
 ---
 title: "Hamilton, Ontario : les meilleurs endroits et attractions locales incontournables"
-date: "2025-11-01"
+date: "2026-02-10"
 postSlug: "hamilton-ontario-top-spots-and-must-see-local-attractions"
 image: "/images/hamilton-ontario-top-spots-and-must-see-local-attractions.jpg"
 categories: ["America", "Destinations"]

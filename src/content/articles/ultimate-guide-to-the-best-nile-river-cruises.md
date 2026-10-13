@@ -1,6 +1,6 @@
 ---
 title: "Guide ultime des meilleures croisières sur le Nil"
-date: "2025-08-04"
+date: "2025-11-08"
 postSlug: "ultimate-guide-to-the-best-nile-river-cruises"
 image: "/images/ultimate-guide-to-the-best-nile-river-cruises.jpg"
 categories: ["Africa", "Destinations", "Travel Tips"]

@@ -1,6 +1,6 @@
 ---
 title: "10 recommandations de voyage tendance pour explorer Manchester"
-date: "2025-08-13"
+date: "2025-11-18"
 postSlug: "10-trendy-travel-recommendations-for-exploring-manchester"
 image: "/images/10-Most-Iconic-Buildings-in-Manchester-Discover-the-Most-Famous-Landmarks-of-Manchester-–-Go-Guides.jpg"
 categories: ["Destinations", "Europe"]

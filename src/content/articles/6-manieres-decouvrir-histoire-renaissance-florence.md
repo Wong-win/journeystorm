@@ -1,6 +1,6 @@
 ---
 title: "6 façons de découvrir l'histoire de la Renaissance à Florence"
-date: "2026-04-26"
+date: "2026-07-10"
 postSlug: "6-manieres-decouvrir-histoire-renaissance-florence"
 image: "/images/6-manieres-decouvrir-histoire-renaissance-florence.jpg"
 categories: ["Travel Tips"]

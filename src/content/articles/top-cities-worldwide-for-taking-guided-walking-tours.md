@@ -1,6 +1,6 @@
 ---
 title: "Les meilleures villes du monde pour les visites guidées à pied"
-date: "2025-10-13"
+date: "2026-01-22"
 postSlug: "top-cities-worldwide-for-taking-guided-walking-tours"
 image: "/images/12-Best-Things-to-Do-in-Edinburgh-What-is-Edinburgh-Most-Famous-For-–-Go-Guides.jpg"
 categories: ["Travel Tips"]

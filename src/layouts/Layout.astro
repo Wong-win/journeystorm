@@ -17,6 +17,7 @@ const desc = description || "Découvrez le monde avec JourneyStorm. Guides de vo
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="canonical" href={new URL(Astro.url.pathname, `https://www.journeystorm.com`)} />
     <title>{siteTitle}</title>
     <meta name="description" content={desc} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -27,6 +28,16 @@ const desc = description || "Découvrez le monde avec JourneyStorm. Guides de vo
     <meta property="og:description" content={desc} />
     <meta property="og:type" content="website" />
     {image && <meta property="og:image" content={image} />}
+      
+    
+      <!-- Google tag (gtag.js) -->
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-0T4J31F1E2"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-0T4J31F1E2');
+    </script>
   </head>
   <body>
     <header class="site-header">

@@ -1,6 +1,6 @@
 ---
 title: "Le voyage ultime par la route à travers le Haut Midwest"
-date: "2025-12-04"
+date: "2026-03-17"
 postSlug: "the-ultimate-road-journey-through-the-upper-midwest"
 image: "/images/the-ultimate-road-journey-through-the-upper-midwest.jpg"
 categories: ["Road Trip"]

@@ -1,6 +1,6 @@
 ---
 title: "Négligez-vous ces préparatifs de voyage essentiels ?"
-date: "2025-06-13"
+date: "2025-09-14"
 postSlug: "are-you-overlooking-these-crucial-pre-travel-preparations"
 image: "/images/are-you-overlooking-these-crucial-pre-travel-preparations.jpg"
 categories: ["Travel Tips"]

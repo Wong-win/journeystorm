@@ -1,6 +1,6 @@
 ---
 title: "20 Aventures Mémorables en Afrique"
-date: "2025-12-22"
+date: "2026-04-06"
 postSlug: "20-memorable-adventures-in-africa"
 image: "/images/The-Souks-of-Marrakech-Insight-Guides.jpg"
 categories: ["Africa", "Destinations"]

@@ -1,6 +1,6 @@
 ---
 title: "Où aller pour votre premier safari en Afrique"
-date: "2026-01-05"
+date: "2026-04-16"
 postSlug: "ou-aller-pour-votre-premier-safari-en-afrique"
 image: "/images/ou-aller-pour-votre-premier-safari-en-afrique.jpg"
 categories: ["Africa", "Destinations"]

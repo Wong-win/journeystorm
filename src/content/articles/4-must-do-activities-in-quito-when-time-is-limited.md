@@ -1,6 +1,6 @@
 ---
 title: "4 activités incontournables à Quito quand le temps est limité"
-date: "2025-05-02"
+date: "2025-07-31"
 postSlug: "4-must-do-activities-in-quito-when-time-is-limited"
 image: "/images/4-must-do-activities-in-quito-when-time-is-limited.jpg"
 categories: ["America", "Destinations"]

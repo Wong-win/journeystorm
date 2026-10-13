@@ -1,6 +1,6 @@
 ---
 title: "Guide Ultime du Road Trip : À la Découverte de la Région des Grands Lacs"
-date: "2025-07-26"
+date: "2025-10-29"
 postSlug: "ultimate-road-trip-guide-exploring-the-great-lakes-region"
 image: "/images/14-Best-Chicago-Beaches-in-2023-A-Locals-Ultimate-Guide-Travel-Lemming.jpg"
 categories: ["Road Trip"]

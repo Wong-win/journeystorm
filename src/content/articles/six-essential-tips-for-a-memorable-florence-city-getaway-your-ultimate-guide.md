@@ -1,6 +1,6 @@
 ---
 title: "Six conseils essentiels pour une escapade mémorable à Florence : votre guide ultime"
-date: "2025-06-18"
+date: "2025-09-19"
 postSlug: "six-essential-tips-for-a-memorable-florence-city-getaway-your-ultimate-guide"
 image: "/images/10-Best-Things-to-Do-in-Florence-Whats-Florence-Most-Famous-For-–-Go-Guides.jpg"
 categories: ["Destinations", "Europe", "Travel Tips"]

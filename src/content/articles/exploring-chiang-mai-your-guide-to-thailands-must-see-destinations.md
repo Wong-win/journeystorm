@@ -1,6 +1,6 @@
 ---
 title: "Explorer Chiang Mai : Votre guide des destinations incontournables de Thaïlande"
-date: "2025-08-18"
+date: "2025-11-23"
 postSlug: "exploring-chiang-mai-your-guide-to-thailands-must-see-destinations"
 image: "/images/1063-Chiang-Mai-Tuk-Tuk-Images-Stock-Photos-3D-objects-Vectors-Shutterstock.jpg"
 categories: ["Asia", "Destinations"]

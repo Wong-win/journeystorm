@@ -1,6 +1,6 @@
 ---
 title: "Top 5 des destinations incontournables pour les passionnés de cuisine végane"
-date: "2025-08-09"
+date: "2025-11-13"
 postSlug: "top-5-must-visit-destinations-for-vegan-food-enthusiasts"
 image: "/images/Perus-Machu-Picchu-reopens-as-protests-shift-to-capital-BBC-News.jpg"
 categories: ["Travel Tips"]

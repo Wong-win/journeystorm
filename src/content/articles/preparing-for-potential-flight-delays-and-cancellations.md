@@ -1,6 +1,6 @@
 ---
 title: "Se préparer aux éventuels retards et annulations de vol"
-date: "2025-06-28"
+date: "2025-09-29"
 postSlug: "preparing-for-potential-flight-delays-and-cancellations"
 image: "/images/Know-your-rights-when-your-flight-is-delayed-or-cancelled.jpg"
 categories: ["Travel Tips"]

@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Backpacker's Guide to Exploring Amsterdam"
-date: "2025-05-26"
+date: "2025-08-25"
 postSlug: "the-ultimate-backpackers-guide-to-exploring-amsterdam"
 image: "/images/the-ultimate-backpackers-guide-to-exploring-amsterdam.jpg"
 categories: ["Destinations", "Europe"]

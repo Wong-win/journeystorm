@@ -1,6 +1,6 @@
 ---
 title: "Évaluation de la crédibilité de Booksi Travel : un avertissement"
-date: "2025-07-21"
+date: "2025-10-24"
 postSlug: "assessing-booksi-travels-credibility-a-word-of-caution"
 image: "/images/assessing-booksi-travels-credibility-a-word-of-caution.jpg"
 categories: ["Travel Tips"]

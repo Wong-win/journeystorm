@@ -1,6 +1,6 @@
 ---
 title: "Combien de jours à Boston suffisent ?"
-date: "2026-04-26"
+date: "2026-07-15"
 postSlug: "combien-jours-boston-suffisent"
 image: "/images/combien-jours-boston-suffisent.jpg"
 categories: ["Travel Tips"]

@@ -1,6 +1,6 @@
 ---
 title: "Trois jours parfaits à Londres"
-date: "2026-04-04"
+date: "2026-06-05"
 postSlug: "trois-jours-parfaits-a-londres"
 image: "/images/caption-19-1024x576.jpg"
 categories: ["Travel Tips"]

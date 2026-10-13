@@ -1,6 +1,6 @@
 ---
 title: "Manger autour d'Édimbourg : le guide ultime des meilleures bouchées de la ville"
-date: "2026-03-26"
+date: "2026-05-26"
 postSlug: "manger-autour-dedimbourg-le-guide-ultime-des-meilleures-bouchees-de-la-ville"
 image: "/images/caption-23-1024x576.jpg"
 categories: ["Travel Tips"]

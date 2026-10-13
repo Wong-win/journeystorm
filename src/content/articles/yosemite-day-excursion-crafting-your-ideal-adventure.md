@@ -1,6 +1,6 @@
 ---
 title: "Excursion d'une Journée à Yosemite : Créer Votre Aventure Idéale !"
-date: "2025-05-12"
+date: "2025-08-10"
 postSlug: "yosemite-day-excursion-crafting-your-ideal-adventure"
 image: "/images/gxo34vm6abfz.jpg"
 categories: ["America", "Destinations"]

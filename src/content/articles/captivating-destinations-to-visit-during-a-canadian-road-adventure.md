@@ -1,6 +1,6 @@
 ---
 title: "Destinations captivantes à visiter lors d'une aventure routière canadienne"
-date: "2025-09-01"
+date: "2025-12-08"
 postSlug: "captivating-destinations-to-visit-during-a-canadian-road-adventure"
 image: "/images/Cathedral-Grove-U.S.-National-Park-Service.jpg"
 categories: ["Road Trip"]

@@ -1,6 +1,6 @@
 ---
 title: "Faire ses valises comme un pro : Le guide ultime de quoi emporter"
-date: "2026-02-12"
+date: "2026-05-11"
 postSlug: "faire-ses-valises-comme-un-pro-le-guide-ultime-de-quoi-emporter"
 image: "/images/faire-ses-valises-comme-un-pro-le-guide-ultime-de-quoi-emporter.jpg"
 categories: ["Travel Tips"]

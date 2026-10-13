@@ -1,6 +1,6 @@
 ---
 title: "Trois Jours Parfaits à Sedona"
-date: "2026-04-23"
+date: "2026-06-25"
 postSlug: "trois-jours-parfaits-a-sedona"
 image: "/images/caption-5-1024x576.jpg"
 categories: ["America"]

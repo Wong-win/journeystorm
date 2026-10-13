@@ -1,6 +1,6 @@
 ---
 title: "Guide pour organiser une retraite idéale d'un week-end d'hiver entre filles"
-date: "2025-09-15"
+date: "2025-12-23"
 postSlug: "guide-to-organizing-an-ideal-winter-weekend-retreat-for-a-girls-trip"
 image: "/images/guide-to-organizing-an-ideal-winter-weekend-retreat-for-a-girls-trip.jpg"
 categories: ["Travel Tips"]

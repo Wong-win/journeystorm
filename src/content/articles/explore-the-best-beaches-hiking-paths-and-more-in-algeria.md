@@ -1,6 +1,6 @@
 ---
 title: "Explorez les meilleures plages, sentiers de randonnée et bien plus en Algérie"
-date: "2025-11-06"
+date: "2026-02-15"
 postSlug: "explore-the-best-beaches-hiking-paths-and-more-in-algeria"
 image: "/images/0c6091fc-city-20461-167be288f16.jpg"
 categories: ["Africa", "Destinations"]

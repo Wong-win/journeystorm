@@ -1,6 +1,6 @@
 ---
 title: "5 jours parfaits à Dubaï"
-date: "2026-04-26"
+date: "2026-06-30"
 postSlug: "5-jours-parfaits-dubai"
 image: "/images/5-jours-parfaits-dubai.jpg"
 categories: ["Travel Tips"]

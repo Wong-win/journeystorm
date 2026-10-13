@@ -1,6 +1,6 @@
 ---
 title: "Tout ce qu'il faut savoir sur les éléphants d'Afrique – et où les observer dans la nature"
-date: "2026-01-29"
+date: "2026-05-01"
 postSlug: "tout-ce-quil-faut-savoir-sur-les-elephants-dafrique-et-ou-les-observer-dans-la-nature"
 image: "/images/tout-ce-quil-faut-savoir-sur-les-elephants-dafrique-et-ou-les-observer-dans-la-nature.jpg"
 categories: ["Africa", "Destinations"]

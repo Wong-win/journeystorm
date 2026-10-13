@@ -1,6 +1,6 @@
 ---
 title: "Stratégies optimales pour découvrir le vaste Serengeti en Tanzanie"
-date: "2025-10-08"
+date: "2026-01-17"
 postSlug: "optimal-strategies-for-experiencing-the-vast-serengeti-in-tanzania"
 image: "/images/optimal-strategies-for-experiencing-the-vast-serengeti-in-tanzania.jpg"
 categories: ["Africa", "Destinations"]
