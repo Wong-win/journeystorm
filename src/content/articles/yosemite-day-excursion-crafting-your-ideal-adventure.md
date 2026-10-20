@@ -35,7 +35,7 @@ urlPath: "/yosemite-day-excursion-crafting-your-ideal-adventure/"
 <p>Avec les préparations en place, commençons notre journée excitante dans le pays du granit imposant et des chutes en cascade !</p>
 <h3>Yosemite le Matin</h3>
 <h5>Matin Précoce : Observation du Lever du Soleil</h5>
-<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-4273" src="/images/gxo34vm6abfz.jpg" alt="" width="1000" height="489" /></p>
+
 <p>Il n'y a rien de tel que Yosemite baigné dans la première lumière de l'aube. Le jeu de lumière sur les falaises de granit et les teintes du ciel créent une atmosphère autre monde.</p>
 <h5>Tunnel View</h5>
 <p>Ce vista emblématique offre une vue d'ensemble étonnante de la vallée de Yosemite, encadrée par El Capitan, Bridalveil Fall et Half Dome. Voir le lever du soleil ici est une expérience surréaliste, avec des couleurs changeantes et de la brume tissant une tapisserie fascinante.</p>

@@ -25,7 +25,7 @@ Respectez les Traditions Locales</h3>
 <h4>Maîtrisez l&rsquo;Art du Marchandage</h4>
 <p>Dans les marchés de Marrakech, le marchandage fait partie de l&rsquo;expérience d&rsquo;achat. Engagez-vous avec les vendeurs dans une négociation amicale, mais n&rsquo;oubliez pas d&rsquo;être respectueux.</p>
 <h4>Savourez la Cuisine Marocaine</h4>
-<p><img loading="lazy" decoding="async" class="wp-image-4264 alignnone size-large" src="/images/Moroccan-Cuisine-Traditional-Food-of-Morocco-Memphis-Tours.webp" alt="" width="800" height="437" /></p>
+
 <p>Découvrez les délices culinaires du Maroc comme le tajine ou le thé à la menthe traditionnel. Ces plats locaux offrent un aperçu de la riche culture gastronomique du Maroc.</p>
 <h4>Soyez Vigilant face aux Arnaques et aux Pickpockets</h4>
 <p>Restez vigilant dans les zones bondées pour éviter d&rsquo;être victime d&rsquo;arnaques ou de vols. Surveillez vos affaires et méfiez-vous des tactiques de distraction.</p>

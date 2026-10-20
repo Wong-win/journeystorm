@@ -14,7 +14,7 @@ urlPath: "/top-9-essential-insights-to-learn-before-embarking-on-a-european-jour
 <h3><strong>Droits à indemnisation en cas de retard de vol</strong></h3>
 <p>Être confronté à un retard de vol pourrait être moins frustrant lorsque vous savez que vous pourriez être indemnisé. La réglementation de l&#8217;Union européenne impose une indemnisation pouvant aller jusqu&#8217;à 600 € (environ 660 $) pour certains retards de vol. Cela s&#8217;applique principalement aux vols à destination et en provenance d&#8217;Europe, mais les détails peuvent varier selon l&#8217;origine de la compagnie aérienne. Par exemple, si vous voyagez avec une compagnie non européenne comme United Airlines, il est judicieux de consulter des services comme AirHelp pour déterminer votre éligibilité à une indemnisation.</p>
 <h3><strong>Exigences de visa pour les voyageurs américains</strong></h3>
-<p><img loading="lazy" decoding="async" class="wp-image-4195 alignnone size-large" src="/images/visa-to-USA-Travel-to-India-Cheap-Flights-to-India-Aviation-News-India-Travel-Tips.jpg" alt="" width="656" height="450" /></p>
+
 <p>Les Américains peuvent profiter de voyages sans visa en Europe pour des séjours de moins de 90 jours. Si votre séjour dépasse trois mois, vous devrez demander un visa.</p>
 <h3>Des devises diverses au-delà de l&#8217;euro</h3>
 <p>Bien que l&#8217;euro soit très répandu, plusieurs pays européens, dont la Norvège, la Suisse, la Croatie, le Danemark et de nombreux pays d&#8217;Europe de l&#8217;Est, ont leur propre monnaie. Préparez-vous à changer votre argent en conséquence.</p>

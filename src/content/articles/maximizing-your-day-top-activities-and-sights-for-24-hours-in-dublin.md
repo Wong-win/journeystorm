@@ -13,7 +13,7 @@ urlPath: "/maximizing-your-day-top-activities-and-sights-for-24-hours-in-dublin/
 <p>Optimisez votre temps à Dublin</p>
 <p>Avec seulement 24 heures à votre disposition, envisagez de louer une voiture pour la journée. Cette option est plus fiable que les transports en commun et plus économique que les taxis. Récupérez votre voiture à l'aéroport et dirigez-vous directement vers le centre-ville. Holiday Autos est un choix recommandé pour son rapport qualité-prix et son excellent service.</p>
 <h3>Explorez Trinity College</h3>
-<p><img loading="lazy" decoding="async" class="wp-image-4254 alignnone size-large" src="/images/Guided-Walking-Tour-of-Book-of-Kells-and-Trinity-College-Dublin-2023-Viator.jpg" alt="" width="669" height="446" /></p>
+
 <p>Commencez votre aventure dublinoise par une visite du Trinity College, l'université la plus vénérable d'Irlande. Promenez-vous dans sa cour historique, admirez son architecture impressionnante et explorez le parc luxuriant avant de vous diriger vers Nassau Street pour poursuivre votre exploration de la ville.</p>
 <h3>Détendez-vous à St. Stephen's Green</h3>
 <p><img loading="lazy" decoding="async" class="wp-image-4255 alignnone size-large" src="/images/St-Stephens-Green-Dublin-All-You-Need-to-Know-BEFORE-You-Go.jpg" alt="" width="1024" height="685" /></p>

@@ -17,7 +17,7 @@ urlPath: "/top-6-essential-tips-to-understand-before-your-trip-to-china-a-travel
 <h4>2. L&#8217;impressionnant réseau ferroviaire chinois</h4>
 <p>Le système ferroviaire à grande vitesse chinois est une merveille, surpassant même les trains à grande vitesse japonais. S&#8217;étendant sur près de 37 000 kilomètres, il relie les grandes villes de manière efficace et abordable. Un voyage en train à grande vitesse est incontournable pour sa rapidité, son confort et son excellent rapport qualité-prix.</p>
 <h4>3. Explorez les parcs nationaux de Chine</h4>
-<p><img loading="lazy" decoding="async" class="wp-image-4259 alignnone size-large" src="/images/Stunning-Guilin-Legends-Of-The-Limestone-Peaks-And-Caves.jpg" alt="" width="1024" height="768" /></p>
+
 <p>Ne limitez pas votre itinéraire aux destinations urbaines. Les parcs nationaux chinois, comme Jiuzhaigou et Guilin Lijiang, offrent des paysages à couper le souffle qui rivalisent même avec les Alpes suisses. Des montagnes imposantes aux lacs sereins, la beauté naturelle de la Chine est incontournable.</p>
 <h4>4. Tâches essentielles à l&#8217;aéroport – cartes SIM et change de devises</h4>
 <p>Dès votre arrivée, il est crucial de vous procurer une carte SIM locale et de changer de l&#8217;argent à l&#8217;aéroport. Contrairement à d&#8217;autres destinations asiatiques, ces démarches peuvent être difficiles en dehors de l&#8217;aéroport en Chine, il est donc conseillé de s&#8217;en occuper immédiatement à l&#8217;arrivée.</p>
