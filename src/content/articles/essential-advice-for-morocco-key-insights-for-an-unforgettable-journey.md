@@ -13,7 +13,7 @@ urlPath: "/essential-advice-for-morocco-key-insights-for-an-unforgettable-journe
 <p>Marrakech, vibrant du riche patrimoine culturel du Maroc, offre une multitude d&rsquo;expériences aux touristes. Plongez dans les souks animés, ressourcez-vous dans les hammams traditionnels et ne manquez pas la mosquée impressionnante, une merveille architecturale. Marrakech est un lieu où la culture et l&rsquo;histoire sont vivantes et vibrantes, prêtes à enchanter les touristes. Passons à nos conseils de voyage essentiels pour le Maroc !</p>
 <h3>
 Respectez les Traditions Locales</h3>
-<p><img decoding="async" src="https://afar.brightspotcdn.com/dims4/default/1214b32/2147483647/strip/false/crop/5205x3457+0+0/resize/1486x987!/quality/90/?url=https%3A%2F%2Fafar-media-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F17%2Ff5%2F123bd3ef413a8fb909097fdc69d7%2Fca-2020-morocco-marrakech-souksmedina-gettyimages-1017804314.jpg" alt="Marrakech Travel Guide | AFAR" /></p>
+<p><img decoding="async" src="/images/image-f8c35460.png" alt="Marrakech Travel Guide | AFAR" /></p>
 <p>À Marrakech, il est essentiel que les voyageurs respectent les coutumes locales, en particulier lors de la visite des mosquées et des hammams. L&rsquo;influence islamique dominante dans le pays exige une tenue modeste. Les femmes doivent porter des vêtements qui couvrent les bras, les jambes et les épaules, et envisager de porter un foulard dans les zones religieuses ou conservatrices.</p>
 <p>Pendant les périodes sacrées comme le Ramadan, il est déconseillé de manger ou de boire en public pendant la journée, par respect pour ceux qui jeûnent. Cela est particulièrement important à proximité des mosquées.</p>
 <h4>Gérez vos Finances avec Sagesse</h4>

@@ -15,7 +15,7 @@ urlPath: "/when-is-the-least-ideal-time-to-plan-a-trip-to-spain/"
 <p></p>
 <p>Les saisons intermédiaires, qui englobent mai et la période de septembre à octobre, sont mieux adaptées à ceux qui recherchent moins de foule. Ces mois offrent un climat plus doux et permettent de profiter d'activités en plein air sans se ruiner.</p>
 <p>Dans ce guide, nous allons explorer les éléments qui contribuent aux périodes les moins favorables pour visiter l'Espagne, afin de vous aider à faire en sorte que votre voyage soit à la fois agréable et mémorable.</p>
-<p><img decoding="async" src="https://wp.globaluniversitysystems.com/bsbi/wp-content/uploads/sites/2/2023/06/web-banner-barcelona.jpg?w=1854&amp;h=1043&amp;crop=1" alt="Living in Barcelona, Spain - BSBI" /></p>
+<p><img decoding="async" src="/images/web-banner-barcelona-b637e5b9.jpg" alt="Living in Barcelona, Spain - BSBI" /></p>
 <h3>Explorer la période la moins favorable pour visiter l'Espagne</h3>
 <h5>L'été en Espagne : forte chaleur et affluence</h5>
 <ul>

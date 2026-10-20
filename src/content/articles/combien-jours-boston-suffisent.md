@@ -21,7 +21,7 @@ urlPath: "/combien-jours-boston-suffisent/"
 <li>Faneuil Hall et Quincy Market pour le shopping, les artistes de rue et votre première goût de New England clam chowder (essayez Atlantic Fish Company ou Boston Chowda).</li>
 <li>Dîner dans le North End, le Petit Italie de Boston, où chaque restaurant prétend avoir le meilleur cannoli de la ville (Mike's Pastry et Modern Pastry sont les rivaux célèbres).</li>
 </ul>
-<p><img decoding="async" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/5c/d0/b5/caption.jpg?w=1200&h=-1&s=1&cx=1920&cy=1080&chk=v1_17c059a5b09b9ac666f1" alt="Historic buildings and a clock in Boston" width="800" /></p>
+<p><img decoding="async" src="/images/caption-56f44d69.jpg" alt="Historic buildings and a clock in Boston" width="800" /></p>
 <h2>Trois jours à Boston</h2>
 <p>Trois jours c'est une durée d'itinéraire parfaite pour les débutants. Voici comment je diviserais les jours :</p>
 <ul>
@@ -29,7 +29,7 @@ urlPath: "/combien-jours-boston-suffisent/"
 <li><strong>Jour deux :</strong> Musées et quartiers. Le Museum of Fine Arts est de classe mondiale — ne manquez pas l'aile Art of the Americas et prévoyez au moins 3 heures. Après, explorez Back Bay, promenez-vous sur Newbury Street pour le shopping et l'observation des gens, ou wander à travers les rues éclairées au gaz et les maisons de ville en briques rouges de Beacon Hill.</li>
 <li><strong>Jour trois :</strong> Cambridge — visit les campuses de Harvard et MIT, browsez les librairies dans Harvard Square, et déjeunez chez Pammy's (leur tagliatelle à l'encre de calmar est excellente).</li>
 </ul>
-<p><img decoding="async" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/5c/d1/03/caption.jpg?w=800&h=-1&s=1" alt="Six people walking past wall with colorful outline letters that spell Boston" width="800" /></p>
+<p><img decoding="async" src="/images/caption-878cc266.jpg" alt="Six people walking past wall with colorful outline letters that spell Boston" width="800" /></p>
 <p>Si vous êtes un fan de baseball, réservez une visite de Fenway Park ou des billets de match à l'avance — ils se vendent, surtout en été. Restez à Back Bay (le Fairmont Copley Plaza ou le Newbury Guest House sont les favoris des utilisateurs Tripadvisor), Beacon Hill, ou Downtown. Tous sont praticables à pied jusqu'aux sites majeurs et connectés par le T. Si vous prévoyez d'utiliser beaucoup les transports publics, je recommanderais d'investir dans une CharlieCard pour le T, though honestly, vous pouvez marcher entre la plupart des attractions. Le climat de Boston est imprévisible aussi — j'ai vu de la neige en avril et 21 degrés en novembre, alors apportez des couches même en été.</p>
 <h2>Cinq jours à Boston</h2>
 <p>Cinq jours transforment Boston en une expérience de Nouvelle-Angleterre. Au-delà de tout ce qui est dans l'itinéraire de trois jours, ajoutez des excursions d'une journée à Cape Cod (prenez le ferry de Boston à Provincetown, c'est scénique et ça évite le trafic), Salem pour l'histoire des procès des sorcières et les musées maritimes, ou Concord et Lexington pour plus de sites de la Guerre d'Indépendance. Vous pourriez également dedicacer une journée complète aux Boston Harbor Islands ; ils sont étonnamment accessibles par ferry et semblent être à des mondes du centre-ville.</p>
@@ -40,5 +40,5 @@ urlPath: "/combien-jours-boston-suffisent/"
 <li>Le Musée Isabella Stewart Gardner, un palais vénitien avec des maîtres et le lieu du plus grand vol d'art non résolu au monde.</li>
 <li>Une journée complète pour explorer Cambridge, depuis Harvard Square, le MIT Museum, et dîner chez Alden & Harlow.</li>
 </ul>
-<p><img decoding="async" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/5c/d2/15/caption.jpg?w=800&h=-1&s=1" alt="Exterior of Fenway Park, with large canvas sign over it" width="800" /></p>
+<p><img decoding="async" src="/images/caption-5922e4d7.jpg" alt="Exterior of Fenway Park, with large canvas sign over it" width="800" /></p>
 <p>Le climat imprévisible de Boston signifie qu'il faut toujours prévoir des couches, peu importe la saison. La ville est hautement praticable à pied, et la plupart des attractions peuvent être atteinte via le T ou à pied.</p>

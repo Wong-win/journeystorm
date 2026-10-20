@@ -32,7 +32,7 @@ urlPath: "/top-10-must-do-activities-in-colombo-sri-lanka/"
 <p>Le temple fait également office de centre éducatif pour les locaux, avec un musée présentant une collection étendue d'artefacts historiques. Ne manquez pas la grande statue de Bouddha colorée à l'intérieur du temple, et gardez un œil sur la plus petite statue de Bouddha au monde.</p>
 <p>Le saviez-vous ? Le musée Gangaramaya expose une Rolls Royce vintage et la première Mercedes apportée au Sri Lanka !</p>
 <h3>4. La Mosquée Rouge (Jami ul-Alfar Mosque)</h3>
-<p><img decoding="async" src="https://cloudfront-eu-central-1.images.arcpublishing.com/thenational/ABVPU26JIFA2JO5Y7MTO7V4FFI.jpg" alt="Calls to prayer from Sri Lanka's Jami Ul-Alfar Mosque provide comfort amid Covid lockdown" /></p>
+<p><img decoding="async" src="/images/abvpu26jifa2jo5y7mto7v4ffi-ab38328a.jpg" alt="Calls to prayer from Sri Lanka's Jami Ul-Alfar Mosque provide comfort amid Covid lockdown" /></p>
 <p>La Lal Masjid se distingue par sa façade unique rouge et blanc. C'est l'une des plus anciennes mosquées de Colombo et quite unlike any other. Bien que les visiteurs non-musulmans ne puissent pas entrer, son extérieur est un spectacle à voir.</p>
 <p>Située près du marché de Pettah, la mosquée est un repère important pour les marins depuis sa construction en 1908, servant de guide vers le port de Colombo.</p>
 <p>Le saviez-vous ? Depuis sa création, la mosquée a été une icône maritime pour ceux arrivant au port de Colombo, marquant un point significatif dans l'histoire maritime de la ville.</p>
@@ -43,7 +43,7 @@ urlPath: "/top-10-must-do-activities-in-colombo-sri-lanka/"
 <h3>6. Galle Face Green</h3>
 <p>Ce vaste parc urbain s'étend sur un demi-kilomètre le long de l'océan Indien et est connu comme le plus grand espace ouvert de Colombo. C'est incontournable, surtout pour ceux voyageant en famille. Une promenade au coucher du soleil ici, accompagnée de street food locale, est une façon délicieuse de conclure votre journée.</p>
 <h3>7. La tour Lotus</h3>
-<p><img decoding="async" src="https://island.lk/wp-content/uploads/2022/09/Tower-new.png" alt="Lotus Tower: A way forward for broadcasting – The Island" /></p>
+<p><img decoding="async" src="/images/tower-new-cdd34826.png" alt="Lotus Tower: A way forward for broadcasting – The Island" /></p>
 <p>La tour Lotus, fièrement debout à Colombo, est la plus haute structure construite de toute l'Asie du Sud. Sa forme colorée et allongée est visible depuis différentes parties de la ville. La vue depuis la tour est tout simplement breathtaking.</p>
 <p>Pour plus d'informations sur le Sri Lanka, incluant un guide pour grimper le célèbre rocher de Sigiriya, consultez mon article pour tous les détails essentiels.</p>
 <h3>8. Le temple Sri Kailawasanathan</h3>
@@ -52,7 +52,7 @@ urlPath: "/top-10-must-do-activities-in-colombo-sri-lanka/"
 <p><img loading="lazy" decoding="async" class="wp-image-4225 alignnone size-large" src="/images/Viharamahadevi-Park-–-Lakpura-LLC.jpg" alt="" width="1024" height="494" /></p>
 <p>Si vous avez besoin d'un retreat paisible après avoir exploré la ville, dirigez-vous vers le parc Viharamahadevi. Cet endroit serein, idéal pour les enfants, présente un Bouddha doré et de charmantes fontaines d'eau. Anciennement connu sous le nom de Victoria Park, il est proche du Musée national et de l'Hôtel de Ville et est une attraction commune dans les visites en bus de la ville.</p>
 <h3>10. Traitement ayurvédique</h3>
-<p><img decoding="async" src="https://images.healthshots.com/healthshots/en/uploads/2023/05/19152953/body-detox-1600x900.jpg" alt="How Ayurvedic Panchakarma can help with body detoxification | HealthShots" /></p>
+<p><img decoding="async" src="/images/body-detox-1600x900-9539d658.jpg" alt="How Ayurvedic Panchakarma can help with body detoxification | HealthShots" /></p>
 <p>Vous vous demandez ce qu'est l'Ayurveda ? Cette ancienne pratique de guérison holistique indienne vise à équilibrer l'esprit, le corps et l'âme, incorporant massage, yoga, régime alimentaire et méditation.</p>
 <p>Lors de mon voyage au Sri Lanka, nous avons profitez d'une expérience de spa ayurvédique au Siddhalepa Ayurveda Spa, un temps fort de ma visite à Colombo. Le traitement commence par une consultation avec un médecin ayurvédique, qui adapte le traitement à vos besoins spécifiques, comme des douleurs au dos ou au cou. J'ai eu un massage rejuvenating de 45 minutes du haut du corps et de la tête.</p>
 <p>Même si vous êtes sceptique quant à la médecine alternative, l'hospitalité et l'authenticité de l'expérience de spa sri-lankaise sont highly recommendable. Commencer votre visite à Colombo par ce traitement relaxant donne un ton wonderful à votre voyage.</p>

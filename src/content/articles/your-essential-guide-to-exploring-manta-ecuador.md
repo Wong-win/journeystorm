@@ -76,7 +76,7 @@ Transports Locaux à Manta<br />
 <p><span style="color: #000000;"><strong>Boissons Locales</strong></span></p>
 <p>Dégustez des boissons traditionnelles comme le Canelazo (une boisson chaude alcoolisée) et la Chicha (une boisson fermentée à base de maïs ou de yucca).</p>
 <p>Le paysage culinaire de Manta offre de tout, des fruits de mer en bord de mer aux cafés chaleureux, garantissant une expérience gastronomique délicieuse pour chaque visiteur.</p>
-<p><img decoding="async" src="https://www.wyndhamhotels.com/content/dam/property-images/en-us/hr/ec/others/manta/52536/52536_pool_view_1.jpg?crop=7320:4880;*,*&amp;downsize=720:*" alt="Wyndham Manta Sail Plaza Hotel and Convention Center | MANTA, EC Hotels" /></p>
+<p><img decoding="async" src="/images/52536-pool-view-1-fda3ea24.jpg" alt="Wyndham Manta Sail Plaza Hotel and Convention Center | MANTA, EC Hotels" /></p>
 <h3><strong>Explorer Manta, Équateur&nbsp;: Un Trésor d'Attractions et d'Activités</strong></h3>
 <p>Manta est une destination qui va au-delà de ses plages magnifiques et de sa cuisine délectable, offrant une vaste gamme d'activités et d'attractions pour chaque type de voyageur.</p>
 <p>Des amateurs de sensations fortes aux passionnés d'histoire, en passant par ceux qui recherchent une retraite paisible à la plage, Manta regorge d'expériences à découvrir.</p>
@@ -172,7 +172,7 @@ Transports Locaux à Manta<br />
 <p><span style="color: #000000;"><strong>Adaptateurs Électriques</strong></span></p>
 <p>L'Équateur utilise du 120V, avec des prises électriques de type A et B. Apporter un adaptateur universel peut être pratique.</p>
 <p>Préparer votre voyage à Manta avec ces conseils de voyage et indispensables vous aidera à garantir une expérience agréable et sans accroc. Armé de ces informations, vous êtes prêt à vous immerger dans la culture vibrante et les paysages magnifiques de Manta, Équateur.</p>
-<p><img decoding="async" src="https://mantatourguides.com/wp-content/uploads/2023/05/1.jpg" alt="What is Manta Cruise Ship Port Like? - Manta Tour Guides" /></p>
+<p><img decoding="async" src="/images/1-add500f3.jpg" alt="What is Manta Cruise Ship Port Like? - Manta Tour Guides" /></p>
 <h3>Guide du Port de Croisière de Manta&nbsp;: Profiter au Maximum de Votre Visite</h3>
 <p>Manta est une escale prisée pour de nombreuses compagnies de croisière le long de la côte pacifique sud-américaine, réputée pour sa culture vibrante et ses paysages magnifiques. Si vous débarquez d'une croisière à Manta, même pour peu de temps, il est essentiel de bien planifier pour profiter du meilleur de ce que la ville a à offrir.</p>
 <p><strong><span style="color: #000000;">Explorer Manta Depuis le Port de Croisière</span></strong></p>

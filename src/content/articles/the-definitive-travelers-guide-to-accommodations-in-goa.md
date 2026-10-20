@@ -39,7 +39,7 @@ urlPath: "/the-definitive-travelers-guide-to-accommodations-in-goa/"
 <li>Citrus Goa</li>
 </ul>
 <h5>Sud de Goa :</h5>
-<p><img decoding="async" src="https://resources.thomascook.in/images/holidays/sightSeeing/12714_Palolem_Beach_Goa_India_960.jpg" alt="Palolem Beach In Goa" /></p>
+<p><img decoding="async" src="/images/12714-palolem-beach-goa-india-960-5456e782.jpg" alt="Palolem Beach In Goa" /></p>
 <p><strong>1. Palolem :</strong> Connue pour sa plage en forme de croissant et son ambiance détendue, Palolem est idéale pour ceux qui recherchent une escapade tranquille. C'est un excellent choix pour les voyageurs solo et les familles, avec d'excellentes options de restauration et de yoga. Les meilleurs hébergements à Palolem sont :</p>
 <ul>
 <li>The LaLiT Golf &amp; Spa Resort Goa</li>
@@ -65,7 +65,7 @@ urlPath: "/the-definitive-travelers-guide-to-accommodations-in-goa/"
 <li>Simrose Resort</li>
 </ul>
 <h5>Types d'hébergement à Goa :</h5>
-<p><img decoding="async" src="https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcgrandgoa-goa/images/overview/headmast-desktop/resort-outdoors.png" alt="Luxury Spa Resort in Goa | Best Resort in Goa - ITC Grand Goa" /></p>
+<p><img decoding="async" src="/images/resort-outdoors-a6698367.png" alt="Luxury Spa Resort in Goa | Best Resort in Goa - ITC Grand Goa" /></p>
 <p>Goa s'adresse à tous les types de voyageurs, proposant des hébergements allant des auberges économiques aux villas luxueuses. Voici un aperçu des différents types disponibles :</p>
 <ul>
 <li><strong>Resorts :</strong> Idéals pour les familles et les groupes, offrant des commodités telles que vue sur l'océan, piscines, spas et divertissements.</li>

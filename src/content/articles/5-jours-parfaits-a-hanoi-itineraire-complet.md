@@ -27,7 +27,7 @@ urlPath: "/5-jours-parfaits-a-hanoi-itineraire-complet/"
 
 <h3>Jour 2 : Hanoï historique et culturelle</h3>
 
-<p><img decoding="async" src="https://images.unsplash.com/photo-1540655037529-dec987208707?w=1200" alt="Mausolée de Ho Chi Minh à Hanoï" /></p>
+<p><img decoding="async" src="/images/photo-1540655037529-dec987208707-2b21f009.jpg" alt="Mausolée de Ho Chi Minh à Hanoï" /></p>
 
 <p>Consacrez cette deuxième journée à l'histoire vietnamienne, fascinante et parfois émouvante. Commencez tôt par le <strong>Mausolée de Ho Chi Minh</strong> (ouvert du mardi au jeudi, de 7h30 à 10h30). L'affluence y est moindre en début de matinée. À quelques pas, découvrez le <strong>Palais Présidentiel</strong> et la <strong>maison sur pilotis</strong> où vivait "Oncle Hồ", modeste et simple malgré son statut.</p>
 
@@ -41,7 +41,7 @@ urlPath: "/5-jours-parfaits-a-hanoi-itineraire-complet/"
 
 <h3>Jour 3 : Excursion d'une journée à la baie d'Halong</h3>
 
-<p><img decoding="async" src="https://images.unsplash.com/photo-1528127269322-539801943592?w=1200" alt="Péniches dans la baie d'Halong" /></p>
+<p><img decoding="async" src="/images/photo-1528127269322-539801943592-68fb25ef.jpg" alt="Péniches dans la baie d'Halong" /></p>
 
 <p>Aucune une journée à Hanoï ne serait complète sans une excursion à la <strong>baie d'Halong</strong>, classée au patrimoine mondial de l'UNESCO. Comptez 3h30 de bus depuis Hanoï (170 km à l'est). Réservez directement auprès des croisières plutôt que via votre hôtel pour économiser 20 à 30 %.</p>
 
@@ -53,7 +53,7 @@ urlPath: "/5-jours-parfaits-a-hanoi-itineraire-complet/"
 
 <h3>Jour 4 : Saveurs et artisanat vietnamien</h3>
 
-<p><img decoding="async" src="https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=1200" alt="Standé de street food vietnamienne" /></p>
+<p><img decoding="async" src="/images/photo-1556910103-1c02745aae4d-d6cf32ed.jpg" alt="Standé de street food vietnamienne" /></p>
 
 <p>Cette journée sera placée sous le signe de la <strong>gastronomie vietnamienne</strong>. Commencez par un cours de cuisine le matin : <strong>Hanoi Cooking Centre</strong> et <strong>Apron Up Cooking Class</strong> sont d'excellentes écoles. En 3 à 4 heures, vous apprendrez à préparer 3-4 plats emblématiques comme le phở, les nems (chả giò) et le bánh cuê.
 
