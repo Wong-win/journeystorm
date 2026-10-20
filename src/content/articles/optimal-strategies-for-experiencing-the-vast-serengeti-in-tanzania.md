@@ -2,7 +2,7 @@
 title: "Stratégies optimales pour découvrir le vaste Serengeti en Tanzanie"
 date: "2026-01-17"
 postSlug: "optimal-strategies-for-experiencing-the-vast-serengeti-in-tanzania"
-image: "/images/optimal-strategies-for-experiencing-the-vast-serengeti-in-tanzania.jpg"
+image: "/images/serengeti-tanzanie-cover.jpg"
 categories: ["Africa", "Destinations"]
 categorySlugs: ["africa", "destinations"]
 excerpt: "Imaginez-vous au cœur du Serengeti en Tanzanie, parcourant la savane, enveloppé par les images et les sons impressionnants de la faune. Tandis que le vent souffle contre vous, soulevant la poussière qui obscurcit votre vue à travers vos lunettes de soleil, vous vous retrouvez dans un moment de pure aventure sauvage. Soudainement,…"

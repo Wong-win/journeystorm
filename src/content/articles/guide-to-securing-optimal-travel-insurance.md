@@ -2,7 +2,7 @@
 title: "Guide pour Obtenir une Assurance Voyage Optimale"
 date: "2025-08-20"
 postSlug: "guide-to-securing-optimal-travel-insurance"
-image: "/images/guide-to-securing-optimal-travel-insurance.jpg"
+image: "/images/assurance-voyage-cover.jpg"
 categories: ["Travel Tips"]
 categorySlugs: ["travel-tips"]
 excerpt: "Que vous voyagiez pour affaires ou pour le plaisir, ne négligez pas l’importance de l’assurance voyage. Il est essentiel de bénéficier d’une couverture médicale partout où vous vous rendez. Bien que personne n’aime envisager la possibilité d’une maladie ou d’une blessure, être prêt à toute éventualité offre une tranquillité d’esprit inestimable. Notez que si vous…"

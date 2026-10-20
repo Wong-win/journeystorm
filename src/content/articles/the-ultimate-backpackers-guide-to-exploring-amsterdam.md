@@ -2,7 +2,7 @@
 title: "The Ultimate Backpacker's Guide to Exploring Amsterdam"
 date: "2025-08-25"
 postSlug: "the-ultimate-backpackers-guide-to-exploring-amsterdam"
-image: "/images/the-ultimate-backpackers-guide-to-exploring-amsterdam.jpg"
+image: "/images/amsterdam-backpacker-cover.jpg"
 categories: ["Destinations", "Europe"]
 categorySlugs: ["destinations", "europe"]
 excerpt: "Heading to Amsterdam? Excellent decision! Amsterdam is relatively more affordable compared to many other European cities, but it can still stretch your budget if you’re not careful. Don’t worry, though – we’ve got you covered with our guide to a budget-friendly trip to Amsterdam. Your wallet will surely appreciate it!…"
