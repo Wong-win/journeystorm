@@ -18,7 +18,7 @@ urlPath: "/discovering-trujillo-peru-must-visit-highlights-and-attractions/"
 <p><img decoding="async" src="/images/trujillo-monumento-de-la-libertad-c611cedd.jpg" alt="Plaza de Armas de Trujillo - Tours en Trujillo Peru - Excursiones" /></p>
 <p>La Plaza de Armas de Trujillo, connue pour sa beauté et son importance historique, est une visite incontournable. Établie en 1534, cette place est entourée de rues vibrantes, de boutiques et d'une architecture européenne étonnante. Au centre de la place se dresse une statue symbolisant la liberté, entourée d'autres sculptures réalistes. C'est l'endroit idéal pour absorber la culture locale et profiter des jardins luxuriants.</p>
 <h3>Chan Chan</h3>
-<p><img decoding="async" src="https://peru.info/archivos/publicacion/21-imagen-1213432122018.jpg" alt="Discover the impressive Chan Chan ruins" /></p>
+<p><img decoding="async" src="/images/chan-chan-perou.jpg" alt="Discover the impressive Chan Chan ruins" /></p>
 <p>Le site archéologique de Chan Chan, l'ancienne capitale du Royaume Chimu, est un témoignage de l'Amérique précolombienne. Composé de 10 citadelles murées, Chan Chan offre un aperçu de l'empire qui a prospéré avant de succomber aux Incas. Le musée du site abrite divers artefacts et propose une vidéo instructive sur l'histoire de Chan Chan. N'oubliez pas votre chapeau et votre crème solaire pour cette exploration en plein air.</p>
 <h3>Temples de Moche</h3>
 

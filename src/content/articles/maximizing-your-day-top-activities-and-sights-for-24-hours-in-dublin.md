@@ -19,10 +19,10 @@ urlPath: "/maximizing-your-day-top-activities-and-sights-for-24-hours-in-dublin/
 <p><img loading="lazy" decoding="async" class="wp-image-4255 alignnone size-large" src="/images/St-Stephens-Green-Dublin-All-You-Need-to-Know-BEFORE-You-Go.jpg" alt="" width="1024" height="685" /></p>
 <p>Immergez-vous dans la tranquillité de St. Stephen's Green. Que ce soit en vous prélassant sur les pelouses par une journée ensoleillée ou en flânant le long de ses sentiers, profitez des fontaines, sculptures et monuments commémoratifs du parc.</p>
 <h3>Découvrez Grafton Street</h3>
-<p><img decoding="async" src="https://www.theshelbourne.com/resourcefiles/meetingspageimages/grafton-street-shopping-in-dublin-th.jpg?version=11102023091751" alt="Dublin Hotel Near Grafton Street - The Shelbourne Dublin" /></p>
+<p><img decoding="async" src="/images/grafton-street-dublin.jpg" alt="Dublin Hotel Near Grafton Street - The Shelbourne Dublin" /></p>
 <p>Flânez le long de Grafton Street, la célèbre artère commerçante de Dublin. Prenez le temps d'apprécier les artistes de rue et continuez vers le château de Dublin. Bien que la structure originale du XIIIe siècle n'existe pratiquement plus, la Record Tower témoigne du passé. Si le temps vous manque, même un bref aperçu extérieur du château en vaut la peine.</p>
 <h3>Visitez la cathédrale Saint-Patrick</h3>
-<p><img decoding="async" src="https://www.tripsavvy.com/thmb/y2KMzdFHs9KO_lVaqt5rZn0kdtE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/exterior-view-of-st--patrick-s-cathedral-in-dublin--ireland-184853945-5a64ecd37d7be80036fd2af1.jpg" alt="Saint Patrick's Cathedral, a Dublin Landmark" /></p>
+<p><img decoding="async" src="/images/cathedrale-saint-patrick-dublin.jpg" alt="Saint Patrick's Cathedral, a Dublin Landmark" /></p>
 <p>La cathédrale Saint-Patrick, dédiée au saint patron de l'Irlande, est une visite incontournable. Son intérieur présente un sol finement décoré, le tombeau de Jonathan Swift et un magnifique chœur.</p>
 <h3>Vivez l'expérience du Temple Bar</h3>
 <p><img loading="lazy" decoding="async" class="alignnone size-large wp-image-4253" src="/images/dublin243-1024x599.jpeg" alt="" width="1024" height="599" /></p>

@@ -11,7 +11,7 @@ urlPath: "/your-essential-guide-to-exploring-manta-ecuador/"
 
 <p>Nichée sur la côte Pacifique de l'Équateur, Manta demeure un joyau souvent négligé, éclipsé par la renommée des Galápagos et de Quito. Pourtant, pour ceux qui s'y aventurent, Manta offre une délicieuse palette d'expériences.</p>
 <p>Des amateurs de gastronomie en quête des fruits de mer les plus frais aux aventuriers surfant sur les vagues, en passant par ceux qui s'immergent dans la culture côtière de l'Équateur, Manta est une destination qui promet un voyage inoubliable. Voici votre guide complet pour explorer ce joyau balnéaire&nbsp;!</p>
-<p><img decoding="async" src="https://ameliaandjp.com/wp-content/uploads/2023/01/Manta-Ecuador-Cover.jpg" alt="Manta Ecuador Pros &amp; Cons | AmeliaAndJP.com" /></p>
+<p><img decoding="async" src="/images/raie-manta-ecuador.jpg" alt="Manta Ecuador Pros &amp; Cons | AmeliaAndJP.com" /></p>
 <h3>La Mosaïque Historique de Manta</h3>
 <p>Située sur la côte Pacifique de l'Équateur, l'histoire de Manta se tisse à travers des milliers d'années, mettant en lumière des civilisations anciennes, des influences coloniales et une croissance contemporaine.</p>
 <p>Embarquez pour un voyage dans le temps afin de découvrir les événements historiques et les influences culturelles qui ont sculpté le dynamisme actuel de Manta.</p>

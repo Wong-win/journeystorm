@@ -37,7 +37,7 @@ urlPath: "/top-10-must-do-activities-in-colombo-sri-lanka/"
 <p>Située près du marché de Pettah, la mosquée est un repère important pour les marins depuis sa construction en 1908, servant de guide vers le port de Colombo.</p>
 <p>Le saviez-vous ? Depuis sa création, la mosquée a été une icône maritime pour ceux arrivant au port de Colombo, marquant un point significatif dans l'histoire maritime de la ville.</p>
 <h3>5. La plage de Mount Lavinia</h3>
-<p><img decoding="async" src="https://www.mountlaviniahotel.com/wp-content/uploads/2013/04/IMG_0092.jpg" alt="Hotel Colombo l Mount Lavinia Hotel Colombo Official Site" /></p>
+<p><img decoding="async" src="/images/plage-mont-lavinia-colombo.jpg" alt="Hotel Colombo l Mount Lavinia Hotel Colombo Official Site" /></p>
 <p>Vous avez besoin d'une pause après l'exploration de la ville ? La plage de Mount Lavinia est l'endroit idéal. À quelques minutes en tuk-tuk ou taxi de Colombo, c'est parfait pour un plongeon l'après-midi. La plage est bordée de restaurants et de pubs, idéaux pour un repas ou un verre en bord de mer. C'est également une destination familiale si vous voyagez avec des enfants.</p>
 <p>Conseil : Pour une soirée mémorable, visit le Mount Lavinia Hotel pour les couchers de soleil et les cocktails. Ils proposent un pass journalier pour utiliser leur piscine pour environ 1 000 LKR (environ 5,50 $ US). Ne manquez pas leur excellent buffet du déjeuner !</p>
 <h3>6. Galle Face Green</h3>

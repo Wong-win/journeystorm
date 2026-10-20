@@ -65,7 +65,7 @@ urlPath: "/travel-guide-to-namaqualand-south-africa-insiders-advice/"
 <li>Photographie animalière : Abordez la photographie animalière avec patience, en attendant tranquillement le cliché parfait des animaux dans leur habitat.</li>
 </ul>
 <h3>À la découverte des merveilles de la réserve naturelle de Goegap</h3>
-<p><img decoding="async" src="https://africawild-forum.com/images/ext/eb788e0eab01d59edc00d1e5381f704f.jpg" alt="Goegap Nature Reserve - Africa Wild" /></p>
+<p><img decoding="async" src="/images/goegap-marguerites.jpg" alt="Goegap Nature Reserve - Africa Wild" /></p>
 <p>Nichée au cœur du Namaqualand, en Afrique du Sud, la réserve naturelle de Goegap est un trésor de beauté naturelle qui ne demande qu'à être découvert. Idéale pour les amoureux de la nature comme pour les aventuriers, une excursion le long de cette route panoramique offre un aperçu extraordinaire de la riche biodiversité et des paysages époustouflants de la région.</p>
 <h5>Voyage à travers la splendeur naturelle du Namaqualand</h5>
 <p>En traversant la réserve naturelle de Goegap, préparez-vous à être fasciné par son vaste éventail de flore, y compris les succulentes résistantes et les emblématiques arbres-carquois. Ces plantes, qui prospèrent dans des conditions difficiles, offrent un contraste fascinant avec le décor accidenté.</p>
@@ -80,7 +80,7 @@ urlPath: "/travel-guide-to-namaqualand-south-africa-insiders-advice/"
 <p>La réserve naturelle de Goegap n'est que le début. La région environnante du Namaqualand regorge d'attractions, de la ville vibrante du Cap à la beauté immaculée du parc national de Richtersveld et du parc national de la côte Ouest.</p>
 <p>Pour ceux qui souhaitent voyager plus loin, la région du Cederberg au nord offre des paysages de montagne époustouflants, tandis qu'un voyage vers l'ouest mène au charme côtier de Port Nolloth, le long du fleuve Orange.</p>
 <h3>À la découverte des routes panoramiques de Kamieskroon</h3>
-<p><img decoding="async" src="https://capenamibia.com/wp-content/uploads/2017/10/kammieskroon.jpg" alt="Kamieskroon – Cape to Namibia" /></p>
+<p><img decoding="async" src="/images/kamieskroon-route.jpg" alt="Kamieskroon – Cape to Namibia" /></p>
 <p>Les routes de Kamieskroon, situées dans les majestueuses montagnes de Kamiesberg, offrent une expérience de road trip sans pareille. Ces itinéraires sont une tapisserie de paysages dramatiques, de formations rocheuses et de vallées idylliques.</p>
 <p>Le voyage est enrichi par des visites de petites villes le long du chemin, où la culture locale prospère et où les délices culinaires régionaux vous attendent. Le printemps transforme la région en une toile vibrante de fleurs sauvages, offrant un festin visuel incomparable.</p>
 <p>Une visite au parc national de Namaqua est essentielle pour tout amoureux de la nature. Vous pourrez y déambuler sur des sentiers entourés de fleurs sauvages ou faire une excursion d'une journée entière pour vous imprégner véritablement de la beauté naturelle.</p>
@@ -114,7 +114,7 @@ urlPath: "/travel-guide-to-namaqualand-south-africa-insiders-advice/"
 <li>Explorez les villes régionales : Visitez des villes comme Springbok ou Alexander Bay pour interagir avec les habitants, découvrir des boutiques uniques et en apprendre davantage sur l'histoire et le patrimoine culturel de la région.</li>
 </ul>
 <p>En suivant ces conseils, vous pouvez vous assurer une expérience riche et épanouissante au Namaqualand. De ses splendeurs naturelles à sa profondeur culturelle, cette région d'Afrique du Sud offre un voyage rempli d'émerveillement et de découverte.</p>
-<p><img decoding="async" src="https://www.cedarberg-travel.com/app/uploads/2020/09/West-Coast-Wildflowers-BS-1920.jpg" alt="Tips for Flower Viewing in Namaqualand &amp; the Cederberg" /></p>
+<p><img decoding="async" src="/images/namaqualand-fleurs.jpg" alt="Tips for Flower Viewing in Namaqualand &amp; the Cederberg" /></p>
 <h3>Itinéraire guidé pour l'aventure sur la route des fleurs du Namaqualand</h3>
 <p>Préparez-vous pour un road trip extraordinaire à travers les paysages captivants du Namaqualand avec cet itinéraire soigneusement planifié. Il est conçu pour mettre en valeur les spectaculaires expositions de fleurs sauvages et la beauté naturelle enchanteresse de la région, tout en permettant une personnalisation selon votre propre rythme et vos intérêts.</p>
 <h5>Jour 1 : Voyage du Cap à Springbok</h5>

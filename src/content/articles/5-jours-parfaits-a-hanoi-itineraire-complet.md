@@ -15,7 +15,7 @@ urlPath: "/5-jours-parfaits-a-hanoi-itineraire-complet/"
 
 <h3>Jour 1 : Plongez dans le Vieux Quartier de Hanoï</h3>
 
-<p><img decoding="async" src="https://images.unsplash.com/photo-1509923936410-4019d7cd83bf?w=1200" alt="Rues animées du Vieux Quartier de Hanoï" /></p>
+<p><img decoding="async" src="/images/hanoi-vieux-quartier.jpg" alt="Rues animées du Vieux Quartier de Hanoï" /></p>
 
 <p>Commencez votre aventure vietnamienne par le cœur battant de la ville. Le Vieux Quartier, ou <em>Phố Cổ</em>, est un dédale de 36 rues commerçantes, chacune historiquement dédiée à un métier spécifique. Aujourd'hui, vous y trouverez des échoppes d'artisanat, des restaurants traditionnels, des temples bouddhistes et une énergie incroyable à toute heure du jour et de la nuit.</p>
 
@@ -65,7 +65,7 @@ urlPath: "/5-jours-parfaits-a-hanoi-itineraire-complet/"
 
 <h3>Jour 5 : Temples, musées et shopping</h3>
 
-<p><img decoding="async" src="https://images.unsplash.com/photo-1570367769390-fcb1b3e6f5d3?w=1200" alt="Temple de la Littérature de Hanoï" /></p>
+<p><img decoding="async" src="/images/hanoi-temple-litterature.jpg" alt="Temple de la Littérature de Hanoï" /></p>
 
 <p>Dernière journée : prenez le temps d'explorer les sites que vous avez peut-être négligés. Le <strong>Temple de la Littérature</strong> (<em>Văn Miếu - Quốc Tử Giám</em>) est un incontournable. Fondée en 1070, c'est la première université du Vietnam. L'architecture, les jardins paisibles et les stèles commémoratives en font l'un des plus beaux sites de Hanoï. Comptez 1h30 à 2h de visite.</p>
 

@@ -11,7 +11,7 @@ urlPath: "/top-mainland-beach-destinations-in-thailand/"
 
 <p>Les plages continentales de la Thaïlande, avec leurs sables blancs pittoresques, leurs eaux cristallines et leurs palmiers se balançant doucement, ressemblent à des scènes tout droit sorties d'une carte postale. Que vous recherchiez une retraite tropicale sereine ou une ambiance festive animée, le littoral du pays offre une multitude de superbes options balnéaires. Bien que les îles du sud soient des hauts lieux touristiques bien connus, les plages continentales sont tout aussi captivantes pour ceux qui sont en quête de soleil, de sable et de mer. Explorons quelques-unes des meilleures plages continentales de Thaïlande.</p>
 <h3>La plage de Pattaya à Pattaya</h3>
-<p><img decoding="async" src="https://tatapi.tourismthailand.org/tatfs/Image/CustomPOI/Picture/P03006407_1.jpeg" alt="Pattaya Beach" /></p>
+<p><img decoding="async" src="/images/plage-pattaya.jpg" alt="Pattaya Beach" /></p>
 <p>Pour goûter à la scène festive animée de la Thaïlande, Pattaya, située sur la côte est du golfe, est l'endroit idéal. Cette ville est un aimant pour une foule jeune et énergique, grâce à ses plages attrayantes et sa vie nocturne dynamique. La plage de Pattaya, avec sa forme de croissant, est le centre névralgique de l'activité. Ici, vous pourrez profiter de sables bordés de palmiers, de sports nautiques passionnants comme le parapente et la planche à voile, ainsi que d'une atmosphère balnéaire animée. La région est également idéale pour le shopping et la restauration, avec de nombreux restaurants et boutiques en bord de mer le long de la route de la plage adjacente, Beach Road.</p>
 <h3>La plage de Railay à Krabi</h3>
 

@@ -27,7 +27,7 @@ urlPath: "/alaskan-cruise-a-northern-lights-specialists-handbook/"
 <h5>L'Emplacement Compte</h5>
 <p>La situation de l'Alaska dans l'« ovale auroral » en fait un endroit de choix pour l'observation. Les zones directement sous cet ovale, comme Fairbanks, sont particulièrement renommées pour des observations régulières. Les croisières offrent la flexibilité de trouver les meilleurs points d'observation.</p>
 <h3>Comprendre les Croisières aux Aurores Boréales d'Alaska</h3>
-<p><img decoding="async" src="https://www.cruise.co.uk/bulletin/files/3/2014/09/iStock_000004066489_Large.jpg" alt="Our In-depth Guide on What to Expect on a Cruise to Alaska - Cruise Bulletin" /></p>
+<p><img decoding="async" src="/images/aurores-alaska.jpg" alt="Our In-depth Guide on What to Expect on a Cruise to Alaska - Cruise Bulletin" /></p>
 <p>L'expérience albertaine est unique, avec sa vaste nature sauvage et ses paysages à couper le souffle formant le fond parfait pour les Aurores Boréales.</p>
 <h5>Symphonie Terre et Mer</h5>
 <p>Les Aurores Boréales d'Alaska se reflètent sur les eaux glacées et les sommets enneigés, créant des visuels uniques exclusifs à cette région.</p>
