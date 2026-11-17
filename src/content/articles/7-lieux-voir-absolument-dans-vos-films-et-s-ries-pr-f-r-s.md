@@ -3,13 +3,13 @@ title: "7 lieux à voir absolument dans vos films et séries préférés"
 date: "2026-07-25"
 postSlug: "7-lieux-voir-absolument-dans-vos-films-et-s-ries-pr-f-r-s"
 image: "/images/7-lieux-voir-absolument-dans-vos-films-et-s-ries-pr-f-r-s.jpg"
-categories: ["Travel Tips"]
+categories: ["Conseils de voyage"]
 categorySlugs: ["travel-tips"]
-excerpt: "Rêvez de fouler les univers de vos séries et films préférés ? Que vous cherchiez à explorer des déserts lointains, à vous immerger dans des lieux de culte religieux ou à suivre les pas de shoguns célèbre, vous pouvez en réalité visiter de nombreux endroits qui ont donné vie à…"
+excerpt: "Rêvez de fouler les univers de vos séries et films préférés ? Que vous cherchiez à explorer des déserts lointains, à vous immerger dans des lieux de culte religieux ou à suivre les pas de shoguns célèbres, vous pouvez en réalité visiter de nombreux endroits qui ont donné vie à…"
 urlPath: "/7-lieux-voir-absolument-dans-vos-films-et-s-ries-pr-f-r-s/"
 ---
 
-<p>Rêvez de fouler les univers de vos séries et films préférés ? Que vous cherchiez à explorer des déserts lointains, à vous immerger dans des lieux de culte religieux ou à suivre les pas de shoguns célèbre, vous pouvez en réalité visiter de nombreux endroits qui ont donné vie à des mondes fictifs dans les succès:blockbuster de l'année dernière. Ci-dessous, une sélection de certaines des meilleures destinations de tournage pour voyager, du cœur animé de New York de Bob Dylan aux déserts farfelus de Dune : Deuxième Partie.</p>
+<p>Rêvez de fouler les univers de vos séries et films préférés ? Que vous cherchiez à explorer des déserts lointains, à vous immerger dans des lieux de culte religieux ou à suivre les pas de shoguns célèbres, vous pouvez en réalité visiter de nombreux endroits qui ont donné vie à des mondes fictifs dans les succès du box-office de l'année dernière. Ci-dessous, une sélection de certaines des meilleures destinations de tournage pour voyager, du cœur animé de New York de Bob Dylan aux déserts farfelus de Dune : Deuxième Partie.</p>
 <hr />
 <h3>1. La chapelle Sixtine, comme vue dans Conclave</h3>
 <p><strong>Lieu : Vatican</strong></p>
@@ -45,9 +45,9 @@ Découvrez les sites et sons vibrants du Village avec cette visite guidée à pi
 <hr />
 <h3>5. Malte, comme vue dans Gladiator II</h3>
 <p><strong>Lieu : Malte</strong></p>
-<p><img decoding="async" src="/images/caption-d576693a.jpg" alt="The dome of the Church of Our Lady of Mount Carmel in Valletta, Malta" width="800" /></p>
+<p><img decoding="async" src="/images/caption-d576693a.jpg" alt="Le dôme de l'église Notre-Dame du Mont-Carmel à La Valette, Malte" width="800" /></p>
 <p><em>Le dôme de l'église de Notre-Dame du Mont-Carmel à La Valette, Malte. Crédit : Wallis Yu Getty Images</em></p>
-<p>Pour la suite, le réalisateur Ridley Scott a ramené le cast et l'équipe sur certains des décors originaux de Gladiator à Malte, incluant Fort Ricasoli, qui a été partiellement excavé pour les films sous l'œil vigilant d'une équipe archéologique. Le fossé de La Valette, Fort Delimara et le Grand Harbour ont également servi de décor. Bien que ni Ricasoli ni Delimara ne soient ouverts aux visiteurs, il y a plenty d'autres incroyables ruines romaines à explorer sur l'île, incluant le temple de Mnajdra et l'hypogée de Hal-Saflieni.</p>
+<p>Pour la suite, le réalisateur Ridley Scott a ramené le cast et l'équipe sur certains des décors originaux de Gladiator à Malte, incluant Fort Ricasoli, qui a été partiellement excavé pour les films sous l'œil vigilant d'une équipe archéologique. Le fossé de La Valette, Fort Delimara et le Grand Harbour ont également servi de décor. Bien que ni Ricasoli ni Delimara ne soient ouverts aux visiteurs, il y a de nombreuses autres ruines romaines à explorer sur l'île, incluant le temple de Mnajdra et l'hypogée de Hal-Saflieni.</p>
 <p><strong>Visite à réserver</strong><br />
 Explorez Malte avec style avec cette croisière en catamaran d'une journée complète au départ de Sliema. Vous profiterez d'une visite complète du port, du luxe d'un environnement sans foule et d'arrêts pour nager et snorkeler en cours de route.</p>
 <hr />
@@ -65,5 +65,5 @@ Cette visite historique offre un aperçu plus profond de sa construction, du con
 <p><em>East Corinth, Vermont pendant l'automne. Crédit : Tom Narwid Getty Images</em></p>
 <p>Dans le premier volet de Beetlejuice, le personnage de Winona Ryder, Lydia Deetz, fréquente l'école pour filles de Miss Shannon, une institution éducative située dans le fictif Winter River, CT. Pour le voir par vous-même, vous devrez vous rendre au très réel East Corinth, VT, où il se trouve au 778 Village Road.</p>
 <p><strong>Quand y aller</strong><br />
-Cette ville pittoresque du Vermont est особенно charmante en automne — émerveillez-vous devant le feuillage, faites du shopping de souvenirs chez Chapman's General, explorez le pont couvert de Haverhill-Bath et regardez du cinéma de premier ordre dans un cinéma en drive-in.</p>
+Cette ville pittoresque du Vermont est particulièrement charmante en automne — émerveillez-vous devant le feuillage, faites du shopping de souvenirs chez Chapman's General, explorez le pont couvert de Haverhill-Bath et regardez du cinéma de premier ordre dans un cinéma en drive-in.</p>
 <hr />

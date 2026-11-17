@@ -3,7 +3,7 @@ title: "6 façons de découvrir l'histoire de la Renaissance à Florence"
 date: "2026-07-10"
 postSlug: "6-manieres-decouvrir-histoire-renaissance-florence"
 image: "/images/6-manieres-decouvrir-histoire-renaissance-florence.jpg"
-categories: ["Travel Tips"]
+categories: ["Conseils de voyage"]
 categorySlugs: ["travel-tips"]
 excerpt: "Florence est célèbre comme berceau de la Renaissance — la période entre les années 1490 et 1520 qui a apporté de nouveaux niveaux de culture et d’innovation à l’Italie et à une grande partie de l’Europe. Elle a touché à tous les domaines de la connaissance, de l’art et de…"
 urlPath: "/6-manieres-decouvrir-histoire-renaissance-florence/"
@@ -24,7 +24,7 @@ urlPath: "/6-manieres-decouvrir-histoire-renaissance-florence/"
 <p><strong>Conseil :</strong> Si vous voulez une expérience plus pratique, dirigez-vous vers Aquaflor, une autre boutique de parfum historique où vous pouvez participer à des ateliers pour créer vos propres fragrances.</p>
 <hr />
 <h3>3. Admirez le &#8220;David&#8221; de Michel-Ange à la Galerie de l'Académie</h3>
-<p><img decoding="async" src="/images/caption-aa1d467e.jpg" alt="Statue of David in Galleria dell'Accademia" width="800" /></p>
+<p><img decoding="async" src="/images/caption-aa1d467e.jpg" alt="Statue de David à la Galerie de l'Académie de Florence" width="800" /></p>
 <p>Vous pouvez voir des copies de la célèbre sculpture du David de Michel-Ange sur la Piazza della Signoria et le Piazzale Michelangelo, mais pour admirer l'original dans toute sa gloire, vous devrez visiter la Galerie de l'Académie, qui a été construite spécifiquement pour l'abriter. La statue colossale mesure près de 17 pieds de haut et pèse plus de six tonnes, mais peut-être la chose la plus incroyable à son sujet est que Michel-Ange a reçu la commande alors qu'il n'avait que 26 ans et l'a terminée avant son 30e anniversaire.</p>
 <p><strong>Ne manquez pas :</strong> La plupart des gens se dirigent directement vers le &#8220;David&#8221; — mais le musée abrite également une collection stellaire d'instruments de musique historiques.</p>
 <hr />

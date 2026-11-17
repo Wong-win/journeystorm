@@ -1,12 +1,13 @@
 ---
 import Layout from "../layouts/Layout.astro";
 ---
-<Layout title="Page Not Found (404)" description="The page you're looking for doesn't exist.">
+
+<Layout title="Page introuvable (404)" description="La page que vous cherchez n'existe pas ou a été déplacée.">
   <div class="error-page">
     <h1>404</h1>
-    <p class="error-message">Page not found</p>
-    <p>Sorry, the page you're looking for doesn't exist or has been moved.</p>
-    <a href="/" class="error-home-link">← Back to home</a>
+    <p class="error-message">Page introuvable</p>
+    <p>Désolé, la page que vous cherchez n'existe pas ou a été déplacée.</p>
+    <a href="/" class="error-home-link">← Retour à l'accueil</a>
   </div>
 </Layout>
 
@@ -16,14 +17,16 @@ import Layout from "../layouts/Layout.astro";
     margin: 80px auto;
     text-align: center;
     padding: 0 24px;
-    font-family: var(--font-body, system-ui, -apple-system, sans-serif);
-    color: var(--color-text, #1a1a1a);
+    font-family: var(--font-sans);
+    color: var(--text);
   }
   .error-page h1 {
     font-size: 96px;
+    line-height: 1;
     margin: 0 0 8px;
     font-weight: 800;
     letter-spacing: -2px;
+    font-family: var(--font-serif);
   }
   .error-message {
     font-size: 24px;
@@ -31,20 +34,21 @@ import Layout from "../layouts/Layout.astro";
     font-weight: 600;
   }
   .error-page p {
+    font-size: 0.95rem;
     margin: 0 0 32px;
-    opacity: 0.7;
+    color: var(--muted);
   }
   .error-home-link {
     display: inline-block;
     padding: 14px 28px;
-    background: var(--color-accent, #111);
+    background: var(--accent);
     color: #fff;
     text-decoration: none;
     border-radius: 8px;
     font-weight: 600;
-    transition: opacity 0.2s;
+    transition: background 0.2s;
   }
   .error-home-link:hover {
-    opacity: 0.85;
+    background: var(--accent-dark);
   }
 </style>

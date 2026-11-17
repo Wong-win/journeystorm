@@ -3,7 +3,7 @@ title: "Six conseils essentiels pour une escapade mémorable à Florence : votre
 date: "2025-09-19"
 postSlug: "six-essential-tips-for-a-memorable-florence-city-getaway-your-ultimate-guide"
 image: "/images/10-Best-Things-to-Do-in-Florence-Whats-Florence-Most-Famous-For-–-Go-Guides.jpg"
-categories: ["Destinations", "Europe", "Travel Tips"]
+categories: ["Destinations", "Europe", "Conseils de voyage"]
 categorySlugs: ["destinations", "europe", "travel-tips"]
 excerpt: "Florence, un joyau de la couronne de la Renaissance italienne, est un trésor d’histoire, d’art et d’architecture impressionnante. Vous avez choisi Florence pour votre escapade urbaine ? Excellente décision ! De plus en plus, les touristes se rendant en Italie sont captivés par le charme de la Toscane, qui offre une cuisine exceptionnelle et des vins de renommée mondiale. Planifier votre aventure à Florence peut sembler intimidant, mais ne vous inquiétez pas –…"
 urlPath: "/six-essential-tips-for-a-memorable-florence-city-getaway-your-ultimate-guide/"

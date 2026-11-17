@@ -3,7 +3,7 @@ title: "Combien de jours à Boston suffisent ?"
 date: "2026-07-15"
 postSlug: "combien-jours-boston-suffisent"
 image: "/images/combien-jours-boston-suffisent.jpg"
-categories: ["Travel Tips"]
+categories: ["Conseils de voyage"]
 categorySlugs: ["travel-tips"]
 excerpt: "Boston a l’histoire intégrée dans chaque bloc. Vous pouvez parcourir le Freedom Trail le matin, jeter un sachet de thé métaphorique dans le port, et avoir encore le temps de trouver le meilleur lobster roll de la ville avant la fin de l’après-midi. Mais ce n’est pas une ville figée…"
 urlPath: "/combien-jours-boston-suffisent/"
@@ -21,7 +21,7 @@ urlPath: "/combien-jours-boston-suffisent/"
 <li>Faneuil Hall et Quincy Market pour le shopping, les artistes de rue et votre première goût de New England clam chowder (essayez Atlantic Fish Company ou Boston Chowda).</li>
 <li>Dîner dans le North End, le Petit Italie de Boston, où chaque restaurant prétend avoir le meilleur cannoli de la ville (Mike's Pastry et Modern Pastry sont les rivaux célèbres).</li>
 </ul>
-<p><img decoding="async" src="/images/caption-56f44d69.jpg" alt="Historic buildings and a clock in Boston" width="800" /></p>
+<p><img decoding="async" src="/images/caption-56f44d69.jpg" alt="Bâtiments historiques et horloge à Boston" width="800" /></p>
 <h2>Trois jours à Boston</h2>
 <p>Trois jours c'est une durée d'itinéraire parfaite pour les débutants. Voici comment je diviserais les jours :</p>
 <ul>
@@ -40,5 +40,5 @@ urlPath: "/combien-jours-boston-suffisent/"
 <li>Le Musée Isabella Stewart Gardner, un palais vénitien avec des maîtres et le lieu du plus grand vol d'art non résolu au monde.</li>
 <li>Une journée complète pour explorer Cambridge, depuis Harvard Square, le MIT Museum, et dîner chez Alden & Harlow.</li>
 </ul>
-<p><img decoding="async" src="/images/caption-5922e4d7.jpg" alt="Exterior of Fenway Park, with large canvas sign over it" width="800" /></p>
+<p><img decoding="async" src="/images/caption-5922e4d7.jpg" alt="Façade du Fenway Park, avec son grand panneau de toile" width="800" /></p>
 <p>Le climat imprévisible de Boston signifie qu'il faut toujours prévoir des couches, peu importe la saison. La ville est hautement praticable à pied, et la plupart des attractions peuvent être atteinte via le T ou à pied.</p>

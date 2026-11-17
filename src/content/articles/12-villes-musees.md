@@ -3,7 +3,7 @@ title: "12 villes que nous visiterions juste pour les musées"
 date: "2026-07-05"
 postSlug: "12-villes-musees"
 image: "/images/12-villes-musees.jpg"
-categories: ["Travel Tips"]
+categories: ["Conseils de voyage"]
 categorySlugs: ["travel-tips"]
 excerpt: "Oubliez les sites touristiques sur les cartes postales — parfois la meilleure façon de découvrir une ville, ce sont ses musées. Que vous soyez passionné d’antiquités ou d’installations contemporaines, le bon musée peut offrir une fenêtre sur l’âme d’une ville. Ci-dessous, 12 pôles culturels du monde entier et leurs musées…"
 urlPath: "/12-villes-musees/"
@@ -81,6 +81,6 @@ urlPath: "/12-villes-musees/"
 <p><em>La scène artistique et culturelle :</em> Dublin est pleine d'espaces créatifs, des galeries independent cozy dans des bâtiments historiques aux festivals artistiques vivants comme le Fringe Festival ou Dublin Culture Night. Attendez-vous à ce que l'art soit teinté de sous-entendus politiques en guise de clin d'œil à la longue histoire de la ville.</p>
 <p><em>Le musée emblématique :</em> Le Petit Musée de Dublin. Abrite dans une maison townhouse georgienne, le Petit Musée de Dublin offre un regard étrange et charmant sur l'histoire du XXe siècle de la ville. Ouvert en 2011, il présente des expositions données par les Dubliners eux-mêmes, d'une exposition U2 aux memorabilia de la Révolution de 1916. Réservez une visite quelques jours à l'avance, car les billets se vendent souvent.</p>
 <p><em>Le musée sous-estimé à visiter :</em> Chester Beatty. Si vous êtes près du Château de Dublin, dziquez derrière pour trouver Chester Beatty. C'est en partie musée, en partie bibliothèque, et sa collection s'étend sur des milliers d'années et des continents, des manuscrits enluminés et des estampes japonaises en bois aux poèmes d'amour égyptiens sur papyrus. Ne manquez pas la galerie Sacred Traditions, où vous trouverez un fragment d'Évangile du IIe siècle et des textes bouddhistes sculptés sur des feuilles de palmier. Et le meilleur ? L'entrée est gratuite.</p>
-<p><img decoding="async" src="/images/caption-4d8338b0.jpg" alt="The Little Museum of Dublin" width="800" /></p>
+<p><img decoding="async" src="/images/caption-4d8338b0.jpg" alt="Le Little Museum de Dublin" width="800" /></p>
 <hr />
 <p>Que vous soyez un amateur d'art, un passionné d'histoire ou simplement à la recherche d'une nouvelle façon d'explorer une ville, ces destinations offrent des expériences inoubliables pour les amateurs de musée.</p>

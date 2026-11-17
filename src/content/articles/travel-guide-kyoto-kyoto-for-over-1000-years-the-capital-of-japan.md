@@ -3,7 +3,7 @@ title: "Guide de voyage Kyoto - Kyoto, pendant plus de 1000 ans la capitale du J
 date: "2025-11-03"
 postSlug: "travel-guide-kyoto-kyoto-for-over-1000-years-the-capital-of-japan"
 image: "/images/travel-guide-kyoto-kyoto-for-over-1000-years-the-capital-of-japan.jpg"
-categories: ["Asia", "Destinations"]
+categories: ["Asie", "Destinations"]
 categorySlugs: ["asia", "destinations"]
 excerpt: "Kyoto, l’ancienne capitale impériale du Japon, a conservé ce statut prestigieux pendant plus d’un millénaire, à partir de 794. Souvent appelée la « Capitale de l’Ouest », elle a été minutieusement conçue en s’inspirant des grandes villes de Chine. Remarquablement, Kyoto est restée indemne des ravages de la Seconde Guerre mondiale, préservant un…"
 urlPath: "/travel-guide-kyoto-kyoto-for-over-1000-years-the-capital-of-japan/"

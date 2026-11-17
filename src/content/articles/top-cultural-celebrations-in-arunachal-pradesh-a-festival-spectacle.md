@@ -3,7 +3,7 @@ title: "Les Meilleures Célébrations Culturelles de l'Arunachal Pradesh : Un Sp
 date: "2026-01-26"
 postSlug: "top-cultural-celebrations-in-arunachal-pradesh-a-festival-spectacle"
 image: "/images/224945293.jpg"
-categories: ["Asia", "Destinations"]
+categories: ["Asie", "Destinations"]
 categorySlugs: ["asia", "destinations"]
 excerpt: "L’Arunachal Pradesh, niché dans le coin nord-est de l’Inde, est une mosaïque vibrante de festivals qui redéfinissent la célébration. Ces événements vont au-delà des simples rassemblements sociaux, se révélant comme de grandioses manifestations du riche héritage culturel de l’État. Ces festivals ne font pas que lier la communauté, mais instillent également un profond sentiment de fierté parmi…"
 urlPath: "/top-cultural-celebrations-in-arunachal-pradesh-a-festival-spectacle/"

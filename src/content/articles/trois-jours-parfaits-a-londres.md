@@ -3,7 +3,7 @@ title: "Trois jours parfaits à Londres"
 date: "2026-06-05"
 postSlug: "trois-jours-parfaits-a-londres"
 image: "/images/caption-19-1024x576.jpg"
-categories: ["Travel Tips"]
+categories: ["Conseils de voyage"]
 categorySlugs: ["travel-tips"]
 excerpt: "  De ses palais royaux et monuments majestueux à ses pubs accueillants et théâtres intimes, Londres charme chaque coin de la ville, transformant même une visite rapide de trois jours en une aventure inoubliable. Pour tirer le meilleur parti d’un court séjour, il s’agit de trouver un équilibre entre les…"
 urlPath: "/trois-jours-parfaits-a-londres/"

@@ -3,7 +3,7 @@ title: "Vacances Bleues : le village de vacances à la française, mode d'emploi
 date: "2026-10-29"
 postSlug: "vacances-bleues-village-de-vacances-mode-demploi"
 image: "/images/vacances-bleues-village-de-vacances-mode-demploi-cover.jpg"
-categories: ["Travel Tips", "Destinations"]
+categories: ["Conseils de voyage", "Destinations"]
 categorySlugs: ["travel-tips", "destinations"]
 excerpt: "Hôtels, clubs, résidences : trois façons très différentes de voyager en France. Notre mode d'emploi du village de vacances à la française — ce qui le distingue, les clubs enfants, les codes de réduction, les conditions d'annulation, et le format qui vous convient."
 urlPath: "/vacances-bleues-village-de-vacances-mode-demploi/"

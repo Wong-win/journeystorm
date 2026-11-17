@@ -3,7 +3,7 @@ title: "Plongée sous-marine à Goa : une aventure sous-marine inoubliable"
 date: "2026-01-02"
 postSlug: "scuba-diving-in-goa-an-unforgettable-underwater-adventure"
 image: "/images/goa-plongee-cover.jpg"
-categories: ["Asia", "Destinations"]
+categories: ["Asie", "Destinations"]
 categorySlugs: ["asia", "destinations"]
 excerpt: "Goa, avec son littoral magnifique et sa riche vie marine, offre une expérience de plongée sous-marine à la fois exaltante et sereine. Les eaux claires et chaudes de la mer d’Oman créent un environnement idéal pour les débutants comme pour les plongeurs expérimentés. 1. Meilleurs sites de plongée à Goa Grande Island : Connue pour ses eaux claires…"
 urlPath: "/scuba-diving-in-goa-an-unforgettable-underwater-adventure/"
@@ -16,7 +16,7 @@ urlPath: "/scuba-diving-in-goa-an-unforgettable-underwater-adventure/"
 <li><strong>Suzy&#8217;s Wreck :</strong> Épave britannique de la Seconde Guerre mondiale, Suzy&#8217;s Wreck abrite aujourd'hui une pléthore de vie marine, notamment des barracudas, des vivaneaux et des poissons-lions. C'est l'endroit parfait pour les amateurs de plongée sur épave.</li>
 </ul>
 <p><strong>Sail Rock :</strong> Réputé pour ses courants difficiles, ce site est recommandé aux plongeurs plus expérimentés. Les récompenses sont grandes, avec la possibilité d'apercevoir de plus grandes créatures marines comme des requins et des raies.</p>
-<p><img decoding="async" src="/images/scuba-diving-in-goa-2d3fe0ad.jpg" alt="9 Best Places for Scuba Diving in Goa - Honeymoon Bug" /></p>
+<p><img decoding="async" src="/images/scuba-diving-in-goa-2d3fe0ad.jpg" alt="Les 9 meilleurs sites de plongée à Goa" /></p>
 <h3>2. Logistique et planification de votre plongée</h3>
 <ul>
 <li><strong>Meilleure période pour plonger :</strong> La période idéale pour la plongée sous-marine à Goa s'étend d'octobre à mai, lorsque la mer est la plus calme et la visibilité la meilleure.</li>

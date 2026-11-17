@@ -3,7 +3,7 @@ title: "Votre Guide Essentiel pour Explorer Manta, Équateur"
 date: "2025-12-03"
 postSlug: "your-essential-guide-to-exploring-manta-ecuador"
 image: "/images/your-essential-guide-to-exploring-manta-ecuador.jpg"
-categories: ["America", "Destinations"]
+categories: ["Amérique", "Destinations"]
 categorySlugs: ["america", "destinations"]
 excerpt: "Nichée sur la côte Pacifique de l’Équateur, Manta demeure un joyau souvent négligé, éclipsé par la renommée des Galápagos et de Quito. Pourtant, pour ceux qui s’y aventurent, Manta offre une délicieuse palette d’expériences. Des amateurs de gastronomie en quête des fruits de mer les plus frais aux aventuriers surfant sur les vagues, en passant par ceux qui s’immergent dans…"
 urlPath: "/your-essential-guide-to-exploring-manta-ecuador/"

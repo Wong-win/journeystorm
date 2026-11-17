@@ -3,7 +3,7 @@ title: "Voyage Privé : le club privé des ventes de voyages haut de gamme"
 date: "2026-10-25"
 postSlug: "voyage-prive-club-prive-ventes-voyages-haut-de-gamme"
 image: "/images/voyage-prive-cover.jpg"
-categories: ["Travel Tips", "Destinations"]
+categories: ["Conseils de voyage", "Destinations"]
 categorySlugs: ["travel-tips", "destinations"]
 excerpt: "Club privé spécialiste de la vente de voyages haut de gamme, Voyage Privé met en vente des séjours tout compris, des circuits et des vacances au ski à des prix exclusifs, jusqu'à -70%. Notre analyse des ventes privées, des destinations vedettes et des règles à connaître avant de s'engager."
 urlPath: "/voyage-prive-club-prive-ventes-voyages-haut-de-gamme/"

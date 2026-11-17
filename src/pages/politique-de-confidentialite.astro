@@ -1,0 +1,311 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { siteInfo, publisherAddressHtml } from "../data/site-info";
+---
+
+<Layout
+  title="Politique de confidentialité"
+  description="Politique de confidentialité de JourneyStorm — données personnelles, cookies, mesure d'audience, liens affiliés, transferts hors Union européenne et exercice de vos droits RGPD."
+>
+  <div class="page-static legal">
+    <h1>Politique de confidentialité</h1>
+
+    <p class="legal-lead">
+      La présente politique décrit comment {siteInfo.siteName} traite les données personnelles
+      des visiteurs de <strong>{siteInfo.domain}</strong>, conformément au règlement (UE) 2016/679
+      (RGPD) et à la loi n° 78-17 du 6 janvier 1978 modifiée. Elle a été mise à jour le
+      17 novembre 2026.
+    </p>
+
+    <h2>1. Responsable du traitement</h2>
+    <ul class="legal-list">
+      <li><strong>Éditeur :</strong> {siteInfo.publisher.name}</li>
+      <li><strong>Adresse :</strong> <span set:html={publisherAddressHtml} /></li>
+      <li>
+        <strong>Adresse électronique :</strong>
+        <a href={`mailto:${siteInfo.publisher.email}`}>{siteInfo.publisher.email}</a>
+      </li>
+      <li><strong>Téléphone :</strong> {siteInfo.publisher.phone}</li>
+    </ul>
+    <p>
+      L'éditeur étant établi hors du territoire de l'Union européenne, un représentant est désigné
+      au sens de l'article 27 du RGPD. Ses coordonnées figurent dans les
+      <a href="/mentions-legales/#">mentions légales</a> et sont communiquées sur simple demande
+      à l'adresse ci-dessus.
+    </p>
+
+    <h2>2. Principes appliqués</h2>
+    <p>
+      Aucune donnée personnelle n'est vendue, louée ou cédée à des tiers à des fins publicitaires.
+      Les seules données collectées sont celles nécessaires au fonctionnement du site, à la mesure
+      d'audience et à la mesure des clics vers nos partenaires. Elles ne sont jamais utilisées pour
+      du profilage publicitaire.
+    </p>
+
+    <h2>3. Données collectées</h2>
+    <ul class="legal-list">
+      <li>
+        <strong>Formulaire de contact :</strong> les informations que vous saisissez
+        volontairement (nom, adresse électronique, sujet, message) sont transmises par votre
+        navigateur à l'adresse de l'éditeur, afin de traiter votre demande.
+      </li>
+      <li>
+        <strong>Mesure d'audience :</strong> des données techniques de navigation (pages
+        consultées, pages de sortie, provenance, type d'appareil, ville et pays du visiteur,
+        référenceur) sont mesurées par {siteInfo.analytics.provider}, de façon pseudonymisée.
+      </li>
+      <li>
+        <strong>Liens affiliés :</strong> lorsque vous cliquez sur un lien sponsorisé, un
+        identifiant de campagne est transmis au réseau d'affiliation concerné afin de mesurer le
+        clic. Aucun cookie n'est déposé dans votre navigateur à cette occasion.
+      </li>
+      <li>
+        <strong>Journalisation technique :</strong> l'hébergeur conserve temporairement des
+        journaux techniques (adresse IP, date et heure, requête) à des fins de sécurité et de
+        mesure d'audience anonyme.
+      </li>
+    </ul>
+    <p>
+      Le site ne demande ni date de naissance, ni numéro de sécurité sociale, ni aucune donnée
+      relative à la santé, aux opinions politiques ou à l'appartenance syndicale. Aucun compte
+      utilisateur n'est créé : le site ne dispose d'aucun espace membre.
+    </p>
+
+    <h2>4. Finalités et bases légales</h2>
+    <ul class="legal-list">
+      <li>
+        <strong>Traiter vos demandes :</strong> exécution de mesures précontractuelles prises à
+        votre demande (article 6.1.b du RGPD) et intérêt légitime à répondre à un visiteur
+        (article 6.1.f).
+      </li>
+      <li>
+        <strong>Mesurer l'audience :</strong> intérêt légitime à comprendre l'usage du site et à
+        améliorer les contenus (article 6.1.f), dans la limite de ce que permet la cookie
+        d'audit exemptée de consentement.
+      </li>
+      <li>
+        <strong>Mesurer les clics affiliés :</strong> intérêt légitime à vérifier la performance
+        des liens d'affiliation et à percevoir les commissions correspondantes (article 6.1.f).
+      </li>
+      <li>
+        <strong>Sécuriser le site :</strong> intérêt légitime à protéger le site contre les
+        requêtes automatisées abusives (article 6.1.f).
+      </li>
+      <li>
+        <strong>Mesurer d'audience avec Google Analytics 4 :</strong> <strong>consentement</strong>
+        (article 6.1.a) — l'outil n'est chargé qu'après acceptation explicite de votre part.
+      </li>
+    </ul>
+
+    <h2 id="cookies">5. Cookies et traceurs</h2>
+    <p>
+      Un cookie est un petit fichier déposé sur votre terminal lors de la consultation d'un
+      site. Le site n'utilise que des traceurs strictement nécessaires à son fonctionnement, et un
+      traceur de mesure d'audience soumis à votre consentement.
+    </p>
+    <ul class="legal-list">
+      <li>
+        <strong>Mesure d'audience — Google Analytics 4</strong> (Google LLC) : cookies
+        <code>_ga</code>, <code>_ga_&lt;identifiant&gt;</code>, <code>_gid</code>,
+        <code>_gcs</code>. Durée de vie : 2 ans pour <code>_ga</code>, 24 heures pour
+        <code>_gid</code>. Finalité : comptabiliser les visites et les articles lus, sans
+        revente de données ni profilage publicitaire. Base légale : <strong>consentement</strong>.
+        Ce traceur n'est déposé que si vous acceptez ; si vous refusez, il n'est pas chargé et
+        les cookies déjà déposés sont supprimés de votre navigateur.
+      </li>
+      <li>
+        <strong>Sécurité et mesure d'audience anonyme — Cloudflare</strong> : cookie technique
+        <code>__cf_bm</code>. Durée de vie : 30 minutes. Finalité : protéger le site contre les
+        requêtes automatisées abusives et mesurer la fréquentation de façon anonyme. Ce traceur
+        n'est pas un cookie publicitaire et ne suit pas votre navigation d'une page à l'autre ;
+        il est exempté de consentement et ne peut pas être désactivé depuis cette page.
+      </li>
+      <li>
+        <strong>Mesure des liens affiliés</strong> : aucun cookie. Un identifiant de campagne est
+        transmis au réseau d'affiliation dans l'adresse du lien au moment du clic ; il n'est pas
+        déposé dans votre navigateur et n'est pas partagé avec d'autres websites.
+      </li>
+    </ul>
+    <p>
+      Vous pouvez à tout moment accepter, refuser ou modifier vos choix via le lien
+      « Gérer les cookies » présent en bas de chaque page, ou supprimer les cookies depuis les
+      réglages de votre navigateur. Le retrait de votre consentement est possible à tout moment
+      et ne remet pas en cause la licéité des traitements antérieurs à ce retrait.
+    </p>
+
+    <h2>6. Partenaires et sous-traitants</h2>
+    <ul class="legal-list">
+      <li>
+        <strong>{siteInfo.analytics.provider}</strong> — mesure d'audience, sur instruction de
+        l'éditeur, conformément à ses conditions d'utilisation et à ses garanties.
+      </li>
+      <li>
+        <strong>{siteInfo.hosting.name}</strong> — hébergement, journalisation de sécurité et
+        distribution de contenu.
+      </li>
+      {
+        siteInfo.adNetworks.map((n) => (
+          <li>
+            <strong>{n.name}</strong> — {n.purpose} Informations :
+            <a href={n.privacyPolicy} target="_blank" rel="noopener noreferrer">{n.privacyPolicy}</a>
+          </li>
+        ))
+      }
+      <li>
+        <strong>{siteInfo.imageProvider.name}</strong> — les images sont téléchargées depuis la
+        plateforme et hébergées sur le site lui-même ; aucun traceur de la plateforme n'est
+        déposé sur votre terminal lors de la consultation des articles.
+      </li>
+    </ul>
+
+    <h2>7. Transferts de données hors de l'Union européenne</h2>
+    <p>
+      Certains de nos partenaires sont établis aux États-Unis : l'éditeur lui-même, ainsi que
+      {siteInfo.analytics.provider} et {siteInfo.hosting.name}. Lorsque des données personnelles
+      sont transmises ou accessibles hors de l'Union européenne, ce transfert est encadré par
+      l'article 46 du RGPD : les garanties appropriées sont assurances contractuelles types de la
+      Commission européenne (clauses contractuelles types) et, le cas échéant, des mesures
+      techniques complémentaires. Les données concernées sont limitées à l'adresse IP et aux
+      données de navigation décrites ci-dessus, et ne sont jamais utilisées à des fins
+      publicitaires.
+    </p>
+    <p>
+      Vous pouvez obtenir des informations complémentaires sur les garanties applicables en
+      écrivant à <a href={`mailto:${siteInfo.publisher.email}`}>{siteInfo.publisher.email}</a>.
+    </p>
+
+    <h2>8. Durées de conservation</h2>
+    <ul class="legal-list">
+      <li>
+        <strong>Messages du formulaire de contact :</strong> conservés le temps nécessaire au
+        traitement de la demande, puis 12 mois au maximum à compter du dernier échange.
+      </li>
+      <li>
+        <strong>Données de mesure d'audience :</strong> 14 mois au maximum.
+      </li>
+      <li>
+        <strong>Cookies de mesure :</strong> 2 ans maximum (<code>_ga</code>), 24 heures
+        (<code>_gid</code>), 30 minutes (<code>__cf_bm</code>).
+      </li>
+      <li>
+        <strong>Journaux techniques de l'hébergeur :</strong> conservés quelques heures à
+        quelques jours selon la finalité de sécurité visée.
+      </li>
+    </ul>
+
+    <h2>9. Vos droits</h2>
+    <p>Conformément aux articles 15 à 22 du RGPD, vous disposez des droits suivants :</p>
+    <ul class="legal-list">
+      <li><strong>Droit d'accès</strong> : obtenir la confirmation que vos données sont traitées et en recevoir une copie.</li>
+      <li><strong>Droit de rectification</strong> : faire corriger des données inexactes ou incomplètes.</li>
+      <li><strong>Droit à l'effacement</strong> (« droit à l'oubli »), dans les limites prévues par la loi.</li>
+      <li><strong>Droit à la limitation</strong> du traitement dans les cas prévus par la loi.</li>
+      <li><strong>Droit d'opposition</strong> pour motif légitime, et à tout moment sans motif s'agissant de la mesure d'audience fondée sur le consentement.</li>
+      <li><strong>Droit à la portabilité</strong> des données lorsque le traitement repose sur le consentement ou sur un contrat.</li>
+      <li><strong>Droit de retirer votre consentement</strong> à tout moment, sans que cela ne remette en cause la licéité du traitement antérieur.</li>
+      <li><strong>Droit de définir des directives</strong> relatives au sort de vos données après votre décès (article 85 de la loi Informatique et Libertés).</li>
+      <li><strong>Droit de ne pas faire l'objet d'une décision automatisée</strong> : aucune décision fondée exclusivement sur un traitement automatisé n'est prise à votre sujet.</li>
+    </ul>
+    <p>
+      Ces droits s'exercent par courriel à
+      <a href={`mailto:${siteInfo.publisher.email}`}>{siteInfo.publisher.email}</a>, ou par courrier
+      à l'adresse de l'éditeur mentionnée ci-dessus. Une réponse vous est apportée dans un délai
+      d'un mois à compter de la réception de la demande. Vous pouvez également introduire une
+      réclamation auprès de l'autorité de contrôle compétente : la Commission nationale de
+      l'informatique et des libertés (CNIL), 3 place de Fontenoy — TSA 80715 — 75334 Paris Cedex
+      07, ou via le formulaire disponible sur <a href="https://www.cnil.fr" target="_blank" rel="noopener noreferrer">www.cnil.fr</a>.
+    </p>
+
+    <h2>10. Cookies soumis à consentement</h2>
+    <p>
+      Les traceurs déposant des identifiants dans votre terminal et qui n'ont pas été expressément
+      exempted par la liste publiée par la CNIL requièrent un consentement préalable, recueilli via
+      le bandeau « Ce site mesure votre audience ». Aucun traceur de ce type n'est déposé avant
+      votre accord : l'outil de mesure lui-même n'est même pas chargé. Cette information est
+      également signalée dans le référentiel des choix de la CNIL pour les cookies et traceurs
+      soumis à consentement.
+    </p>
+
+    <h2>11. Enfants</h2>
+    <p>
+      Ce site s'adresse à un public adulte et n'est pas destiné à collecter les données de
+      personnes de moins de 15 ans. L'éditeur ne procède pas sciemment au recueil de données
+      concernant des mineurs.
+    </p>
+
+    <h2>12. Modification de la politique</h2>
+    <p>
+      La présente politique peut être amenée à évoluer pour tenir compte de modifications
+      techniques, juridiques ou organisationnelles. La date de dernière mise à jour figure en
+      tête de cette page. Les visitors sont informés de toute modification substantielle par une
+      mention visible sur le site.
+    </p>
+
+    <h2>13. Contact</h2>
+    <p>
+      Pour toute question relative à vos données personnelles ou à l'exercice de vos droits :
+      <a href={`mailto:${siteInfo.publisher.email}`}>{siteInfo.publisher.email}</a> ou la page
+      <a href="/contact/">contact</a>.
+    </p>
+  </div>
+</Layout>
+
+<style>
+  .page-static {
+    max-width: 820px;
+    margin: 40px auto;
+    padding: 0 20px;
+  }
+  .legal h1 {
+    font-size: 1.9rem;
+    font-weight: 800;
+    font-family: var(--font-serif);
+    margin-bottom: 0.8rem;
+  }
+  .legal-lead {
+    color: var(--muted);
+    font-size: 0.92rem;
+    line-height: 1.6;
+    padding-bottom: 1.25rem;
+    margin-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .legal h2 {
+    font-size: 1.02rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin: 1.9rem 0 0.7rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--accent);
+  }
+  .legal h2:target {
+    scroll-margin-top: 80px;
+  }
+  .legal p {
+    font-size: 0.93rem;
+    line-height: 1.7;
+    color: #2a2a2a;
+    margin-bottom: 0.9rem;
+  }
+  .legal-list {
+    list-style: none;
+    margin: 0 0 0.9rem;
+    padding: 0;
+  }
+  .legal-list li {
+    font-size: 0.93rem;
+    line-height: 1.7;
+    padding: 0.2rem 0;
+    border-bottom: 1px dashed var(--border);
+  }
+  .legal-list li:last-child {
+    border-bottom: 0;
+  }
+  .legal code {
+    font-size: 0.85em;
+    background: #f2f2f2;
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+  }
+</style>

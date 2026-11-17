@@ -3,7 +3,7 @@ title: "Stations Tout-Inclus à Cancún pour Chaque Style de Voyage"
 date: "2026-06-19"
 postSlug: "stations-tout-inclus-a-cancun-pour-chaque-style-de-voyage"
 image: "/images/caption-8-1024x683.jpg"
-categories: ["America"]
+categories: ["Amérique"]
 categorySlugs: ["america"]
 excerpt: "  Si vous êtes comme moi, adepte des séjours tout-inclus, vous savez que choisir une station parmi tant d’options à Cancún n’est pas une tâche facile. Chaque hôtel semble offrir les mêmes prestations (plage, piscine, nourriture et boissons à volonté), alors comment savoir lequel est fait pour vous ? Ayant…"
 urlPath: "/stations-tout-inclus-a-cancun-pour-chaque-style-de-voyage/"

@@ -20,10 +20,9 @@ export async function getStaticPaths() {
   }));
 }
 
-const pageSlugs = ["about", "contact", "privacy-policy", "home"];
 const { categoryName, count } = Astro.props;
 const articles = (await getCollection("articles"))
-  .filter((a) => a.data.categorySlugs.includes(Astro.params.slug!) && !pageSlugs.includes(a.data.postSlug))
+  .filter((a) => a.data.categorySlugs.includes(Astro.params.slug!))
   .sort((a, b) => b.data.date.localeCompare(a.data.date));
 ---
 

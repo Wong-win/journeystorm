@@ -3,7 +3,7 @@ title: "Campings.com : votre guide complet pour réserver des vacances en campin
 date: "2026-08-06"
 postSlug: "campings-com-guide-complet-reservation-camping"
 image: "/images/camping-france-cover.jpg"
-categories: ["Travel Tips"]
+categories: ["Conseils de voyage"]
 categorySlugs: ["travel-tips"]
 excerpt: "Envie d'un séjour en camping au meilleur prix ? Découvrez Campings.com, le leader européen de la réservation de vacances en camping. Avec plus de 4000 établissements, des prix exclusifs dès 99€ la semaine et une cagnotte fidélité de 10%, planifiez vos prochaines vacances en toute sérénité."
 urlPath: "/campings-com-guide-complet-reservation-camping/"

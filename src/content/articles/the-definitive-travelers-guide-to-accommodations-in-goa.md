@@ -3,7 +3,7 @@ title: "Le Guide Complet de l'Hébergement à Goa pour les Voyageurs"
 date: "2025-10-09"
 postSlug: "the-definitive-travelers-guide-to-accommodations-in-goa"
 image: "/images/Baga-India-2023-Best-Places-to-Visit-Tripadvisor.jpg"
-categories: ["Asia", "Destinations"]
+categories: ["Asie", "Destinations"]
 categorySlugs: ["asia", "destinations"]
 excerpt: "Vous envisagez un voyage à Goa mais vous ne savez pas où loger ? Goa, célèbre destination touristique indienne, est réputée pour ses plages captivantes, sa vie nocturne animée et ses vues pittoresques. Avec une multitude de choix d'hébergement, trouver celui qui correspond à votre budget et à vos besoins de voyage peut…"
 urlPath: "/the-definitive-travelers-guide-to-accommodations-in-goa/"

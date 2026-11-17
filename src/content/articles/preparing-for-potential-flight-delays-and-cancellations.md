@@ -3,7 +3,7 @@ title: "Se préparer aux éventuels retards et annulations de vol"
 date: "2025-09-29"
 postSlug: "preparing-for-potential-flight-delays-and-cancellations"
 image: "/images/Know-your-rights-when-your-flight-is-delayed-or-cancelled.jpg"
-categories: ["Travel Tips"]
+categories: ["Conseils de voyage"]
 categorySlugs: ["travel-tips"]
 excerpt: "Voyager à l'étranger est un aspect formidable de la vie moderne, le transport aérien facilitant l'exploration du monde. Cependant, pour les novices en avion, ceux qui voyagent seuls, qui font face à des annulations ou qui cherchent simplement à s'orienter, voici des conseils pour vous aider à naviguer dans le transport aérien comme un expert. Gérer les retards…"
 urlPath: "/preparing-for-potential-flight-delays-and-cancellations/"

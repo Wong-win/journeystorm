@@ -1,0 +1,257 @@
+---
+import { siteInfo } from "../data/site-info";
+
+const hasAds = siteInfo.adNetworks.length > 0;
+---
+
+<div id="js-cc" class="js-cc" hidden>
+  <div class="js-cc__box" role="dialog" aria-modal="false" aria-label="Gestion des cookies">
+    <p class="js-cc__text">
+      <strong>Ce site mesure votre audience.</strong>
+      {siteInfo.analytics.provider} compte les visites et les articles lus, sans revente de données ni profilage
+      publicitaire.
+      {
+        hasAds ? (
+          <>
+            {" "}Nos partenaires d'affiliation mesurent les clics vers leurs offres, avec votre accord.
+          </>
+        ) : (
+          <>
+            {" "}Ce site ne comporte aucune publicité, aucune bannière et aucun lien d'affiliation.
+          </>
+        )
+      }{" "}Cloudflare protège le site contre les requêtes automatisées abusives et mesure la fréquentation de façon
+      anonyme, sans cookie ni identifiant publicitaire. Vous pouvez accepter, refuser ou personnaliser à tout moment.
+      <a href="/politique-de-confidentialite/#cookies">Politique de confidentialité</a>
+    </p>
+    <div class="js-cc__actions">
+      <button type="button" class="js-cc__btn" data-action="refuse">Refuser</button>
+      <button type="button" class="js-cc__btn" data-action="accept">Accepter</button>
+      <button type="button" class="js-cc__link" data-action="customise">Personnaliser</button>
+    </div>
+  </div>
+
+  <div class="js-cc__panel" id="js-cc-panel" hidden>
+    <h2 class="js-cc__title">Préférences de cookies</h2>
+    <ul class="js-cc__list">
+      <li class="js-cc__item">
+        <label class="js-cc__label">
+          <input type="checkbox" data-cat="analytics" checked />
+          <span>Mesure d'audience</span>
+        </label>
+        <p class="js-cc__desc">
+          {siteInfo.analytics.provider} compte les visites et les articles lus. Aucune revente de données, aucun usage
+          publicitaire. Tant que vous n'avez pas accepté, l'outil de mesure n'est pas chargé : aucun cookie de mesure
+          n'est déposé. Si vous refusez, les cookies déjà déposés sont supprimés de votre navigateur et la mesure n'est
+          plus chargée lors de vos visites suivantes.
+        </p>
+      </li>
+      {
+        hasAds && (
+          <li class="js-cc__item">
+            <label class="js-cc__label">
+              <input type="checkbox" data-cat="affiliates" checked />
+              <span>Mesure des liens affiliés</span>
+            </label>
+            <p class="js-cc__desc">
+              {siteInfo.adNetworks.map((n) => n.name).join(", ")} mesurent les clics vers les offres que nous
+              recommandons, via un identifiant de campagne transmis au clic. Ces mesureurs n'installent pas de cookie
+              dans votre navigateur : ils sont activés au moment où vous cliquez sur un lien sponsorisé. Aucun de ces
+              réseaux ne sert de publicité ni de profilage publicitaire.
+            </p>
+          </li>
+        )
+      }
+      <li class="js-cc__item">
+        <label class="js-cc__label">
+          <input type="checkbox" checked disabled />
+          <span>Sécurité et mesure d'audience anonyme</span>
+        </label>
+        <p class="js-cc__desc">
+          {siteInfo.hosting.name} protège le site contre les requêtes automatisées abusives et mesure la fréquentation
+          sans cookie, sans identifiant publicitaire et sans suivi d'une page à l'autre. Ce traceur est anonyme : il
+          n'est pas désactivable depuis cette page.
+        </p>
+      </li>
+    </ul>
+    <div class="js-cc__actions">
+      <button type="button" class="js-cc__btn" data-action="refuse">Tout refuser</button>
+      <button type="button" class="js-cc__btn" data-action="save">Enregistrer mes choix</button>
+    </div>
+  </div>
+</div>
+
+<style>
+  .js-cc {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1000;
+    font-family: var(--font-sans);
+  }
+  .js-cc[hidden] {
+    display: none;
+  }
+  .js-cc__box,
+  .js-cc__panel {
+    background: #111;
+    color: #e8e6e1;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .js-cc__box {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 1.1rem 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1rem;
+  }
+  .js-cc__text {
+    flex: 1 1 460px;
+    font-size: 0.82rem;
+    line-height: 1.55;
+    margin: 0;
+    color: #b8b5b0;
+  }
+  .js-cc__text strong {
+    color: #fff;
+    display: block;
+    margin-bottom: 0.2rem;
+    font-size: 0.88rem;
+  }
+  .js-cc__text a {
+    color: #fff;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .js-cc__actions {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  /* Refuser et Accepter : même taille, même poids visuel, même nombre de clics. */
+  .js-cc__btn {
+    font-family: inherit;
+    font-size: 0.82rem;
+    font-weight: 600;
+    padding: 0.6rem 1.1rem;
+    border-radius: 6px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    background: transparent;
+    color: #e8e6e1;
+    cursor: pointer;
+  }
+  .js-cc__btn:hover {
+    border-color: #fff;
+  }
+  .js-cc__btn[data-action="accept"],
+  .js-cc__btn[data-action="save"] {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+  .js-cc__link {
+    background: none;
+    border: none;
+    color: #b8b5b0;
+    font-family: inherit;
+    font-size: 0.8rem;
+    text-decoration: underline;
+    cursor: pointer;
+    padding: 0.2rem;
+  }
+  .js-cc__panel {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 1.2rem 20px 1.4rem;
+  }
+  .js-cc__title {
+    font-family: var(--font-serif);
+    font-size: 1.05rem;
+    margin: 0 0 0.8rem;
+    color: #fff;
+  }
+  .js-cc__list {
+    list-style: none;
+    margin: 0 0 1rem;
+    padding: 0;
+    display: grid;
+    gap: 0.9rem;
+  }
+  .js-cc__label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.86rem;
+    font-weight: 600;
+    color: #fff;
+  }
+  .js-cc__desc {
+    margin: 0.3rem 0 0 1.4rem;
+    font-size: 0.78rem;
+    line-height: 1.55;
+    color: #9c9994;
+  }
+  @media (max-width: 640px) {
+    .js-cc__box {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>
+
+<script is:inline>
+  (function () {
+    var root = document.getElementById("js-cc");
+    var panel = document.getElementById("js-cc-panel");
+    if (!root || !panel || !window.JS_CONSENT) return;
+
+    var analyticsBox = panel.querySelector('[data-cat="analytics"]');
+    var affiliateBox = panel.querySelector('[data-cat="affiliates"]');
+
+    var show = function () {
+      root.hidden = false;
+      panel.hidden = true;
+    };
+    var hide = function () {
+      root.hidden = true;
+      panel.hidden = true;
+    };
+
+    var write = function (analytics, affiliates) {
+      window.JS_CONSENT.set({ necessary: true, analytics: analytics, affiliates: affiliates, ts: Date.now() });
+      hide();
+    };
+
+    var openPreferences = function () {
+      var c = window.JS_CONSENT.get();
+      // Sans choix enregistré, l'état par défaut de l'interface est « cochée »
+      // (opt-in) : il reflète ce qui s'appliquera si l'utilisateur enregistre.
+      if (analyticsBox) analyticsBox.checked = c ? c.analytics !== false : true;
+      if (affiliateBox) affiliateBox.checked = c ? c.affiliates !== false : true;
+      root.hidden = false;
+      panel.hidden = false;
+    };
+
+    root.addEventListener("click", function (event) {
+      var target = event.target;
+      var action = target.getAttribute ? target.getAttribute("data-action") : null;
+      if (!action) return;
+      if (action === "accept") write(true, true);
+      else if (action === "refuse") write(false, false);
+      else if (action === "customise") openPreferences();
+      else if (action === "save")
+        write(!!(analyticsBox && analyticsBox.checked), !!(affiliateBox && affiliateBox.checked));
+    });
+
+    // API exposée pour le pied de page (« Gérer les cookies »).
+    window.JS_CONSENT.openPreferences = openPreferences;
+
+    // Bandeau affiché uniquement si aucun choix n'a encore été enregistré et
+    // si le navigateur n'exprime pas un signal de vie privée (DNT / GPC).
+    if (!window.JS_CONSENT.get() && !window.JS_CONSENT.privacySignal()) show();
+  })();
+</script>

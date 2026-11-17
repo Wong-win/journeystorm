@@ -3,7 +3,7 @@ title: "Voyager en train en Europe en 2026 : 5 itinéraires pittoresques pour é
 date: "2026-09-18"
 postSlug: "train-europe-2026-5-itineraires-pittoresques"
 image: "/images/train-europe-2026-cover.jpg"
-categories: ["Travel Tips", "Destinations", "Europe"]
+categories: ["Conseils de voyage", "Destinations", "Europe"]
 categorySlugs: ["travel-tips", "destinations", "europe"]
 excerpt: "Vous voulez traverser l'Europe sans prendre l'avion ? Voici 5 itinéraires ferroviaires pittoresques testés en 2026, avec les correspondances, les prix réels, et tout ce que j'aurais aimé savoir avant de partir. Du Glacier Express aux lignes italiennes oubliées."
 urlPath: "/train-europe-2026-5-itineraires-pittoresques/"

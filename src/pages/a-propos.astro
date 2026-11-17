@@ -1,0 +1,120 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { siteInfo, publisherAddressHtml } from "../data/site-info";
+---
+
+<Layout
+  title="À propos"
+  description="À propos de JourneyStorm — guides de voyage, conseils et inspiration en français, et présentation de la direction de la publication."
+>
+  <div class="page-static legal">
+    <h1>À propos de JourneyStorm</h1>
+
+    <p class="legal-lead">
+      JourneyStorm est un blog de voyage indépendant, rédigé en français, qui réunit des guides
+      pratiques, des conseils et des récits d'aventures pour préparer le prochain départ.
+    </p>
+
+    <h2>Notre mission</h2>
+    <p>
+      Nous croyons que voyager est bien plus qu'une simple visite : c'est une façon de découvrir
+      d'autres cultures, de rencontrer des personnes et de rapporter des souvenirs durables.
+      JourneyStorm est né pour aider les voyageurs à préparer leur itinéraire avec le plus de
+      sérieux possible : des adresses vérifiées, des repères pratiques, des budgets réalistes et
+      les détails que l'on oublie souvent jusqu'au dernier moment.
+    </p>
+    <p>
+      Nos articles couvrent un large spectre de destinations — l'Afrique, l'Amérique, l'Asie et
+      l'Europe — ainsi que des road trips et des escapades, pour ceux qui prennent la route pour
+      le plaisir de la route. Les contenus sont rédigés en français, et le site s'adresse
+      directement aux voyageurs francophones.
+    </p>
+
+    <h2>Notre méthode</h2>
+    <p>
+      Chaque guide est construit à partir d'informations vérifiées auprès de sources officielles
+      et d'expériences de terrain. Nous signalons systématiquement ce qui peut varier : horaires
+      saisonniers, tarifs, conditions de réservation, formalités d'entrée. Les informations
+      pratiques sont données à titre indicatif et méritent toujours une vérification sur place ou
+      auprès de l'organisateur concerné avant tout déplacement.
+    </p>
+    <p>
+      Certains articles contiennent des liens d'affiliation vers des partenaires avec lesquels nous
+      travaillons. Ils sont identifiables et n'ont aucune incidence sur le prix que vous payez :
+      nous ne facturons jamais un supplément et ne vendons pas votre attention.
+    </p>
+
+    <h2>Direction de la publication</h2>
+    <ul class="legal-list">
+      <li><strong>Éditeur et direction de la publication :</strong> {siteInfo.publisher.name}</li>
+      <li><strong>Adresse :</strong> <span set:html={publisherAddressHtml} /></li>
+      <li>
+        <strong>Adresse électronique :</strong>
+        <a href={`mailto:${siteInfo.publisher.email}`}>{siteInfo.publisher.email}</a>
+      </li>
+      <li><strong>Téléphone :</strong> {siteInfo.publisher.phone}</li>
+    </ul>
+    <p>
+      Les informations légales complètes — hébergeur, représentant au sens de l'article 27 du
+      RGPD, réseaux d'affiliation — figurent dans la page des
+      <a href="/mentions-legales/">mentions légales</a>.
+    </p>
+
+    <h2>Nous écrire</h2>
+    <p>
+      Une question, une suggestion de destination, une correction à apporter ? Écrivez-nous via la
+      page <a href="/contact/">contact</a> : chaque message est lu et traité.
+    </p>
+  </div>
+</Layout>
+
+<style>
+  .page-static {
+    max-width: 820px;
+    margin: 40px auto;
+    padding: 0 20px;
+  }
+  .legal h1 {
+    font-size: 1.9rem;
+    font-weight: 800;
+    font-family: var(--font-serif);
+    margin-bottom: 0.8rem;
+  }
+  .legal-lead {
+    color: var(--muted);
+    font-size: 0.92rem;
+    line-height: 1.6;
+    padding-bottom: 1.25rem;
+    margin-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .legal h2 {
+    font-size: 1.02rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin: 1.9rem 0 0.7rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--accent);
+  }
+  .legal p {
+    font-size: 0.93rem;
+    line-height: 1.7;
+    color: #2a2a2a;
+    margin-bottom: 0.9rem;
+  }
+  .legal-list {
+    list-style: none;
+    margin: 0 0 0.9rem;
+    padding: 0;
+  }
+  .legal-list li {
+    font-size: 0.93rem;
+    line-height: 1.7;
+    padding: 0.2rem 0;
+    border-bottom: 1px dashed var(--border);
+  }
+  .legal-list li:last-child {
+    border-bottom: 0;
+  }
+</style>

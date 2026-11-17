@@ -3,7 +3,7 @@ title: "5 jours parfaits à Hanoï : itinéraire détaillé pour un voyage inoub
 date: "2026-09-03"
 postSlug: "5-jours-parfaits-a-hanoi-itineraire-complet"
 image: "/images/5-jours-parfaits-a-hanoi-itineraire-complet.jpg"
-categories: ["Asia", "Destinations", "Travel Tips"]
+categories: ["Asie", "Destinations", "Conseils de voyage"]
 categorySlugs: ["asia", "destinations", "travel-tips"]
 excerpt: "Découvrez notre itinéraire complet de 5 jours à Hanoï, jour par jour : vieux quartier, baie d'Halong, temples, street food et trésors cachés. Tout pour préparer un voyage inoubliable au Vietnam, sans rien oublier."
 urlPath: "/5-jours-parfaits-a-hanoi-itineraire-complet/"

@@ -3,7 +3,7 @@ title: "Croisière en Alaska : Guide du Spécialiste des Aurores Boréales"
 date: "2025-10-14"
 postSlug: "alaskan-cruise-a-northern-lights-specialists-handbook"
 image: "/images/alaskan-cruise-a-northern-lights-specialists-handbook.jpg"
-categories: ["America", "Destinations"]
+categories: ["Amérique", "Destinations"]
 categorySlugs: ["america", "destinations"]
 excerpt: "L’aurore boréale, un spectacle ancien et fascinant, a fasciné les humains pendant des siècles avec son spectacle étonnant dans le ciel nocturne. C’est un mélange de science, de légende et de beauté pure de la nature. L’Alaska, une terre de nature sauvage immaculée et de ciels clairs, se classe parmi…"
 urlPath: "/alaskan-cruise-a-northern-lights-specialists-handbook/"
@@ -27,7 +27,7 @@ urlPath: "/alaskan-cruise-a-northern-lights-specialists-handbook/"
 <h5>L'Emplacement Compte</h5>
 <p>La situation de l'Alaska dans l'« ovale auroral » en fait un endroit de choix pour l'observation. Les zones directement sous cet ovale, comme Fairbanks, sont particulièrement renommées pour des observations régulières. Les croisières offrent la flexibilité de trouver les meilleurs points d'observation.</p>
 <h3>Comprendre les Croisières aux Aurores Boréales d'Alaska</h3>
-<p><img decoding="async" src="/images/aurores-alaska.jpg" alt="Our In-depth Guide on What to Expect on a Cruise to Alaska - Cruise Bulletin" /></p>
+<p><img decoding="async" src="/images/aurores-alaska.jpg" alt="Notre guide complet sur ce qui vous attend lors d'une croisière en Alaska" /></p>
 <p>L'expérience albertaine est unique, avec sa vaste nature sauvage et ses paysages à couper le souffle formant le fond parfait pour les Aurores Boréales.</p>
 <h5>Symphonie Terre et Mer</h5>
 <p>Les Aurores Boréales d'Alaska se reflètent sur les eaux glacées et les sommets enneigés, créant des visuels uniques exclusifs à cette région.</p>

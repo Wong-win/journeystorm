@@ -3,7 +3,7 @@ title: "Découvrir Trujillo, Pérou : Incontournables et Attractions à Visiter"
 date: "2026-03-12"
 postSlug: "discovering-trujillo-peru-must-visit-highlights-and-attractions"
 image: "/images/Temple-of-the-Moon-the-religious-epicenter-of-the-Moche-culture.jpg"
-categories: ["America", "Destinations"]
+categories: ["Amérique", "Destinations"]
 categorySlugs: ["america", "destinations"]
 excerpt: "Si vous vous trouvez lors d’une croisière en Amérique du Sud avec un bref arrêt à Trujillo, au Pérou, ou si vous planifiez un séjour plus long, vous voudrez certainement plonger dans les riches offres culturelles et historiques de cette ville. Lors de ma propre visite à Trujillo en décembre…"
 urlPath: "/discovering-trujillo-peru-must-visit-highlights-and-attractions/"

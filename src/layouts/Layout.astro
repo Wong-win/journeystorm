@@ -1,15 +1,23 @@
 ---
 import "../styles/global.css";
+import CookieConsent from "../components/CookieConsent.astro";
+import { siteInfo } from "../data/site-info";
 
 export interface Props {
   title?: string;
   description?: string;
   image?: string;
+  /** "article" pour les pages d'articles, "website" par défaut. */
+  ogType?: "website" | "article";
+  publishedTime?: string;
+  canonicalPath?: string;
 }
 
-const { title, description, image } = Astro.props;
-const siteTitle = title ? `${title} — JourneyStorm` : "JourneyStorm — Guides de Voyage & Inspiration";
+const { title, description, image, ogType = "website", publishedTime, canonicalPath } = Astro.props;
+const siteTitle = title ? `${title} — ${siteInfo.siteName}` : `${siteInfo.siteName} — Guides de Voyage & Inspiration`;
 const desc = description || "Découvrez le monde avec JourneyStorm. Guides de voyage, conseils et inspiration pour votre prochaine aventure à travers l'Afrique, l'Amérique, l'Asie et l'Europe.";
+const canonical = new URL(canonicalPath ?? Astro.url.pathname, siteInfo.origin).href;
+const ogImage = image ? new URL(image, siteInfo.origin).href : undefined;
 ---
 
 <!doctype html>
@@ -17,26 +25,183 @@ const desc = description || "Découvrez le monde avec JourneyStorm. Guides de vo
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="canonical" href={new URL(Astro.url.pathname, `https://www.journeystorm.com`)} />
+    <link rel="canonical" href={canonical} />
     <title>{siteTitle}</title>
     <meta name="description" content={desc} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <meta property="og:site_name" content={siteInfo.siteName} />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonical} />
     <meta property="og:title" content={siteTitle} />
     <meta property="og:description" content={desc} />
-    <meta property="og:type" content="website" />
-    {image && <meta property="og:image" content={image} />}
-      
-    
-      <!-- Google tag (gtag.js) -->
-    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-0T4J31F1E2"></script>
-    <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-0T4J31F1E2');
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    {ogImage && <meta property="og:image:alt" content={title} />}
+    {publishedTime && <meta property="article:published_time" content={publishedTime} />}
+
+    <meta name="twitter:card" content={ogImage ? "summary_large_image" : "summary"} />
+    <meta name="twitter:title" content={siteTitle} />
+    <meta name="twitter:description" content={desc} />
+    {ogImage && <meta name="twitter:image" content={ogImage} />}
+
+    <meta name="author" content={siteInfo.publisher.name} />
+
+    <!--
+      RGPD — Google Analytics 4 n'est chargé qu'après consentement explicite.
+      Le script ci-dessous prépare le storage de Google, applique le refus par
+      défaut (aucune finalité publicitaire n'est autorisée) et ne charge
+      l'outil de mesure que si le visiteur l'a accepté.
+    -->
+    <script is:inline define:vars={{ gaId: siteInfo.analytics.id, consentKey: siteInfo.consent.storageKey, maxAgeMs: siteInfo.consent.maxAgeDays * 24 * 60 * 60 * 1000 }}>
+      (function () {
+        var GA_ID = gaId;
+        var KEY = consentKey;
+        var MAX_AGE = maxAgeMs;
+
+        window.dataLayer = window.dataLayer || [];
+        window.gtag =
+          window.gtag ||
+          function () {
+            window.dataLayer.push(arguments);
+          };
+
+        /* ---- Purge des cookies optionnels -------------------------------
+           Un cookie ne peut être supprimé que si le domaine et le chemin
+           correspondent exactement à ceux utilisés à l'écriture. Google pose
+           _ga / _ga_XXXX / _gcs sur le domaine principal (journeystorm.com),
+           pas sur le sous-domaine www : on essaie donc toutes les variantes
+           (y compris la forme préfixée par un point).                        */
+        function purgeOptionalCookies() {
+          var host = location.hostname;
+          var bare = host.indexOf("www.") === 0 ? host.slice(4) : host;
+          var domains = [null, host, bare, "." + bare];
+          var all = document.cookie ? document.cookie.split(";") : [];
+          for (var i = 0; i < all.length; i++) {
+            var name = all[i].split("=")[0].trim();
+            if (/^_ga/.test(name) || name === "_gcs" || /^kwkn/i.test(name) || /^_gid$/.test(name)) {
+              for (var d = 0; d < domains.length; d++) {
+                document.cookie =
+                  name +
+                  "=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/" +
+                  (domains[d] ? ";domain=" + domains[d] : "");
+              }
+            }
+          }
+          try {
+            for (var k = 0; k < localStorage.length; k++) {
+              var key = localStorage.key(k);
+              if (key && (/^_ga/.test(key) || /^kwkn/i.test(key))) localStorage.removeItem(key);
+            }
+          } catch (e) {}
+        }
+
+        /* ---- Signal de vie privée (DNT / GPC) --------------------------- */
+        function privacySignalRequested() {
+          try {
+            if (navigator.doNotTrack === "1") return true;
+            if (navigator.globalPrivacyControl === true) return true;
+          } catch (e) {}
+          return false;
+        }
+
+        function loadAnalytics() {
+          if (!GA_ID || document.getElementById("js-ga-script")) return;
+          var s = document.createElement("script");
+          s.id = "js-ga-script";
+          s.async = true;
+          s.src = "https://www.googletagmanager.com/gtag/js?id=" + GA_ID;
+          document.head.appendChild(s);
+          window.gtag("js", new Date());
+          window.gtag("config", GA_ID);
+        }
+
+        function applyConsent(analytics) {
+          window.gtag("consent", "update", {
+            analytics_storage: analytics ? "granted" : "denied",
+            ad_storage: "denied",
+            ad_user_data: "denied",
+            ad_personalization: "denied",
+          });
+          if (analytics) loadAnalytics();
+          else purgeOptionalCookies();
+        }
+
+        window.JS_CONSENT = {
+          key: KEY,
+          maxAge: MAX_AGE,
+          get: function () {
+            try {
+              var raw = localStorage.getItem(this.key);
+              if (!raw) return null;
+              var c = JSON.parse(raw);
+              if (!c || typeof c.ts !== "number" || Date.now() - c.ts > this.maxAge) {
+                localStorage.removeItem(this.key);
+                return null;
+              }
+              return c;
+            } catch (e) {
+              return null;
+            }
+          },
+          set: function (c) {
+            c.ts = Date.now();
+            try {
+              localStorage.setItem(this.key, JSON.stringify(c));
+            } catch (e) {}
+            window.dispatchEvent(new CustomEvent("js:consent-changed", { detail: c }));
+          },
+          allows: function (cat) {
+            var c = this.get();
+            return !!(c && c[cat]);
+          },
+          purge: function () {
+            purgeOptionalCookies();
+          },
+          privacySignal: function () {
+            return privacySignalRequested();
+          },
+          loadAnalytics: function () {
+            loadAnalytics();
+          },
+        };
+
+        /* ---- Démarrage ---------------------------------------------------
+           Refus par défaut : aucune finalité publicitaire n'est autorisée.
+           Tant que le visiteur n'a pas accepté, l'outil de mesure n'est pas
+           chargé et aucun cookie de mesure n'est déposé.                    */
+        window.gtag("consent", "default", {
+          analytics_storage: "denied",
+          ad_storage: "denied",
+          ad_user_data: "denied",
+          ad_personalization: "denied",
+          wait_for_update: 500,
+        });
+
+        var stored = window.JS_CONSENT.get();
+
+        if (privacySignalRequested()) {
+          window.JS_CONSENT.set({ necessary: true, analytics: false, ts: Date.now() });
+          purgeOptionalCookies();
+          return;
+        }
+
+        if (stored && stored.analytics === true) {
+          applyConsent(true);
+        } else {
+          applyConsent(false);
+        }
+
+        window.addEventListener("js:consent-changed", function (e) {
+          applyConsent(!!(e.detail && e.detail.analytics));
+        });
+      })();
     </script>
   </head>
   <body>
@@ -50,6 +215,7 @@ const desc = description || "Découvrez le monde avec JourneyStorm. Guides de vo
           <a href="/category/america/" class="nav-link">Amérique</a>
           <a href="/category/asia/" class="nav-link">Asie</a>
           <a href="/category/africa/" class="nav-link">Afrique</a>
+          <a href="/category/road-trip/" class="nav-link">Road Trip</a>
           <a href="/category/travel-tips/" class="nav-link">Conseils</a>
         </nav>
       </div>
@@ -58,13 +224,28 @@ const desc = description || "Découvrez le monde avec JourneyStorm. Guides de vo
     <footer class="site-footer">
       <div class="footer-inner">
         <div class="footer-links">
-          <a href="/about/">À propos</a>
+          <a href="/a-propos/">À propos</a>
           <a href="/contact/">Contact</a>
-          <a href="/privacy-policy/">Politique de confidentialité</a>
+          <a href="/mentions-legales/">Mentions légales</a>
+          <a href="/politique-de-confidentialite/">Politique de confidentialité</a>
+          <a href="#" id="js-cookie-settings" role="button" tabindex="0">Gérer les cookies</a>
         </div>
-        <p class="footer-copy">&copy; 2026 JourneyStorm. Tous droits réservés.</p>
-        <p class="footer-copy">Photos via <a href="https://www.pexels.com/" rel="nofollow noopener" target="_blank">Pexels</a></p>
+        <p class="footer-copy">&copy; 2026 {siteInfo.siteName}. Tous droits réservés.</p>
+        <p class="footer-copy">Photos via <a href={siteInfo.imageProvider.url} rel="nofollow noopener" target="_blank">{siteInfo.imageProvider.name}</a></p>
       </div>
     </footer>
+
+    <CookieConsent />
+
+    <script is:inline>
+      (function () {
+        var link = document.getElementById("js-cookie-settings");
+        if (!link) return;
+        link.addEventListener("click", function (e) {
+          e.preventDefault();
+          if (window.JS_CONSENT && window.JS_CONSENT.openPreferences) window.JS_CONSENT.openPreferences();
+        });
+      })();
+    </script>
   </body>
 </html>

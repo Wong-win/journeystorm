@@ -3,7 +3,7 @@ title: "Guide pour une première visite au parc national de Yosemite"
 date: "2026-06-10"
 postSlug: "guide-pour-une-premiere-visite-au-parc-national-de-yosemite"
 image: "/images/caption-14-1024x576.jpg"
-categories: ["America"]
+categories: ["Amérique"]
 categorySlugs: ["america"]
 excerpt: "  Que vous soyez un amateur de baignade dans les lacs alpins, un randonneur passionné ou un fan de Free Solo voulant admirer la falaise escarpée d’El Capitan, il y a de quoi être émerveillé par le parc national de Yosemite en Californie. J’ai visité cet immense espace de dômes…"
 urlPath: "/guide-pour-une-premiere-visite-au-parc-national-de-yosemite/"

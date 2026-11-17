@@ -1,0 +1,212 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { siteInfo } from "../data/site-info";
+---
+
+<Layout
+  title="Contact"
+  description="Contactez JourneyStorm — une question, une suggestion de destination, une correction à apporter ? Écrivez-nous."
+>
+  <div class="page-static legal">
+    <h1>Contact</h1>
+
+    <p class="legal-lead">
+      Une question, une suggestion de destination, une correction à apporter ou un sujet à
+      traiter : écrivez-nous, chaque message est lu.
+    </p>
+
+    <h2>Nous écrire</h2>
+    <p>
+      Le plus simple reste le courrier électronique, à cette adresse :
+      <a href={`mailto:${siteInfo.publisher.email}`}>{siteInfo.publisher.email}</a>.
+      Nous répondons généralement sous quelques jours.
+    </p>
+
+    <form id="js-contact-form" class="contact-form" novalidate>
+      <div class="field">
+        <label for="cf-name">Votre nom <span aria-hidden="true">*</span></label>
+        <input type="text" id="cf-name" name="name" required autocomplete="name" placeholder="Camille Dupont" />
+      </div>
+      <div class="field">
+        <label for="cf-email">Votre adresse électronique <span aria-hidden="true">*</span></label>
+        <input type="email" id="cf-email" name="email" required autocomplete="email" placeholder="camille@exemple.fr" />
+      </div>
+      <div class="field">
+        <label for="cf-subject">Sujet</label>
+        <input type="text" id="cf-subject" name="subject" placeholder="Suggestion de destination" />
+      </div>
+      <div class="field">
+        <label for="cf-message">Votre message <span aria-hidden="true">*</span></label>
+        <textarea id="cf-message" name="message" rows="7" required placeholder="Bonjour, je préparais un voyage en …"></textarea>
+      </div>
+      <button type="submit" class="contact-submit">Envoyer le message</button>
+      <p class="contact-note">
+        Ce formulaire ouvre votre logiciel de messagerie avec le message pré-rempli : il ne
+        transmet rien à un serveur tiers. Vous pouvez aussi écrire directement à
+        <a href={`mailto:${siteInfo.publisher.email}`}>{siteInfo.publisher.email}</a>.
+      </p>
+      <p class="contact-status" id="js-contact-status" role="status" hidden></p>
+    </form>
+
+    <h2>Au téléphone</h2>
+    <p>
+      Pour tout sujet urgent : {siteInfo.publisher.phone}. Les horaires d'ouverture sont ceux du
+      fuseau horaire de l'éditeur (États-Unis).
+    </p>
+
+    <h2>Ce que nous ne pouvons pas faire</h2>
+    <p>
+      JourneyStorm est un blog indépendant, pas une agence de voyage. Nous ne pouvons donc pas
+      réserver, organiser un voyage ou vous mettre en relation. Nous ne pouvons pas non plus
+      fournir de visa, de billet ou de conseil médical ou juridique personnalisé.
+    </p>
+
+    <h2>Avant d'écrire</h2>
+    <p>
+      Une réponse figure peut-être déjà dans nos guides : parcourez les
+      <a href="/category/destinations/">destinations</a>, les
+      <a href="/category/travel-tips/">conseils de voyage</a> et les
+      <a href="/category/road-trip/">road trips</a> avant de nous solliciter.
+    </p>
+  </div>
+</Layout>
+
+<style>
+  .page-static {
+    max-width: 820px;
+    margin: 40px auto;
+    padding: 0 20px;
+  }
+  .legal h1 {
+    font-size: 1.9rem;
+    font-weight: 800;
+    font-family: var(--font-serif);
+    margin-bottom: 0.8rem;
+  }
+  .legal-lead {
+    color: var(--muted);
+    font-size: 0.92rem;
+    line-height: 1.6;
+    padding-bottom: 1.25rem;
+    margin-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .legal h2 {
+    font-size: 1.02rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin: 1.9rem 0 0.7rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--accent);
+  }
+  .legal p {
+    font-size: 0.93rem;
+    line-height: 1.7;
+    color: #2a2a2a;
+    margin-bottom: 0.9rem;
+  }
+  .contact-form {
+    margin: 1.2rem 0 1.6rem;
+    padding: 1.4rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: #fafafa;
+  }
+  .field {
+    margin-bottom: 1rem;
+  }
+  .field label {
+    display: block;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-bottom: 0.35rem;
+    color: var(--heading);
+  }
+  .field input,
+  .field textarea {
+    width: 100%;
+    font-family: inherit;
+    font-size: 0.93rem;
+    padding: 0.65rem 0.8rem;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: #fff;
+    color: var(--text);
+  }
+  .field input:focus,
+  .field textarea:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+    border-color: var(--accent);
+  }
+  .contact-submit {
+    font-family: inherit;
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 0.75rem 1.6rem;
+    border: none;
+    border-radius: 999px;
+    background: var(--accent);
+    color: #fff;
+    cursor: pointer;
+  }
+  .contact-submit:hover {
+    background: var(--accent-dark);
+  }
+  .contact-note {
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-top: 0.9rem;
+    margin-bottom: 0;
+    line-height: 1.55;
+  }
+  .contact-status {
+    margin-top: 0.9rem;
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--accent-dark);
+  }
+</style>
+
+<script is:inline define:vars={{ contactEmail: siteInfo.publisher.email }}>
+  (function () {
+    var form = document.getElementById("js-contact-form");
+    if (!form) return;
+    var status = document.getElementById("js-contact-status");
+
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var name = form.querySelector("#cf-name").value.trim();
+      var email = form.querySelector("#cf-email").value.trim();
+      var subject = form.querySelector("#cf-subject").value.trim();
+      var message = form.querySelector("#cf-message").value.trim();
+
+      if (!name || !email || !message) {
+        if (status) {
+          status.hidden = false;
+          status.textContent = "Merci de renseigner votre nom, votre adresse électronique et votre message.";
+        }
+        return;
+      }
+
+      var body =
+        "Nom : " + name + "\n" +
+        "Adresse électronique : " + email + "\n\n" +
+        message + "\n\n" +
+        "— Envoyé depuis " + window.location.origin + "/contact/";
+
+      var href =
+        "mailto:" + contactEmail +
+        "?subject=" + encodeURIComponent(subject || "Message depuis le site JourneyStorm") +
+        "&body=" + encodeURIComponent(body);
+
+      if (status) {
+        status.hidden = false;
+        status.textContent =
+          "Votre logiciel de messagerie va s'ouvrir avec le message pré-rempli. S'il ne s'ouvre pas, écrivez directement à " + contactEmail + ".";
+      }
+      window.location.href = href;
+    });
+  })();
+</script>

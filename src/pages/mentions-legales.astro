@@ -1,0 +1,250 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { siteInfo, publisherAddressHtml } from "../data/site-info";
+---
+
+<Layout
+  title="Mentions légales"
+  description="Mentions légales de JourneyStorm — éditeur, direction de la publication, représentant au sens de l'article 27 du RGPD, hébergeur, liens d'affiliation et propriété intellectuelle."
+>
+  <div class="page-static legal">
+    <h1>Mentions légales</h1>
+
+    <p class="legal-lead">
+      Conformément à la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie
+      numérique (LCEN) et à la directive 2000/31/CE du 8 juin 2000 relative à la médiation en
+      matière de commerce électronique, les informations suivantes sont mises à la disposition
+      des utilisateurs du site <strong>{siteInfo.domain}</strong>.
+    </p>
+
+    <h2>1. Éditeur du site</h2>
+    <ul class="legal-list">
+      <li><strong>Nom du site :</strong> {siteInfo.siteName}</li>
+      <li><strong>Éditeur :</strong> {siteInfo.publisher.name}</li>
+      <li><strong>Statut :</strong> {siteInfo.publisher.legalStatus}</li>
+      <li><strong>Adresse :</strong> <span set:html={publisherAddressHtml} /></li>
+      <li>
+        <strong>Adresse électronique :</strong>
+        <a href={`mailto:${siteInfo.publisher.email}`}>{siteInfo.publisher.email}</a>
+      </li>
+      <li><strong>Téléphone :</strong> {siteInfo.publisher.phone}</li>
+    </ul>
+
+    <h2>2. Direction de la publication</h2>
+    <p>
+      {siteInfo.publisher.directorOfPublication}, éditeur du site, assume la responsabilité de
+      l'information publiée, conformément à l'article 6 de la loi n° 2004-575 du 21 juin 2004
+      pour la confiance dans l'économie numérique.
+    </p>
+
+    <h2>3. Représentant au sens de l'article 27 du RGPD</h2>
+    {
+      siteInfo.euRepresentative.enabled ? (
+        <>
+          <p>
+            L'éditeur étant établi hors du territoire de l'Union européenne, il désigne au sens
+            de l'article 27 du règlement (UE) 2016/679 le représentant suivant, joignable pour
+            toute question relative au traitement des données personnelles :
+          </p>
+          <ul class="legal-list">
+            <li><strong>Représentant :</strong> {siteInfo.euRepresentative.name}</li>
+            <li>
+              <strong>Adresse :</strong>
+              <span set:html={siteInfo.euRepresentative.addressLines.join("<br />")} />
+            </li>
+            <li>
+              <strong>Adresse électronique :</strong>
+              <a href={`mailto:${siteInfo.euRepresentative.email}`}>{siteInfo.euRepresentative.email}</a>
+            </li>
+          </ul>
+        </>
+      ) : (
+        <p>
+          L'éditeur étant établi hors du territoire de l'Union européenne, un représentant est
+          désigné au sens de l'article 27 du règlement (UE) 2016/679. Les coordonnées complètes
+          de ce représentant sont communiquées sur simple demande à l'adresse de contact
+          mentionnée ci-dessus, et publiées sur cette page dès leur mise à jour. Les demandes
+          relatives aux données personnelles peuvent également être adressées directement à
+          l'éditeur, qui les transmet au représentant.
+        </p>
+      )
+    }
+
+    <h2>4. Hébergeur</h2>
+    <ul class="legal-list">
+      <li><strong>Hébergeur :</strong> {siteInfo.hosting.name}</li>
+      <li><strong>Adresse :</strong> {siteInfo.hosting.address}</li>
+      <li><strong>Téléphone :</strong> {siteInfo.hosting.phone}</li>
+      <li>
+        <strong>Site web :</strong>
+        <a href={siteInfo.hosting.url} target="_blank" rel="noopener noreferrer">{siteInfo.hosting.url}</a>
+      </li>
+    </ul>
+    <p>
+      Le site est hébergé sur le réseau de distribution de contenu Cloudflare Pages. Les fichiers
+      du site sont répliqués sur des serveurs de distribution situés notamment dans l'Union
+      européenne, afin de servir les pages au plus près des visiteurs.
+    </p>
+
+    <h2>5. Publicité et liens d'affiliation</h2>
+    <p>
+      Ce site est financé par l'affiliation. Lorsqu'un visiteur suit un lien d'affiliation et
+      réalise un achat sur le site du partenaire, l'éditeur perçoit une commission de la part
+      de ce partenaire. Ce mécanisme n'entraîne aucun surcoût pour le visiteur : le prix affiché
+      et payé reste identique, et le classement des destinations présentées n'est jamais dicté par
+      la rémunération perçue.
+    </p>
+    {
+      siteInfo.listAdNetworksInLegalNotices ? (
+        <>
+          <p>
+            Les réseaux d'affiliation mobilisés sur ce site sont les suivants. Cette liste n'est
+            pas limitative et peut évoluer : le détail à jour des traceurs déposés figure dans
+            notre <a href="/politique-de-confidentialite/">politique de confidentialité</a>.
+          </p>
+          <ul class="legal-list">
+            {
+              siteInfo.adNetworks.map((n) => (
+                <li>
+                  <strong>{n.name}</strong> — {n.purpose}
+                </li>
+              ))
+            }
+          </ul>
+        </>
+      ) : (
+        <p>
+          Des liens d'affiliation sont présents dans certains articles, vers des marchands
+          partenaires. La liste à jour des réseaux d'affiliation concernés, ainsi que le détail
+          des traceurs déposés, figure dans notre
+          <a href="/politique-de-confidentialite/">politique de confidentialité</a>.
+        </p>
+      )
+    }
+    <p>
+      Les liens d'affiliation figurant dans les articles sont identifiables par leur mise en
+      forme (bouton d'appel à l'action) et portent l'attribut technique
+      <code>rel="sponsored"</code>. Conformément aux articles L. 121-16-1 et suivants du Code de la
+      consommation, issus de la loi n° 2023-451 du 9 juin 2023 visant à encadrer l'influence
+      commerciale et à lutter contre les dérives des influenceurs sociaux, le caractère commercial
+      de ces liens est clairement signalé. Le détail des traitements associés figure dans notre
+      <a href="/politique-de-confidentialite/">politique de confidentialité</a>.
+    </p>
+
+    <h2>6. Marques et produits mentionnés</h2>
+    <p>
+      Les noms de marques, enseignes et produits cités dans les articles demeurent la propriété de
+      leurs titulaires respectifs. L'éditeur n'est lié à aucune de ces marques, n'est pas mandaté
+      par elles et n'est pas responsable du contenu des sites tiers vers lesquels ces articles
+      renvoient.
+    </p>
+
+    <h2>7. Propriété intellectuelle</h2>
+    <p>
+      L'ensemble des éléments composant ce site — textes, photographies, illustrations, identité
+      visuelle, structure, code source et bases de données — est protégé par le droit d'auteur et
+      demeure la propriété de l'éditeur ou de ses contributeurs.
+    </p>
+    <p>
+      Toute reproduction, totale ou partielle, de tout ou partie des contenus, sans autorisation
+      écrite préalable de l'éditeur, est interdite. Les demandes de reproduction peuvent être
+      adressées à l'éditeur via la page de <a href="/contact/">contact</a>. Les demandes de
+      retrait d'un contenu sont traitées sans délai.
+    </p>
+
+    <h2>8. Crédits photographiques</h2>
+    <p>
+      Les photographies illustrant les articles proviennent de <a href={siteInfo.imageProvider.url} target="_blank" rel="noopener noreferrer">{siteInfo.imageProvider.name}</a
+      >, plateforme distribuée sous licence libre, qui autorise l'utilisation commerciale et
+      éditoriale sans attribution obligatoire. Certaines illustrations proviennent d'autres
+      sources libres de droits. L'ensemble des visuels est hébergé sur le site lui-même.
+    </p>
+
+    <h2>9. Responsabilité</h2>
+    <p>
+      Les informations publiées sur ce site le sont à titre indicatif, sur la base des
+      connaissances disponibles à la date de rédaction. L'éditeur met tout en œuvre pour assurer
+      l'exactitude des informations, mais ne saurait être tenu responsable d'une erreur
+      typographique, d'une omission, de l'indisponibilité temporaire d'un contenu, ni d'un dommage
+      direct ou indirect résultant de l'utilisation du site ou des sites tiers cités.
+    </p>
+    <p>
+      Les conseils de voyage publiés sur ce site sont de portée générale : ils ne constituent ni
+      une réservation, ni un avis personnalisé, et ne remplacent pas la consultation d'un
+      professionnel qualifié. Les informations pratiques (horaires, tarifs, formalités
+      d'entrée) peuvent avoir évolué depuis leur rédaction : vérifiez-les auprès de la source
+      officielle avant tout déplacement. L'utilisateur reste seul responsable des achats qu'il
+      effectue et de l'usage qu'il fait des offres présentées.
+    </p>
+
+    <h2>10. Droit applicable et juridiction compétente</h2>
+    <p>
+      Le présent site est soumis au droit français. En cas de litige, et après recherche d'une
+      solution amiable, les tribunaux français seront seuls compétents pour en connaître.
+    </p>
+
+    <h2>11. Contact</h2>
+    <p>
+      Pour toute question relative au site, à ses contenus ou à l'exercice de vos droits, vous
+      pouvez nous écrire à l'adresse <a href={`mailto:${siteInfo.publisher.email}`}>{siteInfo.publisher.email}</a>
+      ou utiliser la page <a href="/contact/">contact</a>.
+    </p>
+  </div>
+</Layout>
+
+<style>
+  .page-static {
+    max-width: 820px;
+    margin: 40px auto;
+    padding: 0 20px;
+  }
+  .legal h1 {
+    font-size: 1.9rem;
+    font-weight: 800;
+    font-family: var(--font-serif);
+    margin-bottom: 0.8rem;
+  }
+  .legal-lead {
+    color: var(--muted);
+    font-size: 0.92rem;
+    line-height: 1.6;
+    padding-bottom: 1.25rem;
+    margin-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .legal h2 {
+    font-size: 1.02rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin: 1.9rem 0 0.7rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--accent);
+  }
+  .legal p {
+    font-size: 0.93rem;
+    line-height: 1.7;
+    color: #2a2a2a;
+    margin-bottom: 0.9rem;
+  }
+  .legal-list {
+    list-style: none;
+    margin: 0 0 0.9rem;
+    padding: 0;
+  }
+  .legal-list li {
+    font-size: 0.93rem;
+    line-height: 1.7;
+    padding: 0.2rem 0;
+    border-bottom: 1px dashed var(--border);
+  }
+  .legal-list li:last-child {
+    border-bottom: 0;
+  }
+  .legal code {
+    font-size: 0.85em;
+    background: #f2f2f2;
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+  }
+</style>
