@@ -10,6 +10,13 @@ const articles = defineCollection({
     excerpt: z.string().optional(),
     image: z.string().optional(),
     urlPath: z.string(),
+    /**
+     * Position fixe dans le flux de la page d'accueil (1 = premier article).
+     * Un article qui porte ce champ est retiré du classement par date puis
+     * réinséré à l'emplacement demandé ; le reste du flux continue de défiler
+     * normalement. Absent = classement normal par date décroissante.
+     */
+    homePosition: z.number().optional(),
   }),
 });
 

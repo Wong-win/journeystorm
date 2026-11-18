@@ -36,6 +36,9 @@
         "urlPath": {
           "type": "string"
         },
+        "homePosition": {
+          "type": "number"
+        },
         "$schema": {
           "type": "string"
         }

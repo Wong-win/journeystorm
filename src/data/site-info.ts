@@ -87,6 +87,12 @@ export const siteInfo = {
       cookies: "Identifiant de campagne « P513A7F5814031D3 », transmise au réseau d'affiliation lors du clic.",
       privacyPolicy: "https://www.vacancesbleues.fr/",
     },
+    {
+      name: "Maëva (Kwanko)",
+      purpose: "Mesure des clics vers les offres de locations de vacances, campings et résidences de tourisme.",
+      cookies: "Identifiant de campagne « P5138615814031D1 », transmise au réseau d'affiliation lors du clic.",
+      privacyPolicy: "https://www.maeva.com/fr-fr/mentions-legales",
+    },
   ] as const,
 
   /**

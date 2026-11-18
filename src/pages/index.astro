@@ -6,8 +6,26 @@ const allArticles = (await getCollection("articles")).sort((a, b) =>
   b.data.date.localeCompare(a.data.date)
 );
 
-const hero = allArticles[0];
-const grid = allArticles.slice(1);
+/**
+ * Certains articles portent une position fixe sur la page d'accueil
+ * (champ `homePosition` du frontmatter). Ils sont retirés du classement par
+ * date puis réinsérés à l'emplacement demandé : le reste du flux continue de
+ * défiler normalement, seul l'article fixé reste à sa place.
+ */
+const fixed = allArticles
+  .filter((a) => typeof a.data.homePosition === "number")
+  .sort((a, b) => (a.data.homePosition as number) - (b.data.homePosition as number));
+
+const flowing = allArticles.filter((a) => typeof a.data.homePosition !== "number");
+
+const ordered = [...flowing];
+for (const a of fixed) {
+  const pos = Math.min(Math.max(a.data.homePosition as number, 1), ordered.length + 1);
+  ordered.splice(pos - 1, 0, a);
+}
+
+const hero = ordered[0];
+const grid = ordered.slice(1);
 ---
 
 <Layout title="Accueil" description="Découvrez le monde avec JourneyStorm — guides de voyage, conseils et inspiration pour vos prochaines aventures en Afrique, Amérique, Asie et Europe.">
