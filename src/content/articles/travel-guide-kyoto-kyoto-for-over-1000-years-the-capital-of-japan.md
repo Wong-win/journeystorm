@@ -1,12 +1,12 @@
 ---
 title: "Guide de voyage Kyoto - Kyoto, pendant plus de 1000 ans la capitale du Japon"
 date: "2025-11-03"
-postSlug: "travel-guide-kyoto-kyoto-for-over-1000-years-the-capital-of-japan"
+postSlug: "guide-voyage-kyoto-kyoto-pendant-1000-ans-capitale-japon"
 image: "/images/travel-guide-kyoto-kyoto-for-over-1000-years-the-capital-of-japan.jpg"
 categories: ["Asie", "Destinations"]
 categorySlugs: ["asia", "destinations"]
 excerpt: "Kyoto, l’ancienne capitale impériale du Japon, a conservé ce statut prestigieux pendant plus d’un millénaire, à partir de 794. Souvent appelée la « Capitale de l’Ouest », elle a été minutieusement conçue en s’inspirant des grandes villes de Chine. Remarquablement, Kyoto est restée indemne des ravages de la Seconde Guerre mondiale, préservant un…"
-urlPath: "/travel-guide-kyoto-kyoto-for-over-1000-years-the-capital-of-japan/"
+urlPath: "/guide-voyage-kyoto-kyoto-pendant-1000-ans-capitale-japon/"
 ---
 
 <p>Kyoto, l&rsquo;ancienne capitale imp&eacute;riale du Japon, a conserv&eacute; ce statut prestigieux pendant plus d&rsquo;un mill&eacute;naire, &agrave; partir de 794. Souvent appel&eacute;e la &laquo;&nbsp;Capitale de l&rsquo;Ouest&nbsp;&raquo;, elle a &eacute;t&eacute; minutieusement con&ccedil;ue en s&rsquo;inspirant des grandes villes de Chine. Remarquablement, Kyoto est rest&eacute;e indemne des ravages de la Seconde Guerre mondiale, pr&eacute;servant un t&eacute;moignage vivant de la richesse historique et de la prosp&eacute;rit&eacute; du Japon. Ses rues pav&eacute;es portent les &eacute;chos du pass&eacute;, orn&eacute;es de maisons de ville du XIe si&egrave;cle, d&rsquo;&eacute;l&eacute;gantes geishas en tenue blanche et de temples centenaires. Tout au long de l&rsquo;ann&eacute;e, la beaut&eacute; de Kyoto resplendit, qu&rsquo;il s&rsquo;agisse de la vue enchanteresse du Pavillon d&rsquo;Or recouvert de neige, du Chemin de la Philosophie par&eacute; de cerisiers en fleurs ou des &eacute;rables rouge vif du temple Kiyomizu-dera.</p>

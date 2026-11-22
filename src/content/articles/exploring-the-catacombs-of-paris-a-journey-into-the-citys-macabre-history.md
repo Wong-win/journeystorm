@@ -1,12 +1,12 @@
 ---
 title: "Explorer les Catacombes de Paris : Un Voyage dans l'Histoire Macabre de la Ville"
 date: "2026-04-21"
-postSlug: "exploring-the-catacombs-of-paris-a-journey-into-the-citys-macabre-history"
+postSlug: "explorer-catacombes-paris-voyage-histoire-macabre-ville"
 image: "/images/caption-2-1024x768.jpg"
 categories: ["Europe"]
 categorySlugs: ["europe"]
 excerpt: "  Paris, célèbre pour ses monuments historiques, son art inspirant et son charme romantique, abrite un côté plus sombre sous ses rues animées : les Catacombes de Paris. Ce monde caché offre aux visiteurs une exploration unique de l’histoire enfouie de la ville, à travers des milliers d’ossements anciens. Voici…"
-urlPath: "/exploring-the-catacombs-of-paris-a-journey-into-the-citys-macabre-history/"
+urlPath: "/explorer-catacombes-paris-voyage-histoire-macabre-ville/"
 ---
 
 <p>&nbsp;</p>

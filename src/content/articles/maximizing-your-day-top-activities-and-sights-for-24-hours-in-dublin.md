@@ -1,12 +1,12 @@
 ---
 title: "Optimiser votre journée : Les meilleures activités et sites à voir en 24 heures à Dublin"
 date: "2025-09-09"
-postSlug: "maximizing-your-day-top-activities-and-sights-for-24-hours-in-dublin"
+postSlug: "optimiser-journee-meilleures-activites-sites-voir-24-heures"
 image: "/images/Guided-Walking-Tour-of-Book-of-Kells-and-Trinity-College-Dublin-2023-Viator.jpg"
 categories: ["Destinations", "Europe"]
 categorySlugs: ["destinations", "europe"]
 excerpt: "Si vous n’avez qu’une journée pour découvrir le charme de Dublin, ne vous inquiétez pas. Ce guide concis est conçu pour vous aider à profiter pleinement de l’essence de la capitale irlandaise en un temps limité, en couvrant à la fois les aventures en plein air et les monuments incontournables. Optimisez votre temps à…"
-urlPath: "/maximizing-your-day-top-activities-and-sights-for-24-hours-in-dublin/"
+urlPath: "/optimiser-journee-meilleures-activites-sites-voir-24-heures/"
 ---
 
 <p>Si vous n'avez qu'une journée pour découvrir le charme de Dublin, ne vous inquiétez pas. Ce guide concis est conçu pour vous aider à profiter pleinement de l'essence de la capitale irlandaise en un temps limité, en couvrant à la fois les aventures en plein air et les monuments incontournables.</p>

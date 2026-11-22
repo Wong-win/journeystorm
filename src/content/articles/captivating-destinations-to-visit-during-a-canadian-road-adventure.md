@@ -1,12 +1,12 @@
 ---
 title: "Destinations captivantes à visiter lors d'une aventure routière canadienne"
 date: "2025-12-08"
-postSlug: "captivating-destinations-to-visit-during-a-canadian-road-adventure"
+postSlug: "destinations-captivantes-visiter-lors-aventure-routiere"
 image: "/images/Cathedral-Grove-U.S.-National-Park-Service.jpg"
 categories: ["Road Trip"]
 categorySlugs: ["road-trip"]
 excerpt: "Le Canada, le deuxième plus grand pays du monde, offre un éventail de joyaux, célèbres ou cachés, aux voyageurs qui entreprennent un périple routier canadien. L'immensité du pays garantit une multitude d'attractions, assurant une expérience enrichissante aux visiteurs. Décider où s'arrêter lors de votre long voyage routier au Canada peut être un défi…"
-urlPath: "/captivating-destinations-to-visit-during-a-canadian-road-adventure/"
+urlPath: "/destinations-captivantes-visiter-lors-aventure-routiere/"
 ---
 
 <p style="border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; margin: 0px 0px 1.25em; color: var(--text-primary); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Le Canada, le deuxième plus grand pays du monde, offre un éventail de joyaux, célèbres ou cachés, aux voyageurs qui entreprennent un périple routier canadien. L'immensité du pays garantit une multitude d'attractions, assurant une expérience enrichissante aux visiteurs. Décider où s'arrêter lors de votre long voyage routier au Canada peut être un défi en raison de l'abondance de choix.</p>

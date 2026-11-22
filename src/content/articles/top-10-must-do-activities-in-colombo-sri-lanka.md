@@ -1,12 +1,12 @@
 ---
 title: "Top 10 des activités incontournables à Colombo, au Sri Lanka"
 date: "2026-03-22"
-postSlug: "top-10-must-do-activities-in-colombo-sri-lanka"
+postSlug: "top-10-activites-incontournables-colombo-sri-lanka"
 image: "/images/Book-Sri-Lanka-Anuradhapura-Polonnaruwa-Sigiriya-Minneriya-Dambulla-Kandy-Nuwara-Eliya-Ella-Diyaluma-Waterfall-Yala-National-Park-Mirissa-Galle-Bentota-Colombo-tour-packages-Tripoto.webp"
 categories: ["Asie", "Destinations"]
 categorySlugs: ["asia", "destinations"]
 excerpt: "Vous prevoyez de vous rendre au Sri Lanka ? C’est une excellente décision ! Si vous entreprenez ce voyage, vous commencerez très probablement par Colombo, la capitale dynamique et trépidante du pays. La ville de Colombo est vivante, riche d’un patrimoine et d’une tapisserie culturelle diversifiée. C’est une métropole bourdonnante,…"
-urlPath: "/top-10-must-do-activities-in-colombo-sri-lanka/"
+urlPath: "/top-10-activites-incontournables-colombo-sri-lanka/"
 ---
 
 <p>Vous prevoyez de vous rendre au Sri Lanka ? C'est une excellente décision ! Si vous entreprenez ce voyage, vous commencerez très probablement par Colombo, la capitale dynamique et trépidante du pays.</p>

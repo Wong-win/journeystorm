@@ -1,12 +1,12 @@
 ---
 title: "Les meilleures destinations de road trip aux États-Unis pour un voyage mémorable entre amis"
 date: "2025-09-24"
-postSlug: "top-usa-road-trip-destinations-for-a-memorable-journey-with-friends"
+postSlug: "meilleures-destinations-road-trip-etats-unis-voyage-memorable"
 image: "/images/10-Most-Popular-Neighbourhoods-in-New-Orleans-Where-to-Stay-in-New-Orleans-–-Go-Guides.jpg"
 categories: ["Road Trip"]
 categorySlugs: ["road-trip"]
 excerpt: "Vous vous préparez pour une aventure de road trip avec vos amis ? Bonne nouvelle, vous êtes au bon endroit pour trouver l'inspiration ! J'ai parcouru diverses sources et rassemblé les meilleurs endroits aux États-Unis à visiter absolument lors d'un road trip entre amis. Étant en dernière année d'université…"
-urlPath: "/top-usa-road-trip-destinations-for-a-memorable-journey-with-friends/"
+urlPath: "/meilleures-destinations-road-trip-etats-unis-voyage-memorable/"
 ---
 
 <p style="border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; margin: 0px 0px 1.25em; color: var(--text-primary); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Vous vous préparez pour une aventure de road trip avec vos amis ? Bonne nouvelle, vous êtes au bon endroit pour trouver l'inspiration ! J'ai parcouru diverses sources et rassemblé les meilleurs endroits aux États-Unis à visiter absolument lors d'un road trip entre amis.</p>

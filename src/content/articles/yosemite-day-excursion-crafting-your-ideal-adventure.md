@@ -1,12 +1,12 @@
 ---
 title: "Excursion d'une Journée à Yosemite : Créer Votre Aventure Idéale !"
 date: "2025-08-10"
-postSlug: "yosemite-day-excursion-crafting-your-ideal-adventure"
+postSlug: "excursion-journee-yosemite-creer-aventure-ideale"
 image: "/images/gxo34vm6abfz.jpg"
 categories: ["Amérique", "Destinations"]
 categorySlugs: ["america", "destinations"]
 excerpt: "Bonjour, chasseur d’aventures ! Vous devez être intrigué par le charme mystérieux de Yosemite, un lieu qui murmure des histoires de merveille et de beauté. Alors, vous avez décidé de vous imprégner des splendeurs de Yosemite, même si ce n’est que pour une journée glorieuse. Bonne nouvelle : la splendeur…"
-urlPath: "/yosemite-day-excursion-crafting-your-ideal-adventure/"
+urlPath: "/excursion-journee-yosemite-creer-aventure-ideale/"
 ---
 
 <p>Bonjour, chasseur d'aventures ! Vous devez être intrigué par le charme mystérieux de Yosemite, un lieu qui murmure des histoires de merveille et de beauté.</p>

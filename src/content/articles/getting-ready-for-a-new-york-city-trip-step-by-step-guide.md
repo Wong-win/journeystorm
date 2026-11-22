@@ -1,12 +1,12 @@
 ---
 title: "Se Préparer pour un Voyage à New York : Guide Étape par Étape"
 date: "2026-02-25"
-postSlug: "getting-ready-for-a-new-york-city-trip-step-by-step-guide"
+postSlug: "se-preparer-voyage-new-york-guide-etape-etape"
 image: "/images/New-York-City-Travel-Guide-Chill.jpg"
 categories: ["Conseils de voyage"]
 categorySlugs: ["travel-tips"]
 excerpt: "Si vous vous aventurez à New York sans aucune préparation, vous pourriez rapidement vous sentir submergé par l’énergie trépidante de la Grosse Pomme. Cela pourrait vous faire manquer l’expérience complète, ce qui serait dommage, d’autant plus qu’un voyage à New York est souvent un événement unique dans une vie. Heureusement, il existe…"
-urlPath: "/getting-ready-for-a-new-york-city-trip-step-by-step-guide/"
+urlPath: "/se-preparer-voyage-new-york-guide-etape-etape/"
 ---
 
 <p style="border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; margin: 0px 0px 1.25em; color: var(--text-primary); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Si vous vous aventurez à New York sans aucune préparation, vous pourriez rapidement vous sentir submergé par l&#8217;énergie trépidante de la Grosse Pomme. Cela pourrait vous faire manquer l&#8217;expérience complète, ce qui serait dommage, d&#8217;autant plus qu&#8217;un voyage à New York est souvent un événement unique dans une vie. Heureusement, il existe plusieurs façons de vous préparer pour votre voyage, et nous allons explorer quelques stratégies clés.</p>

@@ -1,12 +1,12 @@
 ---
 title: "Plongée sous-marine à Goa : une aventure sous-marine inoubliable"
 date: "2026-01-02"
-postSlug: "scuba-diving-in-goa-an-unforgettable-underwater-adventure"
+postSlug: "plongee-marine-goa-aventure-marine-inoubliable"
 image: "/images/goa-plongee-cover.jpg"
 categories: ["Asie", "Destinations"]
 categorySlugs: ["asia", "destinations"]
 excerpt: "Goa, avec son littoral magnifique et sa riche vie marine, offre une expérience de plongée sous-marine à la fois exaltante et sereine. Les eaux claires et chaudes de la mer d’Oman créent un environnement idéal pour les débutants comme pour les plongeurs expérimentés. 1. Meilleurs sites de plongée à Goa Grande Island : Connue pour ses eaux claires…"
-urlPath: "/scuba-diving-in-goa-an-unforgettable-underwater-adventure/"
+urlPath: "/plongee-marine-goa-aventure-marine-inoubliable/"
 ---
 
 <p>Goa, avec son littoral magnifique et sa riche vie marine, offre une expérience de plongée sous-marine à la fois exaltante et sereine. Les eaux claires et chaudes de la mer d&#8217;Oman créent un environnement idéal pour les débutants comme pour les plongeurs expérimentés.</p>

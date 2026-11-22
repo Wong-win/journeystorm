@@ -1,12 +1,12 @@
 ---
 title: "Guide ultime des meilleures croisières sur le Nil"
 date: "2025-11-08"
-postSlug: "ultimate-guide-to-the-best-nile-river-cruises"
+postSlug: "guide-ultime-meilleures-croisieres-nil"
 image: "/images/ultimate-guide-to-the-best-nile-river-cruises.jpg"
 categories: ["Afrique", "Destinations", "Conseils de voyage"]
 categorySlugs: ["africa", "destinations", "travel-tips"]
 excerpt: "Avez-vous déjà imaginé embarquer pour un voyage épique mêlant parfaitement histoire, culture et paysages à couper le souffle ? Les croisières sur le Nil sont la réponse. Imaginez-vous glisser le long du Nil légendaire, plongeant au cœur de l'Égypte ancienne, tout en profitant du confort d'hébergements luxueux et d'une cuisine délicieuse…."
-urlPath: "/ultimate-guide-to-the-best-nile-river-cruises/"
+urlPath: "/guide-ultime-meilleures-croisieres-nil/"
 ---
 
 <p>Avez-vous déjà imaginé embarquer pour un voyage épique mêlant parfaitement histoire, culture et paysages à couper le souffle ? Les croisières sur le Nil sont la réponse. Imaginez-vous glisser le long du Nil légendaire, plongeant au cœur de l'Égypte ancienne, tout en profitant du confort d'hébergements luxueux et d'une cuisine délicieuse.</p>

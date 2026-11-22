@@ -1,12 +1,12 @@
 ---
 title: "Les Meilleurs Sentiers de Randonnée Pittoresques, Lacs et Points de Repère en Andorre"
 date: "2026-03-27"
-postSlug: "top-scenic-hiking-trails-lakes-and-landmarks-in-andorra"
+postSlug: "meilleurs-sentiers-randonnee-pittoresques-lacs-points-repere"
 image: "/images/Andorra-Tourism-Travel-Experiences-WhereNext.jpg"
 categories: ["Destinations", "Europe"]
 categorySlugs: ["destinations", "europe"]
 excerpt: "Saviez-vous que l’Andorre, une petite nation nichée au milieu des montagnes des Pyrénées, offre certaines des opportunités de randonnée les plus impressionnantes de toute l’Europe ? Dans ses magnificents parcs naturels, les randonneurs ont l’occasion de s’immerger dans la beauté des lacs alpins et de savourer l’aventure unique de la…"
-urlPath: "/top-scenic-hiking-trails-lakes-and-landmarks-in-andorra/"
+urlPath: "/meilleurs-sentiers-randonnee-pittoresques-lacs-points-repere/"
 ---
 
 <p>Saviez-vous que l'Andorre, une petite nation nichée au milieu des montagnes des Pyrénées, offre certaines des opportunités de randonnée les plus impressionnantes de toute l'Europe ? Dans ses magnificents parcs naturels, les randonneurs ont l'occasion de s'immerger dans la beauté des lacs alpins et de savourer l'aventure unique de la randonnée à de hautes altitudes. Que vous cherchiez un sentier de randonnée communautaire ou une ascension montagneuse exigeante, ce parc naturel abonde en options pour répondre à vos désirs.</p>

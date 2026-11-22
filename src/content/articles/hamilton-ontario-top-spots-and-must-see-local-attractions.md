@@ -1,12 +1,12 @@
 ---
 title: "Hamilton, Ontario : les meilleurs endroits et attractions locales incontournables"
 date: "2026-02-10"
-postSlug: "hamilton-ontario-top-spots-and-must-see-local-attractions"
+postSlug: "hamilton-ontario-meilleurs-endroits-attractions-locales"
 image: "/images/hamilton-ontario-top-spots-and-must-see-local-attractions.jpg"
 categories: ["Amérique", "Destinations"]
 categorySlugs: ["america", "destinations"]
 excerpt: "Bienvenue à Hamilton au Canada, une ville dynamique où l’histoire et la culture se rencontrent pour créer une expérience captivante. Célèbre pour ses quartiers éclectiques, Hamilton est un joyau de l’Ontario, offrant à la fois une beauté naturelle et une vitalité urbaine. Ses quartiers nord sont aussi charmants que son centre-ville, s’adressant aux étudiants de…"
-urlPath: "/hamilton-ontario-top-spots-and-must-see-local-attractions/"
+urlPath: "/hamilton-ontario-meilleurs-endroits-attractions-locales/"
 ---
 
 <p>Bienvenue à Hamilton au Canada, une ville dynamique où l&#8217;histoire et la culture se rencontrent pour créer une expérience captivante. Célèbre pour ses quartiers éclectiques, Hamilton est un joyau de l&#8217;Ontario, offrant à la fois une beauté naturelle et une vitalité urbaine. Ses quartiers nord sont aussi charmants que son centre-ville, s&#8217;adressant aux étudiants des établissements comme l&#8217;Université McMaster et aux aventuriers.</p>

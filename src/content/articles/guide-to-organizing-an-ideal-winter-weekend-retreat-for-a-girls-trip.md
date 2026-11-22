@@ -1,12 +1,12 @@
 ---
 title: "Guide pour organiser une retraite idéale d'un week-end d'hiver entre filles"
 date: "2025-12-23"
-postSlug: "guide-to-organizing-an-ideal-winter-weekend-retreat-for-a-girls-trip"
+postSlug: "guide-organiser-retraite-ideale-week-end-hiver-entre-filles"
 image: "/images/guide-to-organizing-an-ideal-winter-weekend-retreat-for-a-girls-trip.jpg"
 categories: ["Conseils de voyage"]
 categorySlugs: ["travel-tips"]
 excerpt: "Quoi de plus agréable que d'emmener vos amies les plus chères pour un week-end de détente et de plaisir ? Imaginez-vous échapper dans un cadre tranquille, que ce soit un vignoble, un havre au bord d'un lac ou un refuge douillet en forêt, où le chaos de la vie quotidienne s'estompe. Les week-ends d'hiver sont faits pour se détendre…"
-urlPath: "/guide-to-organizing-an-ideal-winter-weekend-retreat-for-a-girls-trip/"
+urlPath: "/guide-organiser-retraite-ideale-week-end-hiver-entre-filles/"
 ---
 
 <p>Quoi de plus agréable que d'emmener vos amies les plus chères pour un week-end de détente et de plaisir ? Imaginez-vous échapper dans un cadre tranquille, que ce soit un vignoble, un havre au bord d'un lac ou un refuge douillet en forêt, où le chaos de la vie quotidienne s'estompe. Les week-ends d'hiver sont faits pour se détendre et rester au chaud, un plan parfait si vous êtes dans une région froide ou si vous vous dirigez vers une destination enneigée. Voici un guide complet pour transformer votre escapade hivernale entre filles en une expérience inoubliable !</p>

@@ -1,12 +1,12 @@
 ---
 title: "10 recommandations de voyage tendance pour explorer Manchester"
 date: "2025-11-18"
-postSlug: "10-trendy-travel-recommendations-for-exploring-manchester"
+postSlug: "10-recommandations-voyage-tendance-explorer-manchester"
 image: "/images/10-Most-Iconic-Buildings-in-Manchester-Discover-the-Most-Famous-Landmarks-of-Manchester-–-Go-Guides.jpg"
 categories: ["Destinations", "Europe"]
 categorySlugs: ["destinations", "europe"]
 excerpt: "Pousse-toi, Londres – Manchester, avec ses bars animés, ses cafés branchés et sa scène musicale légendaire, devient rapidement la destination la plus en vogue du Royaume-Uni. Fière d’abriter l’Université de Manchester et affectueusement surnommée ‘La capitale du Nord’, Manchester est une ville riche en culture et…"
-urlPath: "/10-trendy-travel-recommendations-for-exploring-manchester/"
+urlPath: "/10-recommandations-voyage-tendance-explorer-manchester/"
 ---
 
 <p style="border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; margin: 0px 0px 1.25em; color: var(--text-primary); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Pousse-toi, Londres – Manchester, avec ses bars animés, ses cafés branchés et sa scène musicale légendaire, devient rapidement la destination la plus en vogue du Royaume-Uni.</p>

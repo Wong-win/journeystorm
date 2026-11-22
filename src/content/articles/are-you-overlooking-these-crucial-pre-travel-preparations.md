@@ -1,12 +1,12 @@
 ---
 title: "Négligez-vous ces préparatifs de voyage essentiels ?"
 date: "2025-09-14"
-postSlug: "are-you-overlooking-these-crucial-pre-travel-preparations"
+postSlug: "negligez-vous-preparatifs-voyage-essentiels"
 image: "/images/are-you-overlooking-these-crucial-pre-travel-preparations.jpg"
 categories: ["Conseils de voyage"]
 categorySlugs: ["travel-tips"]
 excerpt: "Vous préparez-vous pour un voyage international vers une destination palpitante ? Peut-être que votre itinéraire comprend un voyage en Afrique du Sud, une excursion pour admirer les aurores boréales, une visite d'un spectacle à Broadway ou l'occasion d'admirer l'Opéra de Sydney. Quelle que soit votre destination, il est essentiel de bien préparer…"
-urlPath: "/are-you-overlooking-these-crucial-pre-travel-preparations/"
+urlPath: "/negligez-vous-preparatifs-voyage-essentiels/"
 ---
 
 <p style="border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; margin: 0px 0px 1.25em; color: var(--text-primary); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Vous préparez-vous pour un voyage international vers une destination palpitante ?</p>
