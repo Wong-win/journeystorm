@@ -108,3 +108,18 @@ h1,h2,h3,h4 { font-family: var(--font-serif); color: var(--heading); line-height
   .featured-3col, .mixed-block, .latest-grid { grid-template-columns: 1fr; }
   .post-grid { grid-template-columns: 1fr; }
 }
+
+/* Homepage ad banner (Kwanko 728x90) */
+.ad-banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: var(--max-w);
+  margin: 0 auto 48px;
+  padding: 0 20px;
+  overflow: hidden;
+}
+.ad-banner iframe { border: 0; max-width: 100%; }
+@media (max-width: 760px) {
+  .ad-banner { justify-content: flex-start; overflow-x: auto; }
+}

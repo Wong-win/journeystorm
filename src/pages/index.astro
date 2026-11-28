@@ -51,6 +51,45 @@ const grid = ordered.slice(1);
     </section>
   )}
 
+  <!-- AD BANNER (Kwanko 728x90) — sous le hero, chargé seulement après
+       consentement à la catégorie « partenaires d'affiliation ». -->
+  <section class="ad-banner" id="ad-banner-voyage" aria-label="Publicité">
+    <script is:inline>
+      (function () {
+        var loaded = false;
+        var box = document.getElementById("ad-banner-voyage");
+
+        function loadKwanko() {
+          if (loaded) return;
+          loaded = true;
+          var s = document.createElement("script");
+          s.type = "text/javascript";
+          s.src = "https://img.metaffiliation.com/na/na/res/trk/script.js";
+          s.async = true;
+          s.onload = function () {
+            try {
+              // Le SDK ne retrouve pas ici de script inline assez court :
+              // l'identifiant du conteneur est passé explicitement.
+              window.KwankoSDKLoader.getSlot("S5132775814031D19", { uid: "ad-banner-voyage" });
+            } catch (e) {}
+          };
+          document.head.appendChild(s);
+        }
+
+        function applyConsent(consent) {
+          var allowed = !!(consent && consent.affiliates);
+          if (box) box.style.display = allowed ? "" : "none";
+          if (allowed) loadKwanko();
+        }
+
+        applyConsent(window.JS_CONSENT ? window.JS_CONSENT.get() : null);
+        window.addEventListener("js:consent-changed", function (e) {
+          applyConsent(e.detail);
+        });
+      })();
+    </script>
+  </section>
+
   <!-- 3-COLUMN GRID -->
   <section class="home-section">
     <div class="three-col-grid">
